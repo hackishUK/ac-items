@@ -85016,6 +85016,11 @@
   "hex": "yZmWics9hzI"
  },
  {
+  "itemName": "Communicator Part",
+  "internalName": "JohnnyQuest1",
+  "hex": "hUE5RiTWFZY"
+ },
+ {
   "itemName": "Conch",
   "internalName": "ShellDriftHora",
   "hex": "7w0e1D1GuuQ"
@@ -85617,6 +85622,11 @@
   "hex": "xNLpql2zRRI"
  },
  {
+  "itemName": "Rusted Part",
+  "internalName": "JohnnyQuestDust1",
+  "hex": "Yl3KShhIOkQ"
+ },
+ {
   "itemName": "Sagittarius Fragment x10",
   "internalName": "StarpieceSagittarius",
   "hex": "JM2ViivefLM"
@@ -86055,6 +86065,11 @@
   "itemName": "Young Yellow Tea Olive",
   "internalName": "PltBushOsmathusYellow1",
   "hex": "cuGTDh4yhKU"
+ },
+ {
+  "hex": "I9rTnR0z37M",
+  "itemName": "Nook Miles Ticket x10",
+  "internalName": "MilePlaneTicket"
  },
  {
   "hex": "tlIIEYOUlmk",
