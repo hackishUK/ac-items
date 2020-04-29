@@ -9195,6 +9195,126 @@
   "hex": "sMfus6oSWrY"
  },
  {
+  "itemName": "Log Chair",
+  "color": "Dark wood-None",
+  "internalName": "FtrLogSofaS_Remake_0_0",
+  "hex": "DQnKdB60BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Dark wood-Southwestern flair",
+  "internalName": "FtrLogSofaS_Remake_0_1",
+  "hex": "DQnKdBy0BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Dark wood-Geometric print",
+  "internalName": "FtrLogSofaS_Remake_0_2",
+  "hex": "DQnKdBq0BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Dark wood-Bears",
+  "internalName": "FtrLogSofaS_Remake_0_3",
+  "hex": "DQnKdBi0BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Dark wood-Quilted",
+  "internalName": "FtrLogSofaS_Remake_0_4",
+  "hex": "DQnKdBa0BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Orange wood-None",
+  "internalName": "FtrLogSofaS_Remake_1_0",
+  "hex": "DQnKdB61BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Orange wood-Southwestern flair",
+  "internalName": "FtrLogSofaS_Remake_1_1",
+  "hex": "DQnKdBy1BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Orange wood-Geometric print",
+  "internalName": "FtrLogSofaS_Remake_1_2",
+  "hex": "DQnKdBq1BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Orange wood-Bears",
+  "internalName": "FtrLogSofaS_Remake_1_3",
+  "hex": "DQnKdBi1BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "Orange wood-Quilted",
+  "internalName": "FtrLogSofaS_Remake_1_4",
+  "hex": "DQnKdBa1BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White wood-None",
+  "internalName": "FtrLogSofaS_Remake_2_0",
+  "hex": "DQnKdB62BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White wood-Southwestern flair",
+  "internalName": "FtrLogSofaS_Remake_2_1",
+  "hex": "DQnKdBy2BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White wood-Geometric print",
+  "internalName": "FtrLogSofaS_Remake_2_2",
+  "hex": "DQnKdBq2BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White wood-Bears",
+  "internalName": "FtrLogSofaS_Remake_2_3",
+  "hex": "DQnKdBi2BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White wood-Quilted",
+  "internalName": "FtrLogSofaS_Remake_2_4",
+  "hex": "DQnKdBa2BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White birch-None",
+  "internalName": "FtrLogSofaS_Remake_3_0",
+  "hex": "DQnKdB63BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White birch-Southwestern flair",
+  "internalName": "FtrLogSofaS_Remake_3_1",
+  "hex": "DQnKdBy3BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White birch-Geometric print",
+  "internalName": "FtrLogSofaS_Remake_3_2",
+  "hex": "DQnKdBq3BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White birch-Bears",
+  "internalName": "FtrLogSofaS_Remake_3_3",
+  "hex": "DQnKdBi3BmQ"
+ },
+ {
+  "itemName": "Log Chair",
+  "color": "White birch-Quilted",
+  "internalName": "FtrLogSofaS_Remake_3_4",
+  "hex": "DQnKdBa3BmQ"
+ },
+ {
   "itemName": "Log Decorative Shelves",
   "color": "Dark wood-None",
   "internalName": "FtrLogShelf_Remake_0_0",
@@ -9793,126 +9913,6 @@
   "color": "White birch-Quilted",
   "internalName": "FtrLogTableLRound_Remake_3_4",
   "hex": "7dXCIpiF3nw"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Dark wood-None",
-  "internalName": "FtrLogSofaS_Remake_0_0",
-  "hex": "DQnKdB60BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Dark wood-Southwestern flair",
-  "internalName": "FtrLogSofaS_Remake_0_1",
-  "hex": "DQnKdBy0BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Dark wood-Geometric print",
-  "internalName": "FtrLogSofaS_Remake_0_2",
-  "hex": "DQnKdBq0BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Dark wood-Bears",
-  "internalName": "FtrLogSofaS_Remake_0_3",
-  "hex": "DQnKdBi0BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Dark wood-Quilted",
-  "internalName": "FtrLogSofaS_Remake_0_4",
-  "hex": "DQnKdBa0BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Orange wood-None",
-  "internalName": "FtrLogSofaS_Remake_1_0",
-  "hex": "DQnKdB61BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Orange wood-Southwestern flair",
-  "internalName": "FtrLogSofaS_Remake_1_1",
-  "hex": "DQnKdBy1BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Orange wood-Geometric print",
-  "internalName": "FtrLogSofaS_Remake_1_2",
-  "hex": "DQnKdBq1BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Orange wood-Bears",
-  "internalName": "FtrLogSofaS_Remake_1_3",
-  "hex": "DQnKdBi1BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "Orange wood-Quilted",
-  "internalName": "FtrLogSofaS_Remake_1_4",
-  "hex": "DQnKdBa1BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White wood-None",
-  "internalName": "FtrLogSofaS_Remake_2_0",
-  "hex": "DQnKdB62BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White wood-Southwestern flair",
-  "internalName": "FtrLogSofaS_Remake_2_1",
-  "hex": "DQnKdBy2BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White wood-Geometric print",
-  "internalName": "FtrLogSofaS_Remake_2_2",
-  "hex": "DQnKdBq2BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White wood-Bears",
-  "internalName": "FtrLogSofaS_Remake_2_3",
-  "hex": "DQnKdBi2BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White wood-Quilted",
-  "internalName": "FtrLogSofaS_Remake_2_4",
-  "hex": "DQnKdBa2BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White birch-None",
-  "internalName": "FtrLogSofaS_Remake_3_0",
-  "hex": "DQnKdB63BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White birch-Southwestern flair",
-  "internalName": "FtrLogSofaS_Remake_3_1",
-  "hex": "DQnKdBy3BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White birch-Geometric print",
-  "internalName": "FtrLogSofaS_Remake_3_2",
-  "hex": "DQnKdBq3BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White birch-Bears",
-  "internalName": "FtrLogSofaS_Remake_3_3",
-  "hex": "DQnKdBi3BmQ"
- },
- {
-  "itemName": "Log Chair",
-  "color": "White birch-Quilted",
-  "internalName": "FtrLogSofaS_Remake_3_4",
-  "hex": "DQnKdBa3BmQ"
  },
  {
   "itemName": "Log Stakes",
@@ -73466,9 +73466,21 @@
  },
  {
   "itemName": "New Year's Hat",
+  "color": "Red",
+  "internalName": "CapHatNewyearRed",
+  "hex": "O0d5qPMbyn4"
+ },
+ {
+  "itemName": "New Year's Hat",
   "color": "Blue",
   "internalName": "CapHatNewyearBlue",
   "hex": "O0EvzPMbyn4"
+ },
+ {
+  "itemName": "New Year's Hat",
+  "color": "Yellow",
+  "internalName": "CapHatNewyearYellow",
+  "hex": "O0EvzfMbyn4"
  },
  {
   "itemName": "New Year's Hat",
@@ -73478,21 +73490,9 @@
  },
  {
   "itemName": "New Year's Hat",
-  "color": "Light blue",
-  "internalName": "CapHatNewyearLightblue",
-  "hex": "O0Ev9vMbyn4"
- },
- {
-  "itemName": "New Year's Hat",
   "color": "Orange",
   "internalName": "CapHatNewyearOrange",
   "hex": "O0EvRzMbyn4"
- },
- {
-  "itemName": "New Year's Hat",
-  "color": "Pink",
-  "internalName": "CapHatNewyearPink",
-  "hex": "O0EvRfMbyn4"
  },
  {
   "itemName": "New Year's Hat",
@@ -73502,51 +73502,15 @@
  },
  {
   "itemName": "New Year's Hat",
-  "color": "Red",
-  "internalName": "CapHatNewyearRed",
-  "hex": "O0d5qPMbyn4"
+  "color": "Pink",
+  "internalName": "CapHatNewyearPink",
+  "hex": "O0EvRfMbyn4"
  },
  {
   "itemName": "New Year's Hat",
-  "color": "Yellow",
-  "internalName": "CapHatNewyearYellow",
-  "hex": "O0EvzfMbyn4"
- },
- {
-  "itemName": "New Year's Silk Hat",
-  "color": "Blue",
-  "internalName": "CapHatNewyearsilkBlue",
-  "hex": "z3NsDa2GqNU"
- },
- {
-  "itemName": "New Year's Silk Hat",
-  "color": "Green",
-  "internalName": "CapHatNewyearsilkGreen",
-  "hex": "z3NsC62GqNU"
- },
- {
-  "itemName": "New Year's Silk Hat",
   "color": "Light blue",
-  "internalName": "CapHatNewyearsilkLightblue",
-  "hex": "z3NrXq2GqNU"
- },
- {
-  "itemName": "New Year's Silk Hat",
-  "color": "Orange",
-  "internalName": "CapHatNewyearsilkOrange",
-  "hex": "z3NsCq2GqNU"
- },
- {
-  "itemName": "New Year's Silk Hat",
-  "color": "Pink",
-  "internalName": "CapHatNewyearsilkPink",
-  "hex": "z3NrX62GqNU"
- },
- {
-  "itemName": "New Year's Silk Hat",
-  "color": "Purple",
-  "internalName": "CapHatNewyearsilkPurple",
-  "hex": "z3NsCa2GqNU"
+  "internalName": "CapHatNewyearLightblue",
+  "hex": "O0Ev9vMbyn4"
  },
  {
   "itemName": "New Year's Silk Hat",
@@ -73556,9 +73520,45 @@
  },
  {
   "itemName": "New Year's Silk Hat",
+  "color": "Blue",
+  "internalName": "CapHatNewyearsilkBlue",
+  "hex": "z3NsDa2GqNU"
+ },
+ {
+  "itemName": "New Year's Silk Hat",
   "color": "Yellow",
   "internalName": "CapHatNewyearsilkYellow",
   "hex": "z3NsDK2GqNU"
+ },
+ {
+  "itemName": "New Year's Silk Hat",
+  "color": "Green",
+  "internalName": "CapHatNewyearsilkGreen",
+  "hex": "z3NsC62GqNU"
+ },
+ {
+  "itemName": "New Year's Silk Hat",
+  "color": "Orange",
+  "internalName": "CapHatNewyearsilkOrange",
+  "hex": "z3NsCq2GqNU"
+ },
+ {
+  "itemName": "New Year's Silk Hat",
+  "color": "Purple",
+  "internalName": "CapHatNewyearsilkPurple",
+  "hex": "z3NsCa2GqNU"
+ },
+ {
+  "itemName": "New Year's Silk Hat",
+  "color": "Pink",
+  "internalName": "CapHatNewyearsilkPink",
+  "hex": "z3NrX62GqNU"
+ },
+ {
+  "itemName": "New Year's Silk Hat",
+  "color": "Light blue",
+  "internalName": "CapHatNewyearsilkLightblue",
+  "hex": "z3NrXq2GqNU"
  },
  {
   "itemName": "Ninja Hood",
@@ -83062,6 +83062,966 @@
   "itemName": "\u306f\u305a\u308c03",
   "internalName": "mjk_Miss3",
   "hex": "aXZRelANUDE"
+ },
+ {
+  "itemName": "Agrias Butterfly",
+  "hex": "rlEjt118DuU",
+  "internalName": "FtrInsectMiirotateha",
+  "fishbug": true
+ },
+ {
+  "itemName": "Ant",
+  "hex": "5Hn6eRiMndw",
+  "internalName": "FtrInsectAri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Atlas Moth",
+  "hex": "zUm96jabv5c",
+  "internalName": "FtrInsectYonagunisan",
+  "fishbug": true
+ },
+ {
+  "itemName": "Bagworm",
+  "hex": "iXdp982Cbiw",
+  "internalName": "FtrInsectMinomushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Banded Dragonfly",
+  "hex": "EHXcqNPWtNo",
+  "internalName": "FtrInsectOniyanma",
+  "fishbug": true
+ },
+ {
+  "itemName": "Bell Cricket",
+  "hex": "tCg522INHC4",
+  "internalName": "FtrInsectSuzumushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Blue Weevil Beetle",
+  "hex": "gIz8Hc8ctMs",
+  "internalName": "FtrInsectHousekizoumushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Brown Cicada",
+  "hex": "ypuiA0Rcvc8",
+  "internalName": "FtrInsectAburazemi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Centipede",
+  "hex": "2mWSMRWEpDo",
+  "internalName": "FtrInsectMukade",
+  "fishbug": true
+ },
+ {
+  "itemName": "Cicada Shell",
+  "hex": "8sgqtjsXZnU",
+  "internalName": "FtrInsectSeminonukegara",
+  "fishbug": true
+ },
+ {
+  "itemName": "Citrus Long Horned Beetle",
+  "hex": "NtdgzUrnR4E",
+  "internalName": "FtrInsectGomadarakamikiri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Common Bluebottle",
+  "hex": "2RjuhLgZ3mw",
+  "internalName": "FtrInsectAosujiageha",
+  "fishbug": true
+ },
+ {
+  "itemName": "Common Butterfly",
+  "hex": "RqdvR4Kzc08",
+  "internalName": "FtrInsectMonshirocho",
+  "fishbug": true
+ },
+ {
+  "itemName": "Cricket",
+  "hex": "NC6OwQ3ljvs",
+  "internalName": "FtrInsectKohrogi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Cyclommatus Stag",
+  "hex": "TzRRF7Cg8UA",
+  "internalName": "FtrInsectHosoakakuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Damselfly",
+  "hex": "9KrrxgBQQdE",
+  "internalName": "FtrInsectItotonbo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Darner Dragonfly",
+  "hex": "s9gX6JEevOU",
+  "internalName": "FtrInsectGinyanma",
+  "fishbug": true
+ },
+ {
+  "itemName": "Diving Beetle",
+  "hex": "J4w8W26yCKw",
+  "internalName": "FtrInsectGengorou",
+  "fishbug": true
+ },
+ {
+  "itemName": "Drone Beetle",
+  "hex": "k1RbVFRNsTM",
+  "internalName": "FtrInsectKanabun",
+  "fishbug": true
+ },
+ {
+  "itemName": "Dung Beetle",
+  "hex": "21Ma4SCeqM4",
+  "internalName": "FtrInsectFunkorogashi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Earth Boring Dung Beetle",
+  "hex": "PALlzfJoZ3Y",
+  "internalName": "FtrInsectSenchikogane",
+  "fishbug": true
+ },
+ {
+  "itemName": "Emperor Butterfly",
+  "hex": "zxUPV4DCwVQ",
+  "internalName": "FtrInsectMorufuocho",
+  "fishbug": true
+ },
+ {
+  "itemName": "Evening Cicada",
+  "hex": "wUVU1qyYklo",
+  "internalName": "FtrInsectHigurashi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Firefly",
+  "hex": "zzKR0Dry8sM",
+  "internalName": "FtrInsectHotaru",
+  "fishbug": true
+ },
+ {
+  "itemName": "Flea",
+  "hex": "plRuysWLe1U",
+  "internalName": "FtrInsectNomi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Fly",
+  "hex": "Y0HfRzdL4O8",
+  "internalName": "FtrInsectHae",
+  "fishbug": true
+ },
+ {
+  "itemName": "Giant Cicada",
+  "hex": "oRCOeo5vR8s",
+  "internalName": "FtrInsectKumazemi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Giant Stag",
+  "hex": "HXiafV2mN4Y",
+  "internalName": "FtrInsectOhkuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Giant Water Bug",
+  "hex": "d0v4RjznYao",
+  "internalName": "FtrInsectTagame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Giraffe Stag",
+  "hex": "jGdNs0ohkUQ",
+  "internalName": "FtrInsectGirafanokogirikuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Golden Stag",
+  "hex": "qhlhzupe6Z4",
+  "internalName": "FtrInsectOugononikuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Goliath Beetle",
+  "hex": "yGBEesud8yQ",
+  "internalName": "FtrInsectGoraiasuohtsunohanamuguri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Grasshopper",
+  "hex": "RjfN6IOzAH4",
+  "internalName": "FtrInsectKirigirisu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Great Purple Emperor",
+  "hex": "aJbA74LcBDc",
+  "internalName": "FtrInsectOhmurasaki",
+  "fishbug": true
+ },
+ {
+  "itemName": "Hermit Crab",
+  "hex": "fq0XEzWTxLU",
+  "internalName": "FtrInsectYadokari",
+  "fishbug": true
+ },
+ {
+  "itemName": "Honeybee",
+  "hex": "ztfU0Ae2MDI",
+  "internalName": "FtrInsectMitsubachi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Horned Atlas",
+  "hex": "YxrD9V01k38",
+  "internalName": "FtrInsectKohkasasuohkabuto",
+  "fishbug": true
+ },
+ {
+  "itemName": "Horned Dynastid",
+  "hex": "20fuiiZ2QsE",
+  "internalName": "FtrInsectKabutomushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Horned Elephant",
+  "hex": "IKR2Pzs8Yx8",
+  "internalName": "FtrInsectZoukabuto",
+  "fishbug": true
+ },
+ {
+  "itemName": "Horned Hercules",
+  "hex": "Vz2y1o2ZWFY",
+  "internalName": "FtrInsectHerakuresuohkabuto",
+  "fishbug": true
+ },
+ {
+  "itemName": "Jewel Beetle",
+  "hex": "ZrHSGQVPW6c",
+  "internalName": "FtrInsectTamamushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Ladybug",
+  "hex": "v5qxjmtRFJg",
+  "internalName": "FtrInsectTentoumushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Long Locust",
+  "hex": "h3P1Kr6R8z0",
+  "internalName": "FtrInsectShoryobatta",
+  "fishbug": true
+ },
+ {
+  "itemName": "Madagascan Sunset Moth",
+  "hex": "ejzAQysOIeU",
+  "internalName": "FtrInsectNishikiohtsubamega",
+  "fishbug": true
+ },
+ {
+  "itemName": "Man Faced Stink Bug",
+  "hex": "duaRefEewj8",
+  "internalName": "FtrInsectJinmenkamemushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Mantis",
+  "hex": "0izLZbObYZU",
+  "internalName": "FtrInsectKamakiri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Migratory Locust",
+  "hex": "QnST3gzwlJk",
+  "internalName": "FtrInsectTonosamabatta",
+  "fishbug": true
+ },
+ {
+  "itemName": "Miyama Stag",
+  "hex": "ASUDFHP7SN0",
+  "internalName": "FtrInsectMiyamakuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Mole Cricket",
+  "hex": "NdMY78JPsyg",
+  "internalName": "FtrInsectOkera",
+  "fishbug": true
+ },
+ {
+  "itemName": "Monarch Butterfly",
+  "hex": "iNmZFJ2zJ80",
+  "internalName": "FtrInsectOhkabamadara",
+  "fishbug": true
+ },
+ {
+  "itemName": "Mosquito",
+  "hex": "LMqXxXfejKM",
+  "internalName": "FtrInsectKa",
+  "fishbug": true
+ },
+ {
+  "itemName": "Moth",
+  "hex": "E6vgJy8T4Gc",
+  "internalName": "FtrInsectGa",
+  "fishbug": true
+ },
+ {
+  "itemName": "Orchid Mantis",
+  "hex": "zIdUTjZTQDQ",
+  "internalName": "FtrInsectHanakamakiri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Paper Kite Butterfly",
+  "hex": "kcAEkuO1ULc",
+  "internalName": "FtrInsectOhgomamadara",
+  "fishbug": true
+ },
+ {
+  "itemName": "Peacock Butterfly",
+  "hex": "cKN0rMN5aF8",
+  "internalName": "FtrInsectKarasuageha",
+  "fishbug": true
+ },
+ {
+  "itemName": "Pill Bug",
+  "hex": "PvRCbvhIkhw",
+  "internalName": "FtrInsectDangomushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Pondskater",
+  "hex": "zbFoVYVSdj0",
+  "internalName": "FtrInsectAmenbo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Queen Alexandra's Birdwing",
+  "hex": "s87rtQB8MfQ",
+  "internalName": "FtrInsectArekisandoratoribaneageha",
+  "fishbug": true
+ },
+ {
+  "itemName": "Rainbow Stag",
+  "hex": "by9i6Ritq4k",
+  "internalName": "FtrInsectNijiirokuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Rajah Brooke's Birdwing",
+  "hex": "uw3J1UY241w",
+  "internalName": "FtrInsectAkaeritoribaneageha",
+  "fishbug": true
+ },
+ {
+  "itemName": "Red Dragonfly",
+  "hex": "SEIRwRoUPfQ",
+  "internalName": "FtrInsectAkiakane",
+  "fishbug": true
+ },
+ {
+  "itemName": "Rice Grasshopper",
+  "hex": "p3he2oWZyh8",
+  "internalName": "FtrInsectInago",
+  "fishbug": true
+ },
+ {
+  "itemName": "Robust Cicada",
+  "hex": "vzRl7TwVK64",
+  "internalName": "FtrInsectMinminzemi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Rosalia Batesi Beetle",
+  "hex": "8Pqwyoviyhg",
+  "internalName": "FtrInsectRuriboshikamikiri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Saw Stag",
+  "hex": "UBYkCqXitTg",
+  "internalName": "FtrInsectNokogirikuwagata",
+  "fishbug": true
+ },
+ {
+  "itemName": "Scarab Beetle",
+  "hex": "TWXCdURu3Og",
+  "internalName": "FtrInsectPurachinakogane",
+  "fishbug": true
+ },
+ {
+  "itemName": "Scorpion",
+  "hex": "WGly7Oz6Rwo",
+  "internalName": "FtrInsectSasori",
+  "fishbug": true
+ },
+ {
+  "itemName": "Snail",
+  "hex": "qRwSEASaSzg",
+  "internalName": "FtrInsectKatatsumuri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Spider",
+  "hex": "JTlmn5sapuY",
+  "internalName": "FtrInsectKumo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Stinkbug",
+  "hex": "gcbB1MuO2uk",
+  "internalName": "FtrInsectKamemushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Tarantula",
+  "hex": "OLuUWq7FWlg",
+  "internalName": "FtrInsectTaranchura",
+  "fishbug": true
+ },
+ {
+  "itemName": "Tiger Beetle",
+  "hex": "ekRx9rWvmz4",
+  "internalName": "FtrInsectHanmyou",
+  "fishbug": true
+ },
+ {
+  "itemName": "Tiger Butterfly",
+  "hex": "kjKPYK0DEbI",
+  "internalName": "FtrInsectAgehacho",
+  "fishbug": true
+ },
+ {
+  "itemName": "Violin Beetle",
+  "hex": "2HuksXIPCOc",
+  "internalName": "FtrInsectBaiorinmushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Walker Cicada",
+  "hex": "5eXdiJbdDa0",
+  "internalName": "FtrInsectTsukutsukuhousi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Walking Leaf",
+  "hex": "kQOeGmucOiI",
+  "internalName": "FtrInsectKonohamushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Walking Stick",
+  "hex": "xLo5wWFztuM",
+  "internalName": "FtrInsectNanafushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Wasp",
+  "hex": "HIBHRRNbfRQ",
+  "internalName": "FtrInsectHachi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Wharf Roach",
+  "hex": "XwD3e94Rp5o",
+  "internalName": "FtrInsectFunamushi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Yellow Butterfly",
+  "hex": "v1dKpjgT0E4",
+  "internalName": "FtrInsectMonkicho",
+  "fishbug": true
+ },
+ {
+  "itemName": "Anchovy",
+  "hex": "c7zc1AuXDuk",
+  "internalName": "FtrFishAntyobi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Angelfish",
+  "hex": "Ozlo7mkl0EU",
+  "internalName": "FtrFishAngelfish",
+  "fishbug": true
+ },
+ {
+  "itemName": "Arapaima",
+  "hex": "ikqwfZgb86g",
+  "internalName": "FtrFishPiraruku",
+  "fishbug": true
+ },
+ {
+  "itemName": "Arowana",
+  "hex": "7hMdfUulInI",
+  "internalName": "FtrFishArowana",
+  "fishbug": true
+ },
+ {
+  "itemName": "Barred Knifejaw",
+  "hex": "RJ9MzMgNRvY",
+  "internalName": "FtrFishIshidai",
+  "fishbug": true
+ },
+ {
+  "itemName": "Barreleye",
+  "hex": "t8h9mR0xODo",
+  "internalName": "FtrFishDemenigisu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Betta",
+  "hex": "DN2Gt86ZRcE",
+  "internalName": "FtrFishBeta",
+  "fishbug": true
+ },
+ {
+  "itemName": "Bitterling",
+  "hex": "Bzr9H47iaP4",
+  "internalName": "FtrFishTanago",
+  "fishbug": true
+ },
+ {
+  "itemName": "Black Bass",
+  "hex": "ocYF0xMGTms",
+  "internalName": "FtrFishBlackbass",
+  "fishbug": true
+ },
+ {
+  "itemName": "Blowfish",
+  "hex": "EozHIRjaIhk",
+  "internalName": "FtrFishFugu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Blue Marlin",
+  "hex": "0JqBrhDjnWs",
+  "internalName": "FtrFishKajiki",
+  "fishbug": true
+ },
+ {
+  "itemName": "Bluegill",
+  "hex": "Ca4Yde4mf7w",
+  "internalName": "FtrFishBlueguill",
+  "fishbug": true
+ },
+ {
+  "itemName": "Butterfly Fish",
+  "hex": "NYQdbZtGZXY",
+  "internalName": "FtrFishChouchouuo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Carp",
+  "hex": "wA5v8Afv9N0",
+  "internalName": "FtrFishKoi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Catfish",
+  "hex": "Ck6VCUogRYI",
+  "internalName": "FtrFishNamazu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Char",
+  "hex": "HkGHDG7mOqs",
+  "internalName": "FtrFishOoiwana",
+  "fishbug": true
+ },
+ {
+  "itemName": "Cherry Salmon",
+  "hex": "VA1jnyolUt4",
+  "internalName": "FtrFishYamame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Clown Fish",
+  "hex": "4MoGtBhVfcw",
+  "internalName": "FtrFishKumanomi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Coelacanth",
+  "hex": "ZdvvriIzvck",
+  "internalName": "FtrFishSirakansu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Crawfish",
+  "hex": "olDeObLPf28",
+  "internalName": "FtrFishZarigani",
+  "fishbug": true
+ },
+ {
+  "itemName": "Crucian Carp",
+  "hex": "ZCup0Kvzes4",
+  "internalName": "FtrFishFuna",
+  "fishbug": true
+ },
+ {
+  "itemName": "Dab",
+  "hex": "YiNSXhqMWxI",
+  "internalName": "FtrFishKarei",
+  "fishbug": true
+ },
+ {
+  "itemName": "Dace",
+  "hex": "Hs4S5O30jnE",
+  "internalName": "FtrFishUgui",
+  "fishbug": true
+ },
+ {
+  "itemName": "Dorado",
+  "hex": "KojLCmj1foc",
+  "internalName": "FtrFishDolado",
+  "fishbug": true
+ },
+ {
+  "itemName": "Football Fish",
+  "hex": "E411ZhL8DRc",
+  "internalName": "FtrFishChouchinankou",
+  "fishbug": true
+ },
+ {
+  "itemName": "Freshwater Goby",
+  "hex": "L7j6sjl3Cas",
+  "internalName": "FtrFishDonko",
+  "fishbug": true
+ },
+ {
+  "itemName": "Frog",
+  "hex": "kZ3ZP6ezR64",
+  "internalName": "FtrFishKaeru",
+  "fishbug": true
+ },
+ {
+  "itemName": "Gar",
+  "hex": "CzZGs4ogIZ0",
+  "internalName": "FtrFishGa",
+  "fishbug": true
+ },
+ {
+  "itemName": "Giant Snakehead",
+  "hex": "t5kg9kFW47Y",
+  "internalName": "FtrFishRaigyo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Giant Trevally",
+  "hex": "lTo6RCA3zcY",
+  "internalName": "FtrFishGT",
+  "fishbug": true
+ },
+ {
+  "itemName": "Golden Trout",
+  "hex": "2bVzMFQUMhA",
+  "internalName": "FtrFishGoldenTorauto",
+  "fishbug": true
+ },
+ {
+  "itemName": "Goldfish",
+  "hex": "8VGtZ1yHJiU",
+  "internalName": "FtrFishKingyo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Great White Shark",
+  "hex": "dP4aUeRuFjA",
+  "internalName": "FtrFishSame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Guppy",
+  "hex": "JqFApvFo6es",
+  "internalName": "FtrFishGuppi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Hammerhead Shark",
+  "hex": "kMTmrsvt8Gk",
+  "internalName": "FtrFishShumokuzame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Horse Mackerel",
+  "hex": "JHZpc3ykSBQ",
+  "internalName": "FtrFishAji",
+  "fishbug": true
+ },
+ {
+  "itemName": "Killifish",
+  "hex": "KDyC62PzILk",
+  "internalName": "FtrFishMedaka",
+  "fishbug": true
+ },
+ {
+  "itemName": "King Salmon",
+  "hex": "kiDbJR9xG44",
+  "internalName": "FtrFishKingsalmon",
+  "fishbug": true
+ },
+ {
+  "itemName": "Koi",
+  "hex": "dzdFJpe6M6E",
+  "internalName": "FtrFishNishikigoi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Loach",
+  "hex": "Gmq9OzzwMCA",
+  "internalName": "FtrFishDojou",
+  "fishbug": true
+ },
+ {
+  "itemName": "Mahi Mahi",
+  "hex": "x9zGHCOT6Dk",
+  "internalName": "FtrFishShiira",
+  "fishbug": true
+ },
+ {
+  "itemName": "Mitten Crab",
+  "hex": "s7VZWfQPzSA",
+  "internalName": "FtrFishShanghai",
+  "fishbug": true
+ },
+ {
+  "itemName": "Moray Eel",
+  "hex": "pxkcLBWt2io",
+  "internalName": "FtrFishUtsubo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Napoleonfish",
+  "hex": "7NeFMIBzDHc",
+  "internalName": "FtrFishNaporeonfish",
+  "fishbug": true
+ },
+ {
+  "itemName": "Neon Tetra",
+  "hex": "Uexijw0Ii8c",
+  "internalName": "FtrFishNeontetora",
+  "fishbug": true
+ },
+ {
+  "itemName": "Nibble Fish",
+  "hex": "hR36dd8U550",
+  "internalName": "FtrFishDoctor",
+  "fishbug": true
+ },
+ {
+  "itemName": "Oarfish",
+  "hex": "lJDnsqR6gz0",
+  "internalName": "FtrFishRyugu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Ocean Sunfish",
+  "hex": "9ybRMOtC3eE",
+  "internalName": "FtrFishManbou",
+  "fishbug": true
+ },
+ {
+  "itemName": "Olive Flounder",
+  "hex": "6MWUwOYvIuc",
+  "internalName": "FtrFishHirame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Pale Chub",
+  "hex": "iZeZ6WOym0M",
+  "internalName": "FtrFishOikawa",
+  "fishbug": true
+ },
+ {
+  "itemName": "Pike",
+  "hex": "EmvW6MEihl4",
+  "internalName": "FtrFishPaiku",
+  "fishbug": true
+ },
+ {
+  "itemName": "Piranha",
+  "hex": "gttvnLl4jwo",
+  "internalName": "FtrFishPirania",
+  "fishbug": true
+ },
+ {
+  "itemName": "Pond Smelt",
+  "hex": "prFApTjyRyc",
+  "internalName": "FtrFishWakasagi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Pop Eyed Goldfish",
+  "hex": "Vo1ibvLcNvE",
+  "internalName": "FtrFishDemekin",
+  "fishbug": true
+ },
+ {
+  "itemName": "Puffer Fish",
+  "hex": "xgMUKCMHkh4",
+  "internalName": "FtrFishHarisenbon",
+  "fishbug": true
+ },
+ {
+  "itemName": "Rainbowfish",
+  "hex": "Ig164It0Opw",
+  "internalName": "FtrFishRainbowfish",
+  "fishbug": true
+ },
+ {
+  "itemName": "Ranchu Goldfish",
+  "hex": "p52vKr4ADJg",
+  "internalName": "FtrFishRanchu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Ray",
+  "hex": "JeoTiTfIFEA",
+  "internalName": "FtrFishEi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Red Snapper",
+  "hex": "scOjOkPndBQ",
+  "internalName": "FtrFishTai",
+  "fishbug": true
+ },
+ {
+  "itemName": "Ribbon Eel",
+  "hex": "i8f5ehPSz1w",
+  "internalName": "FtrFishHanahige",
+  "fishbug": true
+ },
+ {
+  "itemName": "Saddled Bichir",
+  "hex": "SHtRhIBlcA0",
+  "internalName": "FtrFishEndlicheri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Salmon",
+  "hex": "mJh8z9egJaI",
+  "internalName": "FtrFishSake",
+  "fishbug": true
+ },
+ {
+  "itemName": "Saw Shark",
+  "hex": "v8rT2xgiOPE",
+  "internalName": "FtrFishNokogiri",
+  "fishbug": true
+ },
+ {
+  "itemName": "Sea Bass",
+  "hex": "g3bTQpd6SmI",
+  "internalName": "FtrFishSuzuki",
+  "fishbug": true
+ },
+ {
+  "itemName": "Sea Butterfly",
+  "hex": "JPbgMGUSKWY",
+  "internalName": "FtrFishKurione",
+  "fishbug": true
+ },
+ {
+  "itemName": "Sea Horse",
+  "hex": "EbCXfpdirP4",
+  "internalName": "FtrFishTatsunootoshigo",
+  "fishbug": true
+ },
+ {
+  "itemName": "Snapping Turtle",
+  "hex": "Uo7yqKNL9zU",
+  "internalName": "FtrFishKamitukigame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Soft Shelled Turtle",
+  "hex": "QCjwQze1C0w",
+  "internalName": "FtrFishSuppon",
+  "fishbug": true
+ },
+ {
+  "itemName": "Squid",
+  "hex": "878G5gpsUXA",
+  "internalName": "FtrFishIka",
+  "fishbug": true
+ },
+ {
+  "itemName": "Stringfish",
+  "hex": "OK44RxY9iSA",
+  "internalName": "FtrFishItou",
+  "fishbug": true
+ },
+ {
+  "itemName": "Sturgeon",
+  "hex": "PkI4Q4vGXk0",
+  "internalName": "FtrFishTyouzame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Suckerfish",
+  "hex": "ZEBQM7OoDeo",
+  "internalName": "FtrFishKobanzame",
+  "fishbug": true
+ },
+ {
+  "itemName": "Surgeonfish",
+  "hex": "WGRxMrdsak4",
+  "internalName": "FtrFishNanyouhagi",
+  "fishbug": true
+ },
+ {
+  "itemName": "Sweetfish",
+  "hex": "H4QcE7ytRtE",
+  "internalName": "FtrFishAyu",
+  "fishbug": true
+ },
+ {
+  "itemName": "Tadpole",
+  "hex": "Mmqco8zkkJ0",
+  "internalName": "FtrFishOtama",
+  "fishbug": true
+ },
+ {
+  "itemName": "Tilapia",
+  "hex": "85DMxOL2Rbk",
+  "internalName": "FtrFishThirapia",
+  "fishbug": true
+ },
+ {
+  "itemName": "Tuna",
+  "hex": "WyjQRmBhl8c",
+  "internalName": "FtrFishMaguro",
+  "fishbug": true
+ },
+ {
+  "itemName": "Whale Shark",
+  "hex": "VACPKqEecZg",
+  "internalName": "FtrFishJinbee",
+  "fishbug": true
+ },
+ {
+  "itemName": "Yellow Perch",
+  "hex": "BtCm67wzZoM",
+  "internalName": "FtrFishYellowparch",
+  "fishbug": true
+ },
+ {
+  "itemName": "Zebra Turkeyfish",
+  "hex": "pFHGlV619YA",
+  "internalName": "FtrFishMinokasago",
+  "fishbug": true
  },
  {
   "itemName": "Acanthostega",
