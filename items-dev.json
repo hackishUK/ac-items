@@ -32593,101 +32593,6 @@
   "hex": "idTdS5sbjzU"
  },
  {
-  "itemName": "Bamboo Lattice Fence x50",
-  "internalName": "ItemFenceBamboo",
-  "hex": "nVGLSt1erLI"
- },
- {
-  "itemName": "Barbed Wire Fence x50",
-  "internalName": "ItemFenceBarbedWire",
-  "hex": "kkOAJ8MglXM"
- },
- {
-  "itemName": "Brick Fence x50",
-  "internalName": "ItemFenceWallRenga",
-  "hex": "YOH4nU0jizk"
- },
- {
-  "itemName": "Bunny Day Fence x50",
-  "internalName": "ItemFenceEgg",
-  "hex": "Wul9RvJt7Eg"
- },
- {
-  "itemName": "Corral Fence x50",
-  "internalName": "ItemFenceHorizontalWood",
-  "hex": "RmKOmRdCLzY"
- },
- {
-  "itemName": "Country Fence x50",
-  "internalName": "ItemFenceLog",
-  "hex": "38Nh9IzEbsk"
- },
- {
-  "itemName": "Hedge x50",
-  "internalName": "ItemFenceIkegaki",
-  "hex": "PuPW0fuFau8"
- },
- {
-  "itemName": "Imperial Fence x50",
-  "internalName": "ItemFenceChinese",
-  "hex": "lzk7rTR47zk"
- },
- {
-  "itemName": "Iron Fence x50",
-  "internalName": "ItemFenceSteel",
-  "hex": "GstLguPiVLU"
- },
- {
-  "itemName": "Iron and Stone Fence x50",
-  "internalName": "ItemFenceIronAndStone",
-  "hex": "M0n4UYuxBbE"
- },
- {
-  "itemName": "Lattice Fence x50",
-  "internalName": "ItemFenceLatiiceNatural",
-  "hex": "YaWCo4dtzlg"
- },
- {
-  "itemName": "Rope Fence x50",
-  "internalName": "ItemFencePegRope",
-  "hex": "fElwVnc3MwM"
- },
- {
-  "itemName": "Simple Wooden Fence x50",
-  "internalName": "ItemFenceNatural",
-  "hex": "RyaacznzEL8"
- },
- {
-  "itemName": "Spiky Fence x50",
-  "internalName": "ItemFenceSharply",
-  "hex": "hXHS5I9ZsPQ"
- },
- {
-  "itemName": "Stone Fence x50",
-  "internalName": "ItemFenceStone",
-  "hex": "TaXcKRaeGUM"
- },
- {
-  "itemName": "Straw Fence x50",
-  "internalName": "ItemFenceDriedStraw",
-  "hex": "B2eN1t51HMk"
- },
- {
-  "itemName": "Vertical Board Fence x50",
-  "internalName": "ItemFenceVerticalWood",
-  "hex": "Phbchvija2I"
- },
- {
-  "itemName": "Wedding Fence x50",
-  "internalName": "ItemFenceJuneBride",
-  "hex": "DnPZC66UIuo"
- },
- {
-  "itemName": "Zen Fence x50",
-  "internalName": "ItemFenceJapanese",
-  "hex": "2RXXdSbqNXs"
- },
- {
   "itemName": "Admiral's Photo",
   "color": "Natural wood",
   "internalName": "BromideNpcNmlBrd06_Remake_0_0",
@@ -54870,6 +54775,101 @@
   "itemName": "Worn Axe",
   "internalName": "ToolAxeFragile",
   "hex": "qhw72JuQHVg"
+ },
+ {
+  "itemName": "Bamboo Lattice Fence x50",
+  "internalName": "ItemFenceBamboo",
+  "hex": "nVGLSt1erLI"
+ },
+ {
+  "itemName": "Barbed Wire Fence x50",
+  "internalName": "ItemFenceBarbedWire",
+  "hex": "kkOAJ8MglXM"
+ },
+ {
+  "itemName": "Brick Fence x50",
+  "internalName": "ItemFenceWallRenga",
+  "hex": "YOH4nU0jizk"
+ },
+ {
+  "itemName": "Bunny Day Fence x50",
+  "internalName": "ItemFenceEgg",
+  "hex": "Wul9RvJt7Eg"
+ },
+ {
+  "itemName": "Corral Fence x50",
+  "internalName": "ItemFenceHorizontalWood",
+  "hex": "RmKOmRdCLzY"
+ },
+ {
+  "itemName": "Country Fence x50",
+  "internalName": "ItemFenceLog",
+  "hex": "38Nh9IzEbsk"
+ },
+ {
+  "itemName": "Hedge x50",
+  "internalName": "ItemFenceIkegaki",
+  "hex": "PuPW0fuFau8"
+ },
+ {
+  "itemName": "Imperial Fence x50",
+  "internalName": "ItemFenceChinese",
+  "hex": "lzk7rTR47zk"
+ },
+ {
+  "itemName": "Iron Fence x50",
+  "internalName": "ItemFenceSteel",
+  "hex": "GstLguPiVLU"
+ },
+ {
+  "itemName": "Iron and Stone Fence x50",
+  "internalName": "ItemFenceIronAndStone",
+  "hex": "M0n4UYuxBbE"
+ },
+ {
+  "itemName": "Lattice Fence x50",
+  "internalName": "ItemFenceLatiiceNatural",
+  "hex": "YaWCo4dtzlg"
+ },
+ {
+  "itemName": "Rope Fence x50",
+  "internalName": "ItemFencePegRope",
+  "hex": "fElwVnc3MwM"
+ },
+ {
+  "itemName": "Simple Wooden Fence x50",
+  "internalName": "ItemFenceNatural",
+  "hex": "RyaacznzEL8"
+ },
+ {
+  "itemName": "Spiky Fence x50",
+  "internalName": "ItemFenceSharply",
+  "hex": "hXHS5I9ZsPQ"
+ },
+ {
+  "itemName": "Stone Fence x50",
+  "internalName": "ItemFenceStone",
+  "hex": "TaXcKRaeGUM"
+ },
+ {
+  "itemName": "Straw Fence x50",
+  "internalName": "ItemFenceDriedStraw",
+  "hex": "B2eN1t51HMk"
+ },
+ {
+  "itemName": "Vertical Board Fence x50",
+  "internalName": "ItemFenceVerticalWood",
+  "hex": "Phbchvija2I"
+ },
+ {
+  "itemName": "Wedding Fence x50",
+  "internalName": "ItemFenceJuneBride",
+  "hex": "DnPZC66UIuo"
+ },
+ {
+  "itemName": "Zen Fence x50",
+  "internalName": "ItemFenceJapanese",
+  "hex": "2RXXdSbqNXs"
  },
  {
   "itemName": "A Tee",
@@ -83049,19 +83049,19 @@
   "hex": "7fuN1Pcp7iA"
  },
  {
-  "itemName": "\u306f\u305a\u308c01",
+  "itemName": "Hazure01",
   "internalName": "mjk_Miss1",
-  "hex": "VDFZmHWv9No"
+  "hex": "8Ngj5EBEqEc"
  },
  {
-  "itemName": "\u306f\u305a\u308c02",
+  "itemName": "Hazure02",
   "internalName": "mjk_Miss2",
-  "hex": "7zdMCNnktaQ"
+  "hex": "0QMCOrzDkSs"
  },
  {
-  "itemName": "\u306f\u305a\u308c03",
+  "itemName": "Hazure03",
   "internalName": "mjk_Miss3",
-  "hex": "aXZRelANUDE"
+  "hex": "JjabILwzIrs"
  },
  {
   "itemName": "Agrias Butterfly",
