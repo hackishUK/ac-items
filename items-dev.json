@@ -7512,6 +7512,30 @@
   "hex": "qYutBf7MOUU"
  },
  {
+  "itemName": "Illuminated Present",
+  "color": "Yellow with red ribbon",
+  "internalName": "FtrIllumiPresent_Remake_0_0",
+  "hex": "ej4WJyfxJRM"
+ },
+ {
+  "itemName": "Illuminated Present",
+  "color": "Pink with green ribbon",
+  "internalName": "FtrIllumiPresent_Remake_1_0",
+  "hex": "ej4WJyfwJRM"
+ },
+ {
+  "itemName": "Illuminated Present",
+  "color": "Blue with yellow ribbon",
+  "internalName": "FtrIllumiPresent_Remake_2_0",
+  "hex": "ej4WJyfzJRM"
+ },
+ {
+  "itemName": "Illuminated Present",
+  "color": "White with blue ribbon",
+  "internalName": "FtrIllumiPresent_Remake_3_0",
+  "hex": "ej4WJyfyJRM"
+ },
+ {
   "itemName": "Illuminated Reindeer",
   "color": "Yellow",
   "internalName": "FtrIllumiReindeer_Remake_0_0",
@@ -58642,6 +58666,24 @@
   "itemName": "OK Motors Jacket",
   "internalName": "TopsTexTopYshirtsHOkmotors0",
   "hex": "YNykHL7J7NU"
+ },
+ {
+  "itemName": "Old School Jacket",
+  "color": "Red",
+  "internalName": "TopsTexTopOuterLRepresent0",
+  "hex": "un4Cn3zJ1yw"
+ },
+ {
+  "itemName": "Old School Jacket",
+  "color": "Green",
+  "internalName": "TopsTexTopOuterLRepresent1",
+  "hex": "ui4AyHzJ1yw"
+ },
+ {
+  "itemName": "Old School Jacket",
+  "color": "Purple",
+  "internalName": "TopsTexTopOuterLRepresent2",
+  "hex": "ui4AyXzJ1yw"
  },
  {
   "itemName": "One Ball Tee",
