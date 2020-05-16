@@ -7114,6 +7114,16 @@
   "hex": "qKWiSykM4tw"
  },
  {
+  "itemName": "Grand Atlas Moth Model",
+  "internalName": "FtrInsectYonagunisanToy",
+  "hex": "9zoOfUt8QiA"
+ },
+ {
+  "itemName": "Grand B. Dragonfly Model",
+  "internalName": "FtrInsectOniyanmaToy",
+  "hex": "QWBlxmsXBmg"
+ },
+ {
   "itemName": "Grand Piano",
   "color": "Black",
   "internalName": "FtrPianoGrand_Remake_0_0",
@@ -7136,6 +7146,11 @@
   "color": "Cherry",
   "internalName": "FtrPianoGrand_Remake_3_0",
   "hex": "HFHJoU5yY5s"
+ },
+ {
+  "itemName": "Grand Q. A. Birdwing Model",
+  "internalName": "FtrInsectArekisandoratoribaneagehaToy",
+  "hex": "jESbqSockPM"
  },
  {
   "itemName": "Grass Standee",
@@ -11000,6 +11015,11 @@
   "color": "NA-Yellow",
   "internalName": "FtrRingcornerNeutral_Remake_0_4",
   "hex": "ItKUsRCJw54"
+ },
+ {
+  "itemName": "Ocean Sunfish Model",
+  "internalName": "FtrFishManbouToy",
+  "hex": "6UnY1mAIH8A"
  },
  {
   "itemName": "Office Desk",
@@ -22083,16 +22103,6 @@
   "hex": "yCr4dpFWlRM"
  },
  {
-  "itemName": "Grand Atlas Moth Model",
-  "internalName": "FtrInsectYonagunisanToy",
-  "hex": "9zoOfUt8QiA"
- },
- {
-  "itemName": "Grand B. Dragonfly Model",
-  "internalName": "FtrInsectOniyanmaToy",
-  "hex": "QWBlxmsXBmg"
- },
- {
   "itemName": "Grand Giraffe Stag Model",
   "internalName": "FtrInsectGirafanokogirikuwagataToy",
   "hex": "RXotPs5dkx8"
@@ -22106,11 +22116,6 @@
   "itemName": "Grand H. Hercules Model",
   "internalName": "FtrInsectHerakuresuohkabutoToy",
   "hex": "xd0jhmEUCkc"
- },
- {
-  "itemName": "Grand Q. A. Birdwing Model",
-  "internalName": "FtrInsectArekisandoratoribaneagehaToy",
-  "hex": "jESbqSockPM"
  },
  {
   "itemName": "Grasshopper Model",
@@ -24316,11 +24321,6 @@
   "itemName": "Oarfish Model",
   "internalName": "FtrFishRyuuguunotukaiToy",
   "hex": "vdVIPkFensM"
- },
- {
-  "itemName": "Ocean Sunfish Model",
-  "internalName": "FtrFishManbouToy",
-  "hex": "6UnY1mAIH8A"
  },
  {
   "itemName": "Oil Lamp",
@@ -83093,482 +83093,402 @@
  {
   "itemName": "Agrias Butterfly",
   "hex": "rlEjt118DuU",
-  "internalName": "FtrInsectMiirotateha",
-  "fishbug": true
+  "internalName": "FtrInsectMiirotateha"
  },
  {
   "itemName": "Ant",
   "hex": "5Hn6eRiMndw",
-  "internalName": "FtrInsectAri",
-  "fishbug": true
+  "internalName": "FtrInsectAri"
  },
  {
   "itemName": "Atlas Moth",
   "hex": "zUm96jabv5c",
-  "internalName": "FtrInsectYonagunisan",
-  "fishbug": true
+  "internalName": "FtrInsectYonagunisan"
  },
  {
   "itemName": "Bagworm",
   "hex": "iXdp982Cbiw",
-  "internalName": "FtrInsectMinomushi",
-  "fishbug": true
+  "internalName": "FtrInsectMinomushi"
  },
  {
   "itemName": "Banded Dragonfly",
   "hex": "EHXcqNPWtNo",
-  "internalName": "FtrInsectOniyanma",
-  "fishbug": true
+  "internalName": "FtrInsectOniyanma"
  },
  {
   "itemName": "Bell Cricket",
   "hex": "tCg522INHC4",
-  "internalName": "FtrInsectSuzumushi",
-  "fishbug": true
+  "internalName": "FtrInsectSuzumushi"
  },
  {
   "itemName": "Blue Weevil Beetle",
   "hex": "gIz8Hc8ctMs",
-  "internalName": "FtrInsectHousekizoumushi",
-  "fishbug": true
+  "internalName": "FtrInsectHousekizoumushi"
  },
  {
   "itemName": "Brown Cicada",
   "hex": "ypuiA0Rcvc8",
-  "internalName": "FtrInsectAburazemi",
-  "fishbug": true
+  "internalName": "FtrInsectAburazemi"
  },
  {
   "itemName": "Centipede",
   "hex": "2mWSMRWEpDo",
-  "internalName": "FtrInsectMukade",
-  "fishbug": true
+  "internalName": "FtrInsectMukade"
  },
  {
   "itemName": "Cicada Shell",
   "hex": "8sgqtjsXZnU",
-  "internalName": "FtrInsectSeminonukegara",
-  "fishbug": true
+  "internalName": "FtrInsectSeminonukegara"
  },
  {
   "itemName": "Citrus Long Horned Beetle",
   "hex": "NtdgzUrnR4E",
-  "internalName": "FtrInsectGomadarakamikiri",
-  "fishbug": true
+  "internalName": "FtrInsectGomadarakamikiri"
  },
  {
   "itemName": "Common Bluebottle",
   "hex": "2RjuhLgZ3mw",
-  "internalName": "FtrInsectAosujiageha",
-  "fishbug": true
+  "internalName": "FtrInsectAosujiageha"
  },
  {
   "itemName": "Common Butterfly",
   "hex": "RqdvR4Kzc08",
-  "internalName": "FtrInsectMonshirocho",
-  "fishbug": true
+  "internalName": "FtrInsectMonshirocho"
  },
  {
   "itemName": "Cricket",
   "hex": "NC6OwQ3ljvs",
-  "internalName": "FtrInsectKohrogi",
-  "fishbug": true
+  "internalName": "FtrInsectKohrogi"
  },
  {
   "itemName": "Cyclommatus Stag",
   "hex": "TzRRF7Cg8UA",
-  "internalName": "FtrInsectHosoakakuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectHosoakakuwagata"
  },
  {
   "itemName": "Damselfly",
   "hex": "9KrrxgBQQdE",
-  "internalName": "FtrInsectItotonbo",
-  "fishbug": true
+  "internalName": "FtrInsectItotonbo"
  },
  {
   "itemName": "Darner Dragonfly",
   "hex": "s9gX6JEevOU",
-  "internalName": "FtrInsectGinyanma",
-  "fishbug": true
+  "internalName": "FtrInsectGinyanma"
  },
  {
   "itemName": "Diving Beetle",
   "hex": "J4w8W26yCKw",
-  "internalName": "FtrInsectGengorou",
-  "fishbug": true
+  "internalName": "FtrInsectGengorou"
  },
  {
   "itemName": "Drone Beetle",
   "hex": "k1RbVFRNsTM",
-  "internalName": "FtrInsectKanabun",
-  "fishbug": true
+  "internalName": "FtrInsectKanabun"
  },
  {
   "itemName": "Dung Beetle",
   "hex": "21Ma4SCeqM4",
-  "internalName": "FtrInsectFunkorogashi",
-  "fishbug": true
+  "internalName": "FtrInsectFunkorogashi"
  },
  {
   "itemName": "Earth Boring Dung Beetle",
   "hex": "PALlzfJoZ3Y",
-  "internalName": "FtrInsectSenchikogane",
-  "fishbug": true
+  "internalName": "FtrInsectSenchikogane"
  },
  {
   "itemName": "Emperor Butterfly",
   "hex": "zxUPV4DCwVQ",
-  "internalName": "FtrInsectMorufuocho",
-  "fishbug": true
+  "internalName": "FtrInsectMorufuocho"
  },
  {
   "itemName": "Evening Cicada",
   "hex": "wUVU1qyYklo",
-  "internalName": "FtrInsectHigurashi",
-  "fishbug": true
+  "internalName": "FtrInsectHigurashi"
  },
  {
   "itemName": "Firefly",
   "hex": "zzKR0Dry8sM",
-  "internalName": "FtrInsectHotaru",
-  "fishbug": true
+  "internalName": "FtrInsectHotaru"
  },
  {
   "itemName": "Flea",
   "hex": "plRuysWLe1U",
-  "internalName": "FtrInsectNomi",
-  "fishbug": true
+  "internalName": "FtrInsectNomi"
  },
  {
   "itemName": "Fly",
   "hex": "Y0HfRzdL4O8",
-  "internalName": "FtrInsectHae",
-  "fishbug": true
+  "internalName": "FtrInsectHae"
  },
  {
   "itemName": "Giant Cicada",
   "hex": "oRCOeo5vR8s",
-  "internalName": "FtrInsectKumazemi",
-  "fishbug": true
+  "internalName": "FtrInsectKumazemi"
  },
  {
   "itemName": "Giant Stag",
   "hex": "HXiafV2mN4Y",
-  "internalName": "FtrInsectOhkuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectOhkuwagata"
  },
  {
   "itemName": "Giant Water Bug",
   "hex": "d0v4RjznYao",
-  "internalName": "FtrInsectTagame",
-  "fishbug": true
+  "internalName": "FtrInsectTagame"
  },
  {
   "itemName": "Giraffe Stag",
   "hex": "jGdNs0ohkUQ",
-  "internalName": "FtrInsectGirafanokogirikuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectGirafanokogirikuwagata"
  },
  {
   "itemName": "Golden Stag",
   "hex": "qhlhzupe6Z4",
-  "internalName": "FtrInsectOugononikuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectOugononikuwagata"
  },
  {
   "itemName": "Goliath Beetle",
   "hex": "yGBEesud8yQ",
-  "internalName": "FtrInsectGoraiasuohtsunohanamuguri",
-  "fishbug": true
+  "internalName": "FtrInsectGoraiasuohtsunohanamuguri"
  },
  {
   "itemName": "Grasshopper",
   "hex": "RjfN6IOzAH4",
-  "internalName": "FtrInsectKirigirisu",
-  "fishbug": true
+  "internalName": "FtrInsectKirigirisu"
  },
  {
   "itemName": "Great Purple Emperor",
   "hex": "aJbA74LcBDc",
-  "internalName": "FtrInsectOhmurasaki",
-  "fishbug": true
+  "internalName": "FtrInsectOhmurasaki"
  },
  {
   "itemName": "Hermit Crab",
   "hex": "fq0XEzWTxLU",
-  "internalName": "FtrInsectYadokari",
-  "fishbug": true
+  "internalName": "FtrInsectYadokari"
  },
  {
   "itemName": "Honeybee",
   "hex": "ztfU0Ae2MDI",
-  "internalName": "FtrInsectMitsubachi",
-  "fishbug": true
+  "internalName": "FtrInsectMitsubachi"
  },
  {
   "itemName": "Horned Atlas",
   "hex": "YxrD9V01k38",
-  "internalName": "FtrInsectKohkasasuohkabuto",
-  "fishbug": true
+  "internalName": "FtrInsectKohkasasuohkabuto"
  },
  {
   "itemName": "Horned Dynastid",
   "hex": "20fuiiZ2QsE",
-  "internalName": "FtrInsectKabutomushi",
-  "fishbug": true
+  "internalName": "FtrInsectKabutomushi"
  },
  {
   "itemName": "Horned Elephant",
   "hex": "IKR2Pzs8Yx8",
-  "internalName": "FtrInsectZoukabuto",
-  "fishbug": true
+  "internalName": "FtrInsectZoukabuto"
  },
  {
   "itemName": "Horned Hercules",
   "hex": "Vz2y1o2ZWFY",
-  "internalName": "FtrInsectHerakuresuohkabuto",
-  "fishbug": true
+  "internalName": "FtrInsectHerakuresuohkabuto"
  },
  {
   "itemName": "Jewel Beetle",
   "hex": "ZrHSGQVPW6c",
-  "internalName": "FtrInsectTamamushi",
-  "fishbug": true
+  "internalName": "FtrInsectTamamushi"
  },
  {
   "itemName": "Ladybug",
   "hex": "v5qxjmtRFJg",
-  "internalName": "FtrInsectTentoumushi",
-  "fishbug": true
+  "internalName": "FtrInsectTentoumushi"
  },
  {
   "itemName": "Long Locust",
   "hex": "h3P1Kr6R8z0",
-  "internalName": "FtrInsectShoryobatta",
-  "fishbug": true
+  "internalName": "FtrInsectShoryobatta"
  },
  {
   "itemName": "Madagascan Sunset Moth",
   "hex": "ejzAQysOIeU",
-  "internalName": "FtrInsectNishikiohtsubamega",
-  "fishbug": true
+  "internalName": "FtrInsectNishikiohtsubamega"
  },
  {
   "itemName": "Man Faced Stink Bug",
   "hex": "duaRefEewj8",
-  "internalName": "FtrInsectJinmenkamemushi",
-  "fishbug": true
+  "internalName": "FtrInsectJinmenkamemushi"
  },
  {
   "itemName": "Mantis",
   "hex": "0izLZbObYZU",
-  "internalName": "FtrInsectKamakiri",
-  "fishbug": true
+  "internalName": "FtrInsectKamakiri"
  },
  {
   "itemName": "Migratory Locust",
   "hex": "QnST3gzwlJk",
-  "internalName": "FtrInsectTonosamabatta",
-  "fishbug": true
+  "internalName": "FtrInsectTonosamabatta"
  },
  {
   "itemName": "Miyama Stag",
   "hex": "ASUDFHP7SN0",
-  "internalName": "FtrInsectMiyamakuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectMiyamakuwagata"
  },
  {
   "itemName": "Mole Cricket",
   "hex": "NdMY78JPsyg",
-  "internalName": "FtrInsectOkera",
-  "fishbug": true
+  "internalName": "FtrInsectOkera"
  },
  {
   "itemName": "Monarch Butterfly",
   "hex": "iNmZFJ2zJ80",
-  "internalName": "FtrInsectOhkabamadara",
-  "fishbug": true
+  "internalName": "FtrInsectOhkabamadara"
  },
  {
   "itemName": "Mosquito",
   "hex": "LMqXxXfejKM",
-  "internalName": "FtrInsectKa",
-  "fishbug": true
+  "internalName": "FtrInsectKa"
  },
  {
   "itemName": "Moth",
   "hex": "E6vgJy8T4Gc",
-  "internalName": "FtrInsectGa",
-  "fishbug": true
+  "internalName": "FtrInsectGa"
  },
  {
   "itemName": "Orchid Mantis",
   "hex": "zIdUTjZTQDQ",
-  "internalName": "FtrInsectHanakamakiri",
-  "fishbug": true
+  "internalName": "FtrInsectHanakamakiri"
  },
  {
   "itemName": "Paper Kite Butterfly",
   "hex": "kcAEkuO1ULc",
-  "internalName": "FtrInsectOhgomamadara",
-  "fishbug": true
+  "internalName": "FtrInsectOhgomamadara"
  },
  {
   "itemName": "Peacock Butterfly",
   "hex": "cKN0rMN5aF8",
-  "internalName": "FtrInsectKarasuageha",
-  "fishbug": true
+  "internalName": "FtrInsectKarasuageha"
  },
  {
   "itemName": "Pill Bug",
   "hex": "PvRCbvhIkhw",
-  "internalName": "FtrInsectDangomushi",
-  "fishbug": true
+  "internalName": "FtrInsectDangomushi"
  },
  {
   "itemName": "Pondskater",
   "hex": "zbFoVYVSdj0",
-  "internalName": "FtrInsectAmenbo",
-  "fishbug": true
+  "internalName": "FtrInsectAmenbo"
  },
  {
   "itemName": "Queen Alexandra's Birdwing",
   "hex": "s87rtQB8MfQ",
-  "internalName": "FtrInsectArekisandoratoribaneageha",
-  "fishbug": true
+  "internalName": "FtrInsectArekisandoratoribaneageha"
  },
  {
   "itemName": "Rainbow Stag",
   "hex": "by9i6Ritq4k",
-  "internalName": "FtrInsectNijiirokuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectNijiirokuwagata"
  },
  {
   "itemName": "Rajah Brooke's Birdwing",
   "hex": "uw3J1UY241w",
-  "internalName": "FtrInsectAkaeritoribaneageha",
-  "fishbug": true
+  "internalName": "FtrInsectAkaeritoribaneageha"
  },
  {
   "itemName": "Red Dragonfly",
   "hex": "SEIRwRoUPfQ",
-  "internalName": "FtrInsectAkiakane",
-  "fishbug": true
+  "internalName": "FtrInsectAkiakane"
  },
  {
   "itemName": "Rice Grasshopper",
   "hex": "p3he2oWZyh8",
-  "internalName": "FtrInsectInago",
-  "fishbug": true
+  "internalName": "FtrInsectInago"
  },
  {
   "itemName": "Robust Cicada",
   "hex": "vzRl7TwVK64",
-  "internalName": "FtrInsectMinminzemi",
-  "fishbug": true
+  "internalName": "FtrInsectMinminzemi"
  },
  {
   "itemName": "Rosalia Batesi Beetle",
   "hex": "8Pqwyoviyhg",
-  "internalName": "FtrInsectRuriboshikamikiri",
-  "fishbug": true
+  "internalName": "FtrInsectRuriboshikamikiri"
  },
  {
   "itemName": "Saw Stag",
   "hex": "UBYkCqXitTg",
-  "internalName": "FtrInsectNokogirikuwagata",
-  "fishbug": true
+  "internalName": "FtrInsectNokogirikuwagata"
  },
  {
   "itemName": "Scarab Beetle",
   "hex": "TWXCdURu3Og",
-  "internalName": "FtrInsectPurachinakogane",
-  "fishbug": true
+  "internalName": "FtrInsectPurachinakogane"
  },
  {
   "itemName": "Scorpion",
   "hex": "WGly7Oz6Rwo",
-  "internalName": "FtrInsectSasori",
-  "fishbug": true
+  "internalName": "FtrInsectSasori"
  },
  {
   "itemName": "Snail",
   "hex": "qRwSEASaSzg",
-  "internalName": "FtrInsectKatatsumuri",
-  "fishbug": true
+  "internalName": "FtrInsectKatatsumuri"
  },
  {
   "itemName": "Spider",
   "hex": "JTlmn5sapuY",
-  "internalName": "FtrInsectKumo",
-  "fishbug": true
+  "internalName": "FtrInsectKumo"
  },
  {
   "itemName": "Stinkbug",
   "hex": "gcbB1MuO2uk",
-  "internalName": "FtrInsectKamemushi",
-  "fishbug": true
+  "internalName": "FtrInsectKamemushi"
  },
  {
   "itemName": "Tarantula",
   "hex": "OLuUWq7FWlg",
-  "internalName": "FtrInsectTaranchura",
-  "fishbug": true
+  "internalName": "FtrInsectTaranchura"
  },
  {
   "itemName": "Tiger Beetle",
   "hex": "ekRx9rWvmz4",
-  "internalName": "FtrInsectHanmyou",
-  "fishbug": true
+  "internalName": "FtrInsectHanmyou"
  },
  {
   "itemName": "Tiger Butterfly",
   "hex": "kjKPYK0DEbI",
-  "internalName": "FtrInsectAgehacho",
-  "fishbug": true
+  "internalName": "FtrInsectAgehacho"
  },
  {
   "itemName": "Violin Beetle",
   "hex": "2HuksXIPCOc",
-  "internalName": "FtrInsectBaiorinmushi",
-  "fishbug": true
+  "internalName": "FtrInsectBaiorinmushi"
  },
  {
   "itemName": "Walker Cicada",
   "hex": "5eXdiJbdDa0",
-  "internalName": "FtrInsectTsukutsukuhousi",
-  "fishbug": true
+  "internalName": "FtrInsectTsukutsukuhousi"
  },
  {
   "itemName": "Walking Leaf",
   "hex": "kQOeGmucOiI",
-  "internalName": "FtrInsectKonohamushi",
-  "fishbug": true
+  "internalName": "FtrInsectKonohamushi"
  },
  {
   "itemName": "Walking Stick",
   "hex": "xLo5wWFztuM",
-  "internalName": "FtrInsectNanafushi",
-  "fishbug": true
+  "internalName": "FtrInsectNanafushi"
  },
  {
   "itemName": "Wasp",
   "hex": "HIBHRRNbfRQ",
-  "internalName": "FtrInsectHachi",
-  "fishbug": true
+  "internalName": "FtrInsectHachi"
  },
  {
   "itemName": "Wharf Roach",
   "hex": "XwD3e94Rp5o",
-  "internalName": "FtrInsectFunamushi",
-  "fishbug": true
+  "internalName": "FtrInsectFunamushi"
  },
  {
   "itemName": "Yellow Butterfly",
   "hex": "v1dKpjgT0E4",
-  "internalName": "FtrInsectMonkicho",
-  "fishbug": true
+  "internalName": "FtrInsectMonkicho"
  },
  {
   "itemName": "Anchovy",
@@ -84855,6 +84775,11 @@
   "hex": "bEdR6sjtzSY"
  },
  {
+  "itemName": "Arched Tile Path Permit",
+  "internalName": "FtrGroundMakerStonePattern",
+  "hex": "v7oHYsxoXVc"
+ },
+ {
   "itemName": "Aries Fragment x10",
   "internalName": "StarpieceAries",
   "hex": "LWQHPAknKfk"
@@ -84880,29 +84805,34 @@
   "hex": "zjQDOH9JiS0"
  },
  {
+  "itemName": "Bell Voucher",
+  "internalName": "BellExchangeTicket",
+  "hex": "fDaFv8MgnCE"
+ },
+ {
   "itemName": "Birthday Cupcake",
   "internalName": "BirthdayCupcake",
   "hex": "7kPNMipluC8"
  },
  {
-  "itemName": "Black Cosmos",
+  "itemName": "Black Cosmos x10 (wear)",
   "internalName": "FlwCosmosBlack",
-  "hex": "vfBZHslUuMk"
+  "hex": "X3gBl3SP6eA"
  },
  {
-  "itemName": "Black Lilies",
+  "itemName": "Black Lilies x10 (wear)",
   "internalName": "FlwYuriBlack",
-  "hex": "FmVtbLNhzhY"
+  "hex": "2ThFaT52tuM"
  },
  {
-  "itemName": "Black Roses",
+  "itemName": "Black Roses x10 (wear)",
   "internalName": "FlwRoseBlack",
-  "hex": "NvaV9Nf7oig"
+  "hex": "szZSK2sOakk"
  },
  {
-  "itemName": "Black Tulips",
+  "itemName": "Black Tulips x10 (wear)",
   "internalName": "FlwTulipBlack",
-  "hex": "O694kSBxOVU"
+  "hex": "ee44neovvjQ"
  },
  {
   "itemName": "Black Wrapping Paper x10",
@@ -84910,14 +84840,34 @@
   "hex": "Bw6IOV9ueIY"
  },
  {
+  "itemName": "Black Cosmos Plant",
+  "internalName": "PltCosmosBlack3",
+  "hex": "naEuqRVD7i0"
+ },
+ {
+  "itemName": "Black Lily Plant",
+  "internalName": "PltYuriBlack3",
+  "hex": "oZdPqXizFwM"
+ },
+ {
+  "itemName": "Black Rose Plant",
+  "internalName": "PltRoseBlack3",
+  "hex": "pYtUxwt796k"
+ },
+ {
+  "itemName": "Black Tulip Plant",
+  "internalName": "PltTulipBlack3",
+  "hex": "jkUzRhNWUvs"
+ },
+ {
   "itemName": "Blathers's Tent Marker",
   "internalName": "MuseumTent",
   "hex": "JDaECuvAR2g"
  },
  {
-  "itemName": "Blue Hyacinths",
+  "itemName": "Blue Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthBlue",
-  "hex": "OO5p5sgzpyI"
+  "hex": "ywU7vRUsA0A"
  },
  {
   "itemName": "Blue Ornament x30",
@@ -84925,24 +84875,29 @@
   "hex": "iBTDefiGA4g"
  },
  {
-  "itemName": "Blue Pansies",
+  "itemName": "Blue Pansies x10 (wear)",
   "internalName": "FlwPansyBlue",
-  "hex": "6nKFQ8Vzuic"
+  "hex": "U3uvzP0vH5g"
  },
  {
-  "itemName": "Blue Roses",
+  "itemName": "Blue Roses x10 (wear)",
   "internalName": "FlwRoseBlue",
-  "hex": "DQpRHhz03BQ"
+  "hex": "f83pONsNmrA"
  },
  {
-  "itemName": "Blue Windflowers",
+  "itemName": "Blue Windflowers x10 (wear)",
   "internalName": "FlwAnemonesBlue",
-  "hex": "sZdyGuHKyms"
+  "hex": "f7RHRQ0qoco"
  },
  {
   "itemName": "Blue Wrapping Paper x10",
   "internalName": "WPaperBlue",
   "hex": "skCU4XB4hME"
+ },
+ {
+  "itemName": "Blue Hyacinth Plant",
+  "internalName": "PltHyacinthBlue3",
+  "hex": "QFQfu4KyP14"
  },
  {
   "itemName": "Blue Hydrangea Bush",
@@ -84960,9 +84915,29 @@
   "hex": "LseXYmGEQR8"
  },
  {
+  "itemName": "Blue Pansy Plant",
+  "internalName": "PltPansyBlue3",
+  "hex": "pULt2KrU7nY"
+ },
+ {
+  "itemName": "Blue Rose Plant",
+  "internalName": "PltRoseBlue3",
+  "hex": "nz1lR2GUgVM"
+ },
+ {
+  "itemName": "Blue Windflower Plant",
+  "internalName": "PltAnemonesBlue3",
+  "hex": "1SNi7rDZKgA"
+ },
+ {
   "itemName": "Boot",
   "internalName": "TrashBoot",
   "hex": "pytml9XCPzo"
+ },
+ {
+  "itemName": "Brick Path Permit",
+  "internalName": "FtrGroundMakerBrick",
+  "hex": "WbPQkuegz80"
  },
  {
   "itemName": "Brown Wrapping Paper x10",
@@ -85024,6 +84999,11 @@
   "hex": "IP5wAr2S33A"
  },
  {
+  "itemName": "Cliff Construction Permit",
+  "internalName": "FtrCliffMaker",
+  "hex": "BEmqLo6AEIM"
+ },
+ {
   "itemName": "Clump of Weeds x99",
   "internalName": "PltWeed",
   "hex": "5KWN1TB4PQ0"
@@ -85063,9 +85043,29 @@
   "hex": "cxxPsULArL0"
  },
  {
+  "itemName": "Custom Design Path Permit",
+  "internalName": "FtrGroundMakerMydesign",
+  "hex": "8e1WS3n3i5c"
+ },
+ {
+  "itemName": "Custom Design Pro Editor",
+  "internalName": "HowtoBookMydesingPro",
+  "hex": "O6jbYXlz764"
+ },
+ {
+  "itemName": "Customizable Phone Case Kit",
+  "internalName": "SmartphoneCase",
+  "hex": "5AWyppjScL4"
+ },
+ {
   "itemName": "Customization Kit x50",
   "internalName": "RemakeKit",
   "hex": "FHZlaToQPV4"
+ },
+ {
+  "itemName": "Dark Dirt Path Permit",
+  "internalName": "FtrGroundMakerDarkSoil",
+  "hex": "xMsY4IMapfM"
  },
  {
   "itemName": "Delivery Box",
@@ -85108,21 +85108,6 @@
   "hex": "eDKKyxAVCwY"
  },
  {
-  "itemName": "Flimsy Axe Recipe",
-  "internalName": "DIYRecipeAxeWood",
-  "hex": "bTIRYqMy6Gs"
- },
- {
-  "itemName": "Flimsy Shovel Recipe",
-  "internalName": "DIYRecipeScoopWood",
-  "hex": "q6wzCoGtoGw"
- },
- {
-  "itemName": "Flimsy Watering Can Recipe",
-  "internalName": "DIYRecipeWateringWood",
-  "hex": "VlR5wZYZnFg"
- },
- {
   "itemName": "Fossil",
   "hex": "gpPKgtPg6Z8"
  },
@@ -85147,9 +85132,9 @@
   "hex": "ZPrV1jiFjrc"
  },
  {
-  "itemName": "Gold Roses",
+  "itemName": "Gold Roses x10 (wear)",
   "internalName": "FlwRoseGold",
-  "hex": "pYU53RiINzc"
+  "hex": "TVktbNfeUcc"
  },
  {
   "itemName": "Gold Wrapping Paper x10",
@@ -85157,19 +85142,29 @@
   "hex": "HYfQhul9fmo"
  },
  {
+  "itemName": "Gold Rose Plant",
+  "internalName": "PltRoseGold3",
+  "hex": "9QfRbeOYKDs"
+ },
+ {
   "itemName": "Gray Wrapping Paper x10",
   "internalName": "WPaperGray",
   "hex": "yifc7bDAqos"
  },
  {
-  "itemName": "Green Mums",
+  "itemName": "Green Mums x10 (wear)",
   "internalName": "FlwMumGreen",
-  "hex": "ADFIwZT3CFA"
+  "hex": "u2jMyTlRDzs"
  },
  {
   "itemName": "Green Wrapping Paper x10",
   "internalName": "WPaperGreen",
   "hex": "pgCaJD82GBY"
+ },
+ {
+  "itemName": "Green Mum Plant",
+  "internalName": "PltMumGreen3",
+  "hex": "prbgLRZmYYc"
  },
  {
   "itemName": "Hardwood x30",
@@ -85185,11 +85180,6 @@
   "itemName": "Heart Crystal x30",
   "internalName": "Love",
   "hex": "1ICGCghbdsI"
- },
- {
-  "itemName": "Orange Tree",
-  "internalName": "PltOrange4",
-  "hex": "uMxyV6T04Nc"
  },
  {
   "itemName": "Holly Bush",
@@ -85215,11 +85205,6 @@
   "itemName": "Iron Nugget x30",
   "internalName": "DIYIron",
   "hex": "LqYiO14RcCc"
- },
- {
-  "itemName": "Ladder Recipe",
-  "internalName": "DIYRecipeLadder",
-  "hex": "pwlLcqFzkNA"
  },
  {
   "itemName": "Large Snowflake x10",
@@ -85302,6 +85287,11 @@
   "hex": "3cn2ApmAEMU"
  },
  {
+  "itemName": "Nook Miles Ticket x10",
+  "internalName": "MilePlaneTicket",
+  "hex": "I9rTnR1r37M"
+ },
+ {
   "itemName": "Old Tire",
   "internalName": "TrashTire",
   "hex": "JkLksTaHh5I"
@@ -85311,39 +85301,74 @@
   "hex": "zFSzEzLZWJo"
  },
  {
-  "itemName": "Orange Cosmos",
+  "itemName": "Orange Cosmos x10 (wear)",
   "internalName": "FlwCosmosOrange",
-  "hex": "RSUxllU9wFw"
+  "hex": "tCGLK5SWeOY"
  },
  {
-  "itemName": "Orange Hyacinths",
+  "itemName": "Orange Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthOrange",
-  "hex": "NyCk2qlKHig"
+  "hex": "bX2qAELuAf8"
  },
  {
-  "itemName": "Orange Lilies",
+  "itemName": "Orange Lilies x10 (wear)",
   "internalName": "FlwYuriOrange",
-  "hex": "rME0GRhgS2o"
+  "hex": "M5NV3rmC9Nw"
  },
  {
-  "itemName": "Orange Pansies",
+  "itemName": "Orange Pansies x10 (wear)",
   "internalName": "FlwPansyRedYellow",
-  "hex": "tGEkABAnHmo"
+  "hex": "lewSAYPOcUs"
  },
  {
-  "itemName": "Orange Roses",
+  "itemName": "Orange Roses x10 (wear)",
   "internalName": "FlwRoseOrange",
-  "hex": "BzJUrjbZRx8"
+  "hex": "7oU9e4Da0Og"
  },
  {
-  "itemName": "Orange Windflowers",
+  "itemName": "Orange Tree",
+  "internalName": "PltOrange4",
+  "hex": "uMxyV6T04Nc"
+ },
+ {
+  "itemName": "Orange Tulips x10 (wear)",
+  "internalName": "FlwTulipOrange",
+  "hex": "oJr3fYresbo"
+ },
+ {
+  "itemName": "Orange Windflowers x10 (wear)",
   "internalName": "FlwAnemonesOrange",
-  "hex": "SgyMsFzlIXw"
+  "hex": "FB6003z6yZA"
  },
  {
   "itemName": "Orange Wrapping Paper x10",
   "internalName": "WPaperOrange",
   "hex": "imKEvFhd3zQ"
+ },
+ {
+  "itemName": "Orange Cosmos Plant",
+  "internalName": "PltCosmosOrange3",
+  "hex": "NBuarciBeRM"
+ },
+ {
+  "itemName": "Orange Hyacinth Plant",
+  "internalName": "PltHyacinthOrange3",
+  "hex": "2qcqNvkTHcU"
+ },
+ {
+  "itemName": "Orange Lily Plant",
+  "internalName": "PltYuriOrange3",
+  "hex": "DhSn9j16cAs"
+ },
+ {
+  "itemName": "Orange Pansy Plant",
+  "internalName": "PltPansyRedYellow3",
+  "hex": "TsLRUkRZagk"
+ },
+ {
+  "itemName": "Orange Rose Plant",
+  "internalName": "PltRoseOrange3",
+  "hex": "j0V0V2d1d2M"
  },
  {
   "itemName": "Orange Tea Olive Bush",
@@ -85361,9 +85386,19 @@
   "hex": "qrOiaqnx4BA"
  },
  {
+  "itemName": "Orange Tulip Plant",
+  "internalName": "PltTulipOrange3",
+  "hex": "DYPvCRAwtaA"
+ },
+ {
   "itemName": "Orange Windflower Bag x10",
   "internalName": "SeedAnemonesOrange",
   "hex": "eRO6EzqEG88"
+ },
+ {
+  "itemName": "Orange Windflower Plant",
+  "internalName": "PltAnemonesOrange3",
+  "hex": "1OafmBP0R6Y"
  },
  {
   "itemName": "Peach",
@@ -85389,39 +85424,39 @@
   "hex": "DTFRjLWwmqo"
  },
  {
-  "itemName": "Pink Cosmos",
+  "itemName": "Pink Cosmos x10 (wear)",
   "internalName": "FlwCosmosPink",
-  "hex": "aoenV4f0MHA"
+  "hex": "s1VfJ7U0KGs"
  },
  {
-  "itemName": "Pink Hyacinths",
+  "itemName": "Pink Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthPink",
-  "hex": "AFa9KbWULEo"
+  "hex": "JMlHwjmnhik"
  },
  {
-  "itemName": "Pink Lilies",
+  "itemName": "Pink Lilies x10 (wear)",
   "internalName": "FlwYuriPink",
-  "hex": "m8XL9E1I8U8"
+  "hex": "NFVCWyz523s"
  },
  {
-  "itemName": "Pink Mums",
+  "itemName": "Pink Mums x10 (wear)",
   "internalName": "FlwMumPink",
-  "hex": "ySv6ntzk7EU"
+  "hex": "e7Jm7ufBXLg"
  },
  {
-  "itemName": "Pink Roses",
+  "itemName": "Pink Roses x10 (wear)",
   "internalName": "FlwRosePink",
-  "hex": "bfKu00sPPSw"
+  "hex": "G779AQ99RYw"
  },
  {
-  "itemName": "Pink Tulips",
+  "itemName": "Pink Tulips x10 (wear)",
   "internalName": "FlwTulipPink",
-  "hex": "mY3seMTh3Lg"
+  "hex": "CszTodqR5oM"
  },
  {
-  "itemName": "Pink Windflowers",
+  "itemName": "Pink Windflowers x10 (wear)",
   "internalName": "FlwAnemonesPink",
-  "hex": "leu0EY8OdGk"
+  "hex": "AneOlCQz8jE"
  },
  {
   "itemName": "Pink Wrapping Paper x10",
@@ -85459,6 +85494,16 @@
   "hex": "xg7O9G7fyn4"
  },
  {
+  "itemName": "Pink Cosmos Plant",
+  "internalName": "PltCosmosPink3",
+  "hex": "VeWhqBfzUjY"
+ },
+ {
+  "itemName": "Pink Hyacinth Plant",
+  "internalName": "PltHyacinthPink3",
+  "hex": "NsOR3oFxKVA"
+ },
+ {
   "itemName": "Pink Hydrangea Bush",
   "internalName": "PltHydrangeaPink2",
   "hex": "IHeUqbmJX1U"
@@ -85474,6 +85519,31 @@
   "hex": "8Cn0TTcwoKI"
  },
  {
+  "itemName": "Pink Lily Plant",
+  "internalName": "PltYuriPink3",
+  "hex": "R1FKwbzjRMI"
+ },
+ {
+  "itemName": "Pink Mum Plant",
+  "internalName": "PltMumPink3",
+  "hex": "KcqswCJChqw"
+ },
+ {
+  "itemName": "Pink Rose Plant",
+  "internalName": "PltRosePink3",
+  "hex": "90Ryztk4xnw"
+ },
+ {
+  "itemName": "Pink Tulip Plant",
+  "internalName": "PltTulipPink3",
+  "hex": "U41PSQly594"
+ },
+ {
+  "itemName": "Pink Windflower Plant",
+  "internalName": "PltAnemonesPink3",
+  "hex": "U2G3vXOTSqw"
+ },
+ {
   "itemName": "Pisces Fragment x10",
   "internalName": "StarpiecePisces",
   "hex": "rhbXm3KMOPA"
@@ -85484,34 +85554,44 @@
   "hex": "u2OVH25fv08"
  },
  {
-  "itemName": "Purple Hyacinths",
+  "itemName": "Pocket Organization Guide",
+  "internalName": "HowtoBookPocketExpansion",
+  "hex": "RO0fn2ZZono"
+ },
+ {
+  "itemName": "Pretty Good Tools Recipes",
+  "internalName": "DIYbookNormalTools",
+  "hex": "nUNvhRwOFJ4"
+ },
+ {
+  "itemName": "Purple Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthPurple",
-  "hex": "7D2zAfem8SI"
+  "hex": "wSumX7VLRG8"
  },
  {
-  "itemName": "Purple Mums",
+  "itemName": "Purple Mums x10 (wear)",
   "internalName": "FlwMumPurple",
-  "hex": "md1Qalm1I9U"
+  "hex": "bvb8YOKBjAQ"
  },
  {
-  "itemName": "Purple Pansies",
+  "itemName": "Purple Pansies x10 (wear)",
   "internalName": "FlwPansyPurple",
-  "hex": "Lc3ykhRtds4"
+  "hex": "eYeAntPA1e4"
  },
  {
-  "itemName": "Purple Roses",
+  "itemName": "Purple Roses x10 (wear)",
   "internalName": "FlwRosePurple",
-  "hex": "NkNQMupzssY"
+  "hex": "0tTowG8j3jE"
  },
  {
-  "itemName": "Purple Tulips",
+  "itemName": "Purple Tulips x10 (wear)",
   "internalName": "FlwTulipPurple",
-  "hex": "SQoYdz4wA2k"
+  "hex": "6zCXUoH8eLA"
  },
  {
-  "itemName": "Purple Windflowers",
+  "itemName": "Purple Windflowers x10 (wear)",
   "internalName": "FlwAnemonesPurple",
-  "hex": "GXz0Esq7uOI"
+  "hex": "UiwI1yRe1Fo"
  },
  {
   "itemName": "Purple Wrapping Paper x10",
@@ -85519,29 +85599,59 @@
   "hex": "S07HYQmcXMY"
  },
  {
+  "itemName": "Purple Hyacinth Plant",
+  "internalName": "PltHyacinthPurple3",
+  "hex": "tsMsbIBOYXk"
+ },
+ {
+  "itemName": "Purple Mum Plant",
+  "internalName": "PltMumPurple3",
+  "hex": "7pu1oYLYgRo"
+ },
+ {
+  "itemName": "Purple Pansy Plant",
+  "internalName": "PltPansyPurple3",
+  "hex": "iljT8QJcqeg"
+ },
+ {
+  "itemName": "Purple Rose Plant",
+  "internalName": "PltRosePurple3",
+  "hex": "UsbIMMtBqcw"
+ },
+ {
+  "itemName": "Purple Tulip Plant",
+  "internalName": "PltTulipPurple3",
+  "hex": "T4DPqYoR9GA"
+ },
+ {
+  "itemName": "Purple Windflower Plant",
+  "internalName": "PltAnemonesPurple3",
+  "hex": "avVkRtUg5dA"
+ },
+ {
   "itemName": "Rare Mushroom x10",
   "internalName": "MushRare",
   "hex": "We3G4wdT5S4"
  },
  {
-  "itemName": "Red Cosmos",
+  "itemName": "Red Cosmos x10 (wear)",
   "internalName": "FlwCosmosRed",
-  "hex": "NdczlsURu1s"
+  "hex": "2ntrBPvSYvM"
  },
  {
-  "itemName": "Red Hyacinths",
+  "itemName": "Red Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthRed",
-  "hex": "bdhdDtGEsFk"
+  "hex": "W4C5nKJPYNA"
  },
  {
-  "itemName": "Red Lilies",
+  "itemName": "Red Lilies x10 (wear)",
   "internalName": "FlwYuriRed",
-  "hex": "O0tgJzYNhuY"
+  "hex": "syVD3SsV4jc"
  },
  {
-  "itemName": "Red Mums",
+  "itemName": "Red Mums x10 (wear)",
   "internalName": "FlwMumRed",
-  "hex": "RfkGfvDNvWY"
+  "hex": "pHjzYzVyQzA"
  },
  {
   "itemName": "Red Ornament x30",
@@ -85549,24 +85659,24 @@
   "hex": "7BXzWJvHF8k"
  },
  {
-  "itemName": "Red Pansies",
+  "itemName": "Red Pansies x10 (wear)",
   "internalName": "FlwPansyRed",
-  "hex": "F5DRal9K0HI"
+  "hex": "Ih8zAqTrZMY"
  },
  {
-  "itemName": "Red Roses",
+  "itemName": "Red Roses x10 (wear)",
   "internalName": "FlwRoseRed",
-  "hex": "Aw0bDCK5Xcw"
+  "hex": "6KCrtmVHz48"
  },
  {
-  "itemName": "Red Tulips",
+  "itemName": "Red Tulips x10 (wear)",
   "internalName": "FlwTulipRed",
-  "hex": "2G4sDb3F6uY"
+  "hex": "7q4OMsL0Zas"
  },
  {
-  "itemName": "Red Windflowers",
+  "itemName": "Red Windflowers x10 (wear)",
   "internalName": "FlwAnemonesRed",
-  "hex": "FmAWby9tK1Y"
+  "hex": "JOZGRCuqN18"
  },
  {
   "itemName": "Red Wrapping Paper x10",
@@ -85594,6 +85704,11 @@
   "hex": "A6xncWFTRdw"
  },
  {
+  "itemName": "Red Cosmos Plant",
+  "internalName": "PltCosmosRed3",
+  "hex": "41QBvfp9zW4"
+ },
+ {
   "itemName": "Red Hibiscus Bush",
   "internalName": "PltHibiscusRed2",
   "hex": "7BEo6wAKhko"
@@ -85614,9 +85729,19 @@
   "hex": "F68Fr0uf4rg"
  },
  {
+  "itemName": "Red Hyacinth Plant",
+  "internalName": "PltHyacinthRed3",
+  "hex": "wHrii3VEIeg"
+ },
+ {
   "itemName": "Red Lily Bag x10",
   "internalName": "SeedYuriRed",
   "hex": "W8SEzI8gnOs"
+ },
+ {
+  "itemName": "Red Lily Plant",
+  "internalName": "PltYuriRed3",
+  "hex": "mSudOdaEicQ"
  },
  {
   "itemName": "Red Mum Bag x10",
@@ -85624,9 +85749,19 @@
   "hex": "16i9sl8MzRE"
  },
  {
+  "itemName": "Red Mum Plant",
+  "internalName": "PltMumRed3",
+  "hex": "R0gO1SB5NmI"
+ },
+ {
   "itemName": "Red Pansy Bag x10",
   "internalName": "SeedPansyRed",
   "hex": "gKZzbbUpR90"
+ },
+ {
+  "itemName": "Red Pansy Plant",
+  "internalName": "PltPansyRed3",
+  "hex": "E1ln47z8Kmo"
  },
  {
   "itemName": "Red Rose Bag x10",
@@ -85634,14 +85769,29 @@
   "hex": "M8jRvp9L3F0"
  },
  {
+  "itemName": "Red Rose Plant",
+  "internalName": "PltRoseRed3",
+  "hex": "D3bGGQzWjSE"
+ },
+ {
   "itemName": "Red Tulip Bag x10",
   "internalName": "SeedTulipRed",
   "hex": "IES7rRkdKto"
  },
  {
+  "itemName": "Red Tulip Plant",
+  "internalName": "PltTulipRed3",
+  "hex": "Rv8XWy4APp4"
+ },
+ {
   "itemName": "Red Windflower Bag x10",
   "internalName": "SeedAnemonesRed",
   "hex": "3wXIYD01d04"
+ },
+ {
+  "itemName": "Red Windflower Plant",
+  "internalName": "PltAnemonesRed3",
+  "hex": "jxoWddngxzc"
  },
  {
   "itemName": "Round Mushroom x10",
@@ -85667,6 +85817,11 @@
   "itemName": "Sand Dollar x10",
   "internalName": "ShellDriftSanddollar",
   "hex": "S5pQPcNhKXg"
+ },
+ {
+  "itemName": "Sand Path Permit",
+  "internalName": "FtrGroundMakerSand",
+  "hex": "iMOY0k17oR0"
  },
  {
   "itemName": "Sapling x10",
@@ -85704,11 +85859,6 @@
   "hex": "1sjPmCNBXJM"
  },
  {
-  "itemName": "Slingshot Recipe",
-  "internalName": "DIYRecipeSlingShot",
-  "hex": "1TAlz8xD3O0"
- },
- {
   "itemName": "Snowflake x10",
   "internalName": "SnowCrystal",
   "hex": "nY5azzoalxY"
@@ -85739,6 +85889,11 @@
   "hex": "6sx5CwzXsDg"
  },
  {
+  "itemName": "Stone Path Permit",
+  "internalName": "FtrGroundMakerStone",
+  "hex": "J4rBRzDcE0I"
+ },
+ {
   "itemName": "Summer Shell x10",
   "internalName": "ShellDriftSummer",
   "hex": "zyPXriVO5tg"
@@ -85764,9 +85919,34 @@
   "hex": "MR5JMzObXzs"
  },
  {
+  "itemName": "Terra Cotta Tile Permit",
+  "internalName": "FtrGroundMakerTile",
+  "hex": "JCFieLB4FKY"
+ },
+ {
   "itemName": "Test Your DIY Skills",
   "internalName": "DIYbook2",
   "hex": "NV8ZoBzA4Mo"
+ },
+ {
+  "itemName": "Tool Ring: It's Essential!",
+  "internalName": "HowtoBookRingMenuUI",
+  "hex": "Nm0rAUYsiR8"
+ },
+ {
+  "itemName": "Top 8 Cool Hairstyles",
+  "internalName": "HowtoBookHairCool",
+  "hex": "W3oZ9E9Tilg"
+ },
+ {
+  "itemName": "Top 8 Pop Hairstyles",
+  "internalName": "HowtoBookHairPop",
+  "hex": "Bb9BbdPQeZg"
+ },
+ {
+  "itemName": "Top 8 Stylish Hair Colors",
+  "internalName": "HowtoBookHairColor",
+  "hex": "nT2RzLbWZ5M"
  },
  {
   "itemName": "Treasure",
@@ -85784,9 +85964,9 @@
   "hex": "yd6AA7Qim9I"
  },
  {
-  "itemName": "Vaulting Pole Recipe",
-  "internalName": "DIYRecipeLongWoodenStick",
-  "hex": "BtIB0fUpuHg"
+  "itemName": "Ultimate Pocket Stuffing",
+  "internalName": "HowtoBookPocketExpansion2",
+  "hex": "E0pRB5SYM3g"
  },
  {
   "itemName": "Venus Comb x10",
@@ -85809,49 +85989,49 @@
   "hex": "kQjBexhwFzo"
  },
  {
-  "itemName": "Orange Tulips",
-  "internalName": "FlwTulipOrange",
-  "hex": "TCvbs6T7BlE"
+  "itemName": "Waterscaping Permit",
+  "internalName": "FtrRiverMaker",
+  "hex": "fZ78llb7GdQ"
  },
  {
-  "itemName": "White Cosmos",
+  "itemName": "White Cosmos x10 (wear)",
   "internalName": "FlwCosmosWhite",
-  "hex": "F32Ny44ftj0"
+  "hex": "SHpHyNCmYJw"
  },
  {
-  "itemName": "White Hyacinths",
+  "itemName": "White Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthWhite",
-  "hex": "zG611qaN7WI"
+  "hex": "NSJf7sIIiS0"
  },
  {
-  "itemName": "White Lilies",
+  "itemName": "White Lilies x10 (wear)",
   "internalName": "FlwYuriWhite",
-  "hex": "f2wqJPJZqHg"
+  "hex": "B3d1J9vK8rs"
  },
  {
-  "itemName": "White Mums",
+  "itemName": "White Mums x10 (wear)",
   "internalName": "FlwMumWhite",
-  "hex": "fcW65F0Epl0"
+  "hex": "RKVYtVxMbrU"
  },
  {
-  "itemName": "White Pansies",
+  "itemName": "White Pansies x10 (wear)",
   "internalName": "FlwPansyWhite",
-  "hex": "SNgzAOUJxPc"
+  "hex": "Ed05d9l1EHc"
  },
  {
-  "itemName": "White Roses",
+  "itemName": "White Roses x10 (wear)",
   "internalName": "FlwRoseWhite",
-  "hex": "RHGGhDM97gQ"
+  "hex": "OnXQD34Mf3o"
  },
  {
-  "itemName": "White Tulips",
+  "itemName": "White Tulips x10 (wear)",
   "internalName": "FlwTulipWhite",
-  "hex": "FKiouOL1pKI"
+  "hex": "dP8LmG3z9y0"
  },
  {
-  "itemName": "White Windflowers",
+  "itemName": "White Windflowers x10 (wear)",
   "internalName": "FlwAnemonesWhite",
-  "hex": "3hgpUpRPYFA"
+  "hex": "0utt9Ftyjzs"
  },
  {
   "itemName": "White Wrapping Paper x10",
@@ -85879,9 +86059,19 @@
   "hex": "TNs5KGRszaE"
  },
  {
+  "itemName": "White Cosmos Plant",
+  "internalName": "PltCosmosWhite3",
+  "hex": "pWk2nIX1pqQ"
+ },
+ {
   "itemName": "White Hyacinth Bag x10",
   "internalName": "SeedHyacinthWhite",
   "hex": "7vlc3Fzgbbs"
+ },
+ {
+  "itemName": "White Hyacinth Plant",
+  "internalName": "PltHyacinthWhite3",
+  "hex": "sKMcL15l7Q4"
  },
  {
   "itemName": "White Lily Bag x10",
@@ -85889,9 +86079,19 @@
   "hex": "9QM5yy15rP4"
  },
  {
+  "itemName": "White Lily Plant",
+  "internalName": "PltYuriWhite3",
+  "hex": "GGpQRzaUNKA"
+ },
+ {
   "itemName": "White Mum Bag x10",
   "internalName": "SeedMumWhite",
   "hex": "53JvX6bgTUE"
+ },
+ {
+  "itemName": "White Mum Plant",
+  "internalName": "PltMumWhite3",
+  "hex": "V154kmZ4dJI"
  },
  {
   "itemName": "White Pansy Bag x10",
@@ -85899,9 +86099,19 @@
   "hex": "dSq7uJnpvH4"
  },
  {
+  "itemName": "White Pansy Plant",
+  "internalName": "PltPansyWhite3",
+  "hex": "RayfgigwJu4"
+ },
+ {
   "itemName": "White Rose Bag x10",
   "internalName": "SeedRoseWhite",
   "hex": "nnwf8DVSgwI"
+ },
+ {
+  "itemName": "White Rose Plant",
+  "internalName": "PltRoseWhite3",
+  "hex": "d3FYMXnqyeo"
  },
  {
   "itemName": "White Tulip Bag x10",
@@ -85909,9 +86119,19 @@
   "hex": "hsM982Qdtos"
  },
  {
+  "itemName": "White Tulip Plant",
+  "internalName": "PltTulipWhite3",
+  "hex": "SInvxLJc09s"
+ },
+ {
   "itemName": "White Windflower Bag x10",
   "internalName": "SeedAnemonesWhite",
   "hex": "19UctPXSeoE"
+ },
+ {
+  "itemName": "White Windflower Plant",
+  "internalName": "PltAnemonesWhite3",
+  "hex": "wUxH9RzRPz4"
  },
  {
   "itemName": "Wildest Dreams DIY",
@@ -85929,39 +86149,44 @@
   "hex": "fs0hU2Osj1w"
  },
  {
-  "itemName": "Yellow Cosmos",
+  "itemName": "Wooden Path Permit",
+  "internalName": "FtrGroundMakerWood",
+  "hex": "PJpfQc0jNCg"
+ },
+ {
+  "itemName": "Yellow Cosmos x10 (wear)",
   "internalName": "FlwCosmosYellow",
-  "hex": "DZz7e19Iiyc"
+  "hex": "Q0SiBoXDaUM"
  },
  {
-  "itemName": "Yellow Hyacinths",
+  "itemName": "Yellow Hyacinths x10 (wear)",
   "internalName": "FlwHyacinthYellow",
-  "hex": "KKEtoNoA6Wk"
+  "hex": "EYZvMdkOKP8"
  },
  {
-  "itemName": "Yellow Lilies",
+  "itemName": "Yellow Lilies x10 (wear)",
   "internalName": "FlwYuriYellow",
-  "hex": "YQ3HFV6KIrg"
+  "hex": "5YKWDrbKto8"
  },
  {
-  "itemName": "Yellow Mums",
+  "itemName": "Yellow Mums x10 (wear)",
   "internalName": "FlwMumYellow",
-  "hex": "MNNiR07akXw"
+  "hex": "1q1BWqrlNsk"
  },
  {
-  "itemName": "Yellow Pansies",
+  "itemName": "Yellow Pansies x10 (wear)",
   "internalName": "FlwPansyYellow",
-  "hex": "Em1oRAJRP3E"
+  "hex": "Zv69YPzxrTU"
  },
  {
-  "itemName": "Yellow Roses",
+  "itemName": "Yellow Roses x10 (wear)",
   "internalName": "FlwRoseYellow",
-  "hex": "7z6a0zRqDN4"
+  "hex": "Qa3kYBQqaDA"
  },
  {
-  "itemName": "Yellow Tulips",
+  "itemName": "Yellow Tulips x10 (wear)",
   "internalName": "FlwTulipYellow",
-  "hex": "DJsIjR0GVFo"
+  "hex": "6JGqbwEaOCU"
  },
  {
   "itemName": "Yellow Wrapping Paper x10",
@@ -85972,6 +86197,11 @@
   "itemName": "Yellow Cosmos Bag x10",
   "internalName": "SeedCosmosYellow",
   "hex": "o1c8EWTvQkA"
+ },
+ {
+  "itemName": "Yellow Cosmos Plant",
+  "internalName": "PltCosmosYellow3",
+  "hex": "QNHG9fwatmU"
  },
  {
   "itemName": "Yellow Hibiscus Bush",
@@ -85994,9 +86224,19 @@
   "hex": "ef44Jw77wj4"
  },
  {
+  "itemName": "Yellow Hyacinth Plant",
+  "internalName": "PltHyacinthYellow3",
+  "hex": "IZVGk7tHkxo"
+ },
+ {
   "itemName": "Yellow Lily Bag x10",
   "internalName": "SeedYuriYellow",
   "hex": "XT3vIEfy8gE"
+ },
+ {
+  "itemName": "Yellow Lily Plant",
+  "internalName": "PltYuriYellow3",
+  "hex": "rE8SGfh3w54"
  },
  {
   "itemName": "Yellow Mum Bag x10",
@@ -86004,14 +86244,29 @@
   "hex": "rxgtFIp3G3w"
  },
  {
+  "itemName": "Yellow Mum Plant",
+  "internalName": "PltMumYellow3",
+  "hex": "47fMFKz6ZuA"
+ },
+ {
   "itemName": "Yellow Pansy Bag x10",
   "internalName": "SeedPansyYellow",
   "hex": "llCFIX7hHO0"
  },
  {
+  "itemName": "Yellow Pansy Plant",
+  "internalName": "PltPansyYellow3",
+  "hex": "PV2E6COh2Fk"
+ },
+ {
   "itemName": "Yellow Rose Bag x10",
   "internalName": "SeedRoseYellow",
   "hex": "if8r3GJLmAM"
+ },
+ {
+  "itemName": "Yellow Rose Plant",
+  "internalName": "PltRoseYellow3",
+  "hex": "DA7cqzlQFpw"
  },
  {
   "itemName": "Yellow Tea Olive Bush",
@@ -86032,6 +86287,11 @@
   "itemName": "Yellow Tulip Bag x10",
   "internalName": "SeedTulipYellow",
   "hex": "9zHULlXLU5w"
+ },
+ {
+  "itemName": "Yellow Tulip Plant",
+  "internalName": "PltTulipYellow3",
+  "hex": "ok3oZ65HtDs"
  },
  {
   "itemName": "Young Blue Hydrangea",
@@ -86094,7 +86354,7 @@
   "hex": "cuGTDh4yhKU"
  },
  {
-  "hex": "I9rTnR1r37M",
+  "hex": "16db0900",
   "itemName": "Nook Miles Ticket x10",
   "internalName": "MilePlaneTicket"
  },
