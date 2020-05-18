@@ -101164,6 +101164,48 @@
   "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
  },
  {
+  "itemName": "Harvey's Clothesline",
+  "internalName": "ff-harvey1",
+  "hex": "OE6FtcOA79A",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Harvey's Stone Oven",
+  "internalName": "ff-harvey2",
+  "hex": "lTHkleHCn2M",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Harvey's Wash Bucket",
+  "internalName": "ff-harvey3",
+  "hex": "PzmsqbG8SJE",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Nook's Construction Helmet",
+  "internalName": "ff-nookhelm",
+  "hex": "E0z0lpxLeRw",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "KK's Stool",
+  "internalName": "ff-kkstool",
+  "hex": "7MOogv42ICQ",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "KK's Live Chair",
+  "internalName": "ff-kkchair",
+  "hex": "KpVyBfh46lI",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Commune Island Exclusive Fence",
+  "internalName": "ff-excfense",
+  "hex": "jtZRAO8wCr8",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
   "hex": "tlIIEYOUlmk",
   "diy": true,
   "itemName": "Clackercart",
