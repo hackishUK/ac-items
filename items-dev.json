@@ -101119,7 +101119,49 @@
   "itemName": "Japanese Construction Helmet (White)",
   "internalName": "ff-construction",
   "hex": "w4mCreDbgcI",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/CapHatSafetyhat0.png"
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Clothesline",
+  "internalName": "ff-clothesline",
+  "hex": "Kgb2QVSzmRY",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Bench (Green)",
+  "internalName": "ff-bench",
+  "hex": "YSryke0DkBM",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Large Stool",
+  "internalName": "ff-stool1",
+  "hex": "tDd0UYxePwE",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Tiny Stool",
+  "internalName": "ff-stool2",
+  "hex": "1UsA0jDRNOE",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Brick Oven",
+  "internalName": "ff-oven",
+  "hex": "wrz6hYHOeKc",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Wash Board",
+  "internalName": "ff-washboard",
+  "hex": "MvGLvpaFr9I",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Japanese Fence",
+  "internalName": "ff-fence",
+  "hex": "3AcpsmbX23Q",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
  },
  {
   "hex": "tlIIEYOUlmk",
