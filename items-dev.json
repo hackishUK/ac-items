@@ -101116,6 +101116,12 @@
   "image": "https://acnhcdn.com/latest/MenuIcon/PltMoney.png"
  },
  {
+  "itemName": "Japanese Construction Helmet (White)",
+  "internalName": "ff-construction",
+  "hex": "w4mCreDbgcI",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/CapHatSafetyhat0.png"
+ },
+ {
   "hex": "tlIIEYOUlmk",
   "diy": true,
   "itemName": "Clackercart",
