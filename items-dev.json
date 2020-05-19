@@ -101206,6 +101206,108 @@
   "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
  },
  {
+  "itemName": "Star Fragment (Tree)",
+  "internalName": "ff-startree",
+  "hex": "go9nV9TYHxo",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Large Star Fragment (Tree)",
+  "internalName": "ff-lstartree",
+  "hex": "DIawCj4IGHQ",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Leo Fragment (Tree)",
+  "internalName": "ff-leofrag",
+  "hex": "6cXAICMYjZw",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Aries Fragment (Tree)",
+  "internalName": "ff-arifrag",
+  "hex": "uipPIcCIdfQ",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Libra Fragment (Tree)",
+  "internalName": "ff-libfrag",
+  "hex": "RPP9oGcazuw",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Virgo Fragment (Tree)",
+  "internalName": "ff-virfrag",
+  "hex": "fc2juVHBGF8",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Cancer Fragment (Tree)",
+  "internalName": "ff-canfrag",
+  "hex": "M8ukGmUvu9o",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Gemini Fragment (Tree)",
+  "internalName": "ff-gemfrag",
+  "hex": "FtTKHq63Ff8",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Pisces Fragment (Tree)",
+  "internalName": "ff-pisfrag",
+  "hex": "L8iNNSAA5io",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Taurus Fragment (Tree)",
+  "internalName": "ff-taufrag",
+  "hex": "DVC2VOZRVbM",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Aquarius Fragment (Tree)",
+  "internalName": "ff-aqufrag",
+  "hex": "XVRdSHxzquc",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Scorpius Fragment (Tree)",
+  "internalName": "ff-scofrag",
+  "hex": "PDeE0dHWn0k",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Capricorn Fragment (Tree)",
+  "internalName": "ff-capfrag",
+  "hex": "3fJ4t3t8SF8",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Sagittarius Fragment (Tree)",
+  "internalName": "ff-sagfrag",
+  "hex": "6gkWx6Mky5o",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Birthday Cupcake (Tree)",
+  "internalName": "ff-birtree",
+  "hex": "biHEThZvxjs",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Heart Crystal (Tree)",
+  "internalName": "ff-hearttree",
+  "hex": "6xvZN43kCGo",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
+  "itemName": "Music Note (Tree)",
+  "internalName": "ff-notetree",
+  "hex": "LRHBDyT5JbA",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
+ },
+ {
   "hex": "tlIIEYOUlmk",
   "diy": true,
   "itemName": "Clackercart",
