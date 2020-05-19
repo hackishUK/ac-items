@@ -105355,5 +105355,12 @@
   "itemName": "Traditional Straw Coat",
   "internalName": "traditionalstrawcoat",
   "image": "diy.png"
+ },
+ {
+  "hex": "3zZyKrxlCr4",
+  "diy": true,
+  "itemName": "Commune Island Exclusive Fence",
+  "internalName": "commdiy",
+  "image": "diy.png"
  }
 ]
