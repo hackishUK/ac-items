@@ -34752,22 +34752,22 @@
  {
   "itemName": "Wedding Decoration",
   "color": "Cute",
+  "internalName": "FtrWeddingFlowerWall_Remake_0_0",
+  "hex": "mgmnhRlqpPg",
+  "image": "a.png"
+ },
+ {
+  "itemName": "Wedding Decoration",
+  "color": "Chic",
   "internalName": "FtrWeddingFlowerWall_Remake_1_0",
   "hex": "mgmnhRlrpPg",
   "image": "a.png"
  },
  {
   "itemName": "Wedding Decoration",
-  "color": "Chic",
+  "color": "Garden",
   "internalName": "FtrWeddingFlowerWall_Remake_2_0",
   "hex": "mgmnhRlopPg",
-  "image": "a.png"
- },
- {
-  "itemName": "Wedding Decoration",
-  "color": "Garden",
-  "internalName": "FtrWeddingFlowerWall_Remake_0_0",
-  "hex": "mgmnhRlqpPg",
   "image": "a.png"
  },
  {
@@ -64145,6 +64145,13 @@
  },
  {
   "itemName": "Watering Can",
+  "color": "Pink",
+  "internalName": "ToolWatering_Remake_5_0",
+  "hex": "znfnzULFDPk",
+  "image": "FtrIcon/ToolWatering_Remake_5_0.png"
+ },
+ {
+  "itemName": "Watering Can",
   "color": "White",
   "internalName": "ToolWatering_Remake_6_0",
   "hex": "znfnzULGDPk",
@@ -66958,7 +66965,6 @@
  },
  {
   "itemName": "Four Ball Tee",
-  "color": "Purple",
   "internalName": "TopsTexTopTshirtsHNumberball4",
   "hex": "6Ph2bu6vvIk",
   "image": "FtrIcon/TopsTexTopTshirtsHNumberball4.png"
@@ -73028,7 +73034,6 @@
  },
  {
   "itemName": "Comic Shorts",
-  "color": "Black",
   "internalName": "BottomsTexPantsHalfComic0",
   "hex": "ZAXjj74d1zA",
   "image": "FtrIcon/BottomsTexPantsHalfComic0.png"
@@ -74519,14 +74524,12 @@
  },
  {
   "itemName": "Grass Skirt",
-  "color": "Brown",
   "internalName": "BottomsTexSkirtBoxGrass0",
   "hex": "0upBpK7Fwlw",
   "image": "FtrIcon/BottomsTexSkirtBoxGrass0.png"
  },
  {
   "itemName": "Green Grass Skirt",
-  "color": "Green",
   "internalName": "BottomsTexSkirtBoxGrass1",
   "hex": "9WkkCh0M5Ag",
   "image": "FtrIcon/BottomsTexSkirtBoxGrass1.png"
@@ -75429,7 +75432,6 @@
  },
  {
   "itemName": "Pearl Skirt",
-  "color": "Navy blue",
   "internalName": "BottomsTexSkirtAlinePearlNavy",
   "hex": "p3t3qZBkkHg",
   "image": "FtrIcon/BottomsTexSkirtAlinePearlNavy.png"
@@ -77011,7 +77013,6 @@
  },
  {
   "itemName": "Western Pants",
-  "color": "Brown",
   "internalName": "BottomsTexPantsWideCowboyBrown",
   "hex": "ezKcPBMGyJY",
   "image": "FtrIcon/BottomsTexPantsWideCowboyBrown.png"
@@ -77179,7 +77180,6 @@
  },
  {
   "itemName": "Adventure Dress",
-  "color": "Blue",
   "internalName": "TopsTexOnepieceBalloonHStrangeBlue",
   "hex": "19cssbVkZCc",
   "image": "FtrIcon/TopsTexOnepieceBalloonHStrangeBlue.png"
@@ -77333,7 +77333,6 @@
  },
  {
   "itemName": "Apple Dress",
-  "color": "Red",
   "internalName": "TopsTexOnepieceAlineNApple0",
   "hex": "w7gwRp5Szvo",
   "image": "FtrIcon/TopsTexOnepieceAlineNApple0.png"
@@ -77781,7 +77780,6 @@
  },
  {
   "itemName": "Bingata Dress",
-  "color": "Yellow",
   "internalName": "TopsTexOnepieceKimonoLBingata0",
   "hex": "C64eZSqCOE8",
   "image": "FtrIcon/TopsTexOnepieceKimonoLBingata0.png"
@@ -77928,7 +77926,6 @@
  },
  {
   "itemName": "Bone Costume",
-  "color": "White",
   "internalName": "TopsTexOnepieceOverallLBoneWhite",
   "hex": "0J7mHa0bYRM",
   "image": "FtrIcon/TopsTexOnepieceOverallLBoneWhite.png"
@@ -78249,7 +78246,6 @@
  },
  {
   "itemName": "Cherry Dress",
-  "color": "Red",
   "internalName": "TopsTexOnepieceAlineNCherry0",
   "hex": "SWcLjbsKjzM",
   "image": "FtrIcon/TopsTexOnepieceAlineNCherry0.png"
@@ -78319,14 +78315,12 @@
  },
  {
   "itemName": "China Poblana",
-  "color": "Red",
   "internalName": "TopsTexOnepieceDressHChinapoblanaRed",
   "hex": "DZl2mp6PRtw",
   "image": "FtrIcon/TopsTexOnepieceDressHChinapoblanaRed.png"
  },
  {
   "itemName": "Chiton",
-  "color": "White",
   "internalName": "TopsTexOnepieceBoxNGreece",
   "hex": "gby8R1OkQaU",
   "image": "FtrIcon/TopsTexOnepieceBoxNGreece.png"
@@ -78711,7 +78705,6 @@
  },
  {
   "itemName": "Dragon Suit",
-  "color": "Yellow",
   "internalName": "TopsTexOnepieceOverallLDragonYellow",
   "hex": "t29vmQR2BA8",
   "image": "FtrIcon/TopsTexOnepieceOverallLDragonYellow.png"
@@ -78746,21 +78739,18 @@
  },
  {
   "itemName": "Earth Egg Outfit",
-  "color": "None",
   "internalName": "TopsTexOnepieceRibNEggground0",
   "hex": "HZfvAJ467G8",
   "image": "FtrIcon/TopsTexOnepieceRibNEggground0.png"
  },
  {
   "itemName": "Egg Party Dress",
-  "color": "None",
   "internalName": "TopsTexOnepieceBalloonLEgg0",
   "hex": "66pgADxiMZk",
   "image": "FtrIcon/TopsTexOnepieceBalloonLEgg0.png"
  },
  {
   "itemName": "Egg Sushi Costume",
-  "color": "White",
   "internalName": "TopsTexOnepieceRibNEgg",
   "hex": "5Az54VU5hog",
   "image": "FtrIcon/TopsTexOnepieceRibNEgg.png"
@@ -79047,7 +79037,6 @@
  },
  {
   "itemName": "Festive Dress",
-  "color": "Red",
   "internalName": "TopsTexOnepieceBalloonNXmasRed",
   "hex": "zhN81Vl4pl0",
   "image": "FtrIcon/TopsTexOnepieceBalloonNXmasRed.png"
@@ -79453,7 +79442,6 @@
  },
  {
   "itemName": "Folk Dance Outfit",
-  "color": "Red",
   "internalName": "TopsTexOnepieceOverallLVolendam",
   "hex": "zuMT2ebCRIY",
   "image": "FtrIcon/TopsTexOnepieceOverallLVolendam.png"
@@ -79677,21 +79665,18 @@
  },
  {
   "itemName": "Gizzard Shad Sushi Costume",
-  "color": "White",
   "internalName": "TopsTexOnepieceRibNKohada",
   "hex": "p9zE04zIiNg",
   "image": "FtrIcon/TopsTexOnepieceRibNKohada.png"
  },
  {
   "itemName": "Gold Armor",
-  "color": "Gold",
   "internalName": "TopsTexOnepieceOverallLPlatearmorGold",
   "hex": "E3TrKnC0Gv4",
   "image": "FtrIcon/TopsTexOnepieceOverallLPlatearmorGold.png"
  },
  {
   "itemName": "Grape Dress",
-  "color": "Purple",
   "internalName": "TopsTexOnepieceAlineNGrape",
   "hex": "kzTH6ST5B3I",
   "image": "FtrIcon/TopsTexOnepieceAlineNGrape.png"
@@ -79733,7 +79718,6 @@
  },
  {
   "itemName": "Hakama With Crest",
-  "color": "Black",
   "internalName": "TopsTexOnepieceKimonoLCrested0",
   "hex": "ZNMwOnULVlQ",
   "image": "FtrIcon/TopsTexOnepieceKimonoLCrested0.png"
@@ -79761,7 +79745,6 @@
  },
  {
   "itemName": "Hot Dog Costume",
-  "color": "Mustard",
   "internalName": "TopsTexOnepieceRibNHotdogMustard",
   "hex": "bSiALXLuxPs",
   "image": "FtrIcon/TopsTexOnepieceRibNHotdogMustard.png"
@@ -79838,7 +79821,6 @@
  },
  {
   "itemName": "Icy Dress",
-  "color": "Ice blue",
   "internalName": "TopsTexOnepieceRobeLIcequeen0",
   "hex": "4WSZ90ZoemM",
   "image": "FtrIcon/TopsTexOnepieceRobeLIcequeen0.png"
@@ -79915,7 +79897,6 @@
  },
  {
   "itemName": "Iron Armor",
-  "color": "Gray",
   "internalName": "TopsTexOnepieceOverallLPlatearmorIron",
   "hex": "9PAcAH6BTlo",
   "image": "FtrIcon/TopsTexOnepieceOverallLPlatearmorIron.png"
@@ -80097,7 +80078,6 @@
  },
  {
   "itemName": "Junihitoe Kimono",
-  "color": "Red",
   "internalName": "TopsTexOnepieceKimonoLTwelve0",
   "hex": "MSx9drSnu2I",
   "image": "FtrIcon/TopsTexOnepieceKimonoLTwelve0.png"
@@ -80160,7 +80140,6 @@
  },
  {
   "itemName": "Kiwi Dress",
-  "color": "Green",
   "internalName": "TopsTexOnepieceAlineNKiwi",
   "hex": "HN8BRGzw164",
   "image": "FtrIcon/TopsTexOnepieceAlineNKiwi.png"
@@ -80300,7 +80279,6 @@
  },
  {
   "itemName": "Leaf Egg Outfit",
-  "color": "None",
   "internalName": "TopsTexOnepieceRibNEggleaf0",
   "hex": "WJZWuTpJe1E",
   "image": "FtrIcon/TopsTexOnepieceRibNEggleaf0.png"
@@ -80342,7 +80320,6 @@
  },
  {
   "itemName": "Lively Plaid Dress",
-  "color": "Green",
   "internalName": "TopsTexOnepieceAlineHPlaid0",
   "hex": "92tD9fIvJz8",
   "image": "FtrIcon/TopsTexOnepieceAlineHPlaid0.png"
@@ -80790,7 +80767,6 @@
  },
  {
   "itemName": "Moldy Dress",
-  "color": "Beige",
   "internalName": "TopsTexOnepieceAlineLMold",
   "hex": "tygQ1nyIXc4",
   "image": "FtrIcon/TopsTexOnepieceAlineLMold.png"
@@ -80825,7 +80801,6 @@
  },
  {
   "itemName": "Mummy Outfit",
-  "color": "White",
   "internalName": "TopsTexOnepieceOverallLMummyWhite",
   "hex": "ts9G5ggdBiM",
   "image": "FtrIcon/TopsTexOnepieceOverallLMummyWhite.png"
@@ -81126,7 +81101,6 @@
  },
  {
   "itemName": "Orange Dress",
-  "color": "Orange",
   "internalName": "TopsTexOnepieceAlineNOrange",
   "hex": "kfpg81Ta5Z8",
   "image": "FtrIcon/TopsTexOnepieceAlineNOrange.png"
@@ -81301,7 +81275,6 @@
  },
  {
   "itemName": "Palatial Tank Dress",
-  "color": "White",
   "internalName": "TopsTexOnepieceAlongNNile",
   "hex": "1sxR3LcLewE",
   "image": "FtrIcon/TopsTexOnepieceAlongNNile.png"
@@ -81364,7 +81337,6 @@
  },
  {
   "itemName": "Peach Dress",
-  "color": "Peach",
   "internalName": "TopsTexOnepieceAlineNPeach0",
   "hex": "7VK2WFzlEG8",
   "image": "FtrIcon/TopsTexOnepieceAlineNPeach0.png"
@@ -81385,14 +81357,12 @@
  },
  {
   "itemName": "Pear Dress",
-  "color": "Beige",
   "internalName": "TopsTexOnepieceAlineNPear0",
   "hex": "FuzKzPLc3dM",
   "image": "FtrIcon/TopsTexOnepieceAlineNPear0.png"
  },
  {
   "itemName": "Pharaoh's Outfit",
-  "color": "White",
   "internalName": "TopsTexOnepieceBlongHEgypt",
   "hex": "v5y5MA6PTaQ",
   "image": "FtrIcon/TopsTexOnepieceBlongHEgypt.png"
@@ -81441,7 +81411,6 @@
  },
  {
   "itemName": "Pineapple Dress",
-  "color": "Yellow",
   "internalName": "TopsTexOnepieceAlineNPineapple",
   "hex": "zoemwUGgXVE",
   "image": "FtrIcon/TopsTexOnepieceAlineNPineapple.png"
@@ -82120,14 +82089,12 @@
  },
  {
   "itemName": "School Smock",
-  "color": "Blue",
   "internalName": "TopsTexOnepieceBoxLSchoolsmockNavy",
   "hex": "yNkObpiscLk",
   "image": "FtrIcon/TopsTexOnepieceBoxLSchoolsmockNavy.png"
  },
  {
   "itemName": "Security Uniform",
-  "color": "Navy blue",
   "internalName": "TopsTexOnepieceOverallLPoliceNavy",
   "hex": "yL4dCZPvQVI",
   "image": "FtrIcon/TopsTexOnepieceOverallLPoliceNavy.png"
@@ -82435,7 +82402,6 @@
  },
  {
   "itemName": "Sky Egg Outfit",
-  "color": "None",
   "internalName": "TopsTexOnepieceRibNEggsky0",
   "hex": "5nITMbpujg0",
   "image": "FtrIcon/TopsTexOnepieceRibNEggsky0.png"
@@ -82561,7 +82527,6 @@
  },
  {
   "itemName": "Space Suit",
-  "color": "White",
   "internalName": "TopsTexOnepieceOverallLSpaceWhite",
   "hex": "IORi9u33TKg",
   "image": "FtrIcon/TopsTexOnepieceOverallLSpaceWhite.png"
@@ -82701,14 +82666,12 @@
  },
  {
   "itemName": "Stone Egg Outfit",
-  "color": "None",
   "internalName": "TopsTexOnepieceRibNEggrock0",
   "hex": "3bgHGeGRqbA",
   "image": "FtrIcon/TopsTexOnepieceRibNEggrock0.png"
  },
  {
   "itemName": "Strawberry Dress",
-  "color": "Red",
   "internalName": "TopsTexOnepieceAlineNStrawberry",
   "hex": "emXstfFAq4A",
   "image": "FtrIcon/TopsTexOnepieceAlineNStrawberry.png"
@@ -83261,7 +83224,6 @@
  },
  {
   "itemName": "Tuna Sushi Costume",
-  "color": "White",
   "internalName": "TopsTexOnepieceRibNTuna",
   "hex": "zZZLzeGRf74",
   "image": "FtrIcon/TopsTexOnepieceRibNTuna.png"
@@ -83331,28 +83293,24 @@
  },
  {
   "itemName": "Visual Punk Dress",
-  "color": "Black",
   "internalName": "TopsTexOnepieceBalloonHVisual0",
   "hex": "cgEemhHjPPY",
   "image": "FtrIcon/TopsTexOnepieceBalloonHVisual0.png"
  },
  {
   "itemName": "Visual Punk Outfit",
-  "color": "Black",
   "internalName": "TopsTexOnepieceOverallLVisualBlack",
   "hex": "Sw0AlcNg2m0",
   "image": "FtrIcon/TopsTexOnepieceOverallLVisualBlack.png"
  },
  {
   "itemName": "Water Egg Outfit",
-  "color": "None",
   "internalName": "TopsTexOnepieceRibNEggfish0",
   "hex": "5W9EBmeh5E0",
   "image": "FtrIcon/TopsTexOnepieceRibNEggfish0.png"
  },
  {
   "itemName": "Watermelon Dress",
-  "color": "Red",
   "internalName": "TopsTexOnepieceAlineNWatermelon",
   "hex": "iIlyyrTbzzA",
   "image": "FtrIcon/TopsTexOnepieceAlineNWatermelon.png"
@@ -83379,7 +83337,6 @@
  },
  {
   "itemName": "Wood Egg Outfit",
-  "color": "None",
   "internalName": "TopsTexOnepieceRibNEggforest0",
   "hex": "ZynmwzGs5bg",
   "image": "FtrIcon/TopsTexOnepieceRibNEggforest0.png"
@@ -83610,14 +83567,12 @@
  },
  {
   "itemName": "Ancient Administrator Hat",
-  "color": "Black",
   "internalName": "CapHatKanboBlack",
   "hex": "oMpbuVAoyEY",
   "image": "FtrIcon/CapHatKanboBlack.png"
  },
  {
   "itemName": "Apple Hat",
-  "color": "Red",
   "internalName": "CapHatApple0",
   "hex": "eKcXgxUmsOc",
   "image": "FtrIcon/CapHatApple0.png"
@@ -83736,14 +83691,12 @@
  },
  {
   "itemName": "Bamboo Hat",
-  "color": "Beige",
   "internalName": "CapHatAjiroBeige",
   "hex": "h1ofsNxubIs",
   "image": "FtrIcon/CapHatAjiroBeige.png"
  },
  {
   "itemName": "Barrette",
-  "color": "Pink",
   "internalName": "CapOrnamentTBarrette0",
   "hex": "XAJojnLVcQY",
   "image": "FtrIcon/CapOrnamentTBarrette0.png"
@@ -83967,7 +83920,6 @@
  },
  {
   "itemName": "Blue Rose Crown",
-  "color": "Blue",
   "internalName": "CapOrnamentRose4",
   "hex": "5DWI2z93f7E",
   "image": "FtrIcon/CapOrnamentRose4.png"
@@ -84119,7 +84071,6 @@
  },
  {
   "itemName": "Captain's Hat",
-  "color": "White",
   "internalName": "CapHatCaptainWhite",
   "hex": "0mE1utR23jg",
   "image": "FtrIcon/CapHatCaptainWhite.png"
@@ -84203,42 +84154,36 @@
  },
  {
   "itemName": "Chef's Hat",
-  "color": "White",
   "internalName": "CapHatCockWhite",
   "hex": "4BLWvceSz0o",
   "image": "FtrIcon/CapHatCockWhite.png"
  },
  {
   "itemName": "Cherry Hat",
-  "color": "Red",
   "internalName": "CapHatCherry0",
   "hex": "y4q0IYC5CRc",
   "image": "FtrIcon/CapHatCherry0.png"
  },
  {
   "itemName": "Chic Mum Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentMum2",
   "hex": "MFEDFcpD2NU",
   "image": "FtrIcon/CapOrnamentMum2.png"
  },
  {
   "itemName": "Chic Rose Crown",
-  "color": "Purple",
   "internalName": "CapOrnamentRose3",
   "hex": "uNRw3AJKX2I",
   "image": "FtrIcon/CapOrnamentRose3.png"
  },
  {
   "itemName": "Chic Tulip Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentTulip2",
   "hex": "64mYKAAVpjM",
   "image": "FtrIcon/CapOrnamentTulip2.png"
  },
  {
   "itemName": "Coin Headpiece",
-  "color": "Gold",
   "internalName": "CapHelmetCoinGold",
   "hex": "YwlqEzJaacY",
   "image": "FtrIcon/CapHelmetCoinGold.png"
@@ -84301,56 +84246,48 @@
  },
  {
   "itemName": "Composer's Wig",
-  "color": "Hair Color",
   "internalName": "CapHelmetMusicBlack",
   "hex": "gLvERl1lyDM",
   "image": "FtrIcon/CapHelmetMusicBlack.png"
  },
  {
   "itemName": "Cool Hyacinth Crown",
-  "color": "Blue",
   "internalName": "CapOrnamentHyacinth2",
   "hex": "h8ZLa6TRYzE",
   "image": "FtrIcon/CapOrnamentHyacinth2.png"
  },
  {
   "itemName": "Cool Pansy Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentPansy2",
   "hex": "huU2mBz00ok",
   "image": "FtrIcon/CapOrnamentPansy2.png"
  },
  {
   "itemName": "Cool Windflower Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentAnemone2",
   "hex": "RRKFjrVOos0",
   "image": "FtrIcon/CapOrnamentAnemone2.png"
  },
  {
   "itemName": "Cosmos Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentCosmos1",
   "hex": "6DPlmyF17sQ",
   "image": "FtrIcon/CapOrnamentCosmos1.png"
  },
  {
   "itemName": "Crown",
-  "color": "Gold",
   "internalName": "CapOrnamentAQueen0",
   "hex": "yNBQBmR2z8w",
   "image": "FtrIcon/CapOrnamentAQueen0.png"
  },
  {
   "itemName": "Cute Lily Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentYuri2",
   "hex": "aiFodRdpuv4",
   "image": "FtrIcon/CapOrnamentYuri2.png"
  },
  {
   "itemName": "Cute Rose Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentRose2",
   "hex": "VbzXxdodwxg",
   "image": "FtrIcon/CapOrnamentRose2.png"
@@ -84413,7 +84350,6 @@
  },
  {
   "itemName": "DAL Cap",
-  "color": "Blue",
   "internalName": "CapHatDal0",
   "hex": "xailJEmZMOo",
   "image": "FtrIcon/CapHatDal0.png"
@@ -84462,21 +84398,18 @@
  },
  {
   "itemName": "Dark Cosmos Crown",
-  "color": "Dark red",
   "internalName": "CapOrnamentCosmos3",
   "hex": "1RHutYxTRsM",
   "image": "FtrIcon/CapOrnamentCosmos3.png"
  },
  {
   "itemName": "Dark Lily Crown",
-  "color": "Dark red",
   "internalName": "CapOrnamentYuri3",
   "hex": "XsUWlDCoo2U",
   "image": "FtrIcon/CapOrnamentYuri3.png"
  },
  {
   "itemName": "Dark Tulip Crown",
-  "color": "Dark red",
   "internalName": "CapOrnamentTulip3",
   "hex": "mzDz5aQ66FQ",
   "image": "FtrIcon/CapOrnamentTulip3.png"
@@ -84630,28 +84563,24 @@
  },
  {
   "itemName": "Earth Egg Shell",
-  "color": "None",
   "internalName": "CapHatEggground0",
   "hex": "JLOhtuORTWQ",
   "image": "FtrIcon/CapHatEggground0.png"
  },
  {
   "itemName": "Egg Party Hat",
-  "color": "None",
   "internalName": "CapHatEggparty0",
   "hex": "0yPvLlVmqyQ",
   "image": "FtrIcon/CapHatEggparty0.png"
  },
  {
   "itemName": "Eggshell",
-  "color": "White",
   "internalName": "CapHatEggWhite",
   "hex": "eu0zNoWzDLw",
   "image": "FtrIcon/CapHatEggWhite.png"
  },
  {
   "itemName": "Elder Mask",
-  "color": "White",
   "internalName": "CapMaskOkinaWhite",
   "hex": "iEDE6jcs8JA",
   "image": "FtrIcon/CapMaskOkinaWhite.png"
@@ -85211,21 +85140,18 @@
  },
  {
   "itemName": "Glengarry",
-  "color": "Black",
   "internalName": "CapHatGreeneryRed",
   "hex": "YFGGzSdag8Y",
   "image": "FtrIcon/CapHatGreeneryRed.png"
  },
  {
   "itemName": "Gold Helmet",
-  "color": "Gold",
   "internalName": "CapFullfaceKnightGold",
   "hex": "oESDJX0UPS4",
   "image": "FtrIcon/CapFullfaceKnightGold.png"
  },
  {
   "itemName": "Gold Rose Crown",
-  "color": "Gold",
   "internalName": "CapOrnamentRose5",
   "hex": "Ymu5oRlZgZk",
   "image": "FtrIcon/CapOrnamentRose5.png"
@@ -85274,14 +85200,12 @@
  },
  {
   "itemName": "Grape Hat",
-  "color": "Purple",
   "internalName": "CapHatGrape",
   "hex": "huzORCFBa90",
   "image": "FtrIcon/CapHatGrape.png"
  },
  {
   "itemName": "Halo",
-  "color": "Gold",
   "internalName": "CapOrnamentAAngel0",
   "hex": "UBA0HDIRr2U",
   "image": "FtrIcon/CapOrnamentAAngel0.png"
@@ -85343,7 +85267,6 @@
  },
  {
   "itemName": "Headkerchief",
-  "color": "Green",
   "internalName": "CapFullfaceHokkamuriGreen",
   "hex": "FSzcpWK79iE",
   "image": "FtrIcon/CapFullfaceHokkamuriGreen.png"
@@ -85469,28 +85392,24 @@
  },
  {
   "itemName": "Hockey Mask",
-  "color": "White",
   "internalName": "AccessoryGlassmouthHockeyWhite",
   "hex": "byRvbMNL1RM",
   "image": "FtrIcon/AccessoryGlassmouthHockeyWhite.png"
  },
  {
   "itemName": "Hot Dog Hood",
-  "color": "Red",
   "internalName": "CapBangsSausage",
   "hex": "45VXR2fUc1Y",
   "image": "FtrIcon/CapBangsSausage.png"
  },
  {
   "itemName": "Hyacinth Crown",
-  "color": "Red",
   "internalName": "CapOrnamentHyacinth1",
   "hex": "1uRf81ciGRA",
   "image": "FtrIcon/CapOrnamentHyacinth1.png"
  },
  {
   "itemName": "Imitation Cow Skull",
-  "color": "White",
   "internalName": "CapHatCowWhite",
   "hex": "nTfyGitajaY",
   "image": "FtrIcon/CapHatCowWhite.png"
@@ -85630,14 +85549,12 @@
  },
  {
   "itemName": "Kiwi Hat",
-  "color": "Green",
   "internalName": "CapHatKiwi",
   "hex": "R4vK7Kt3fzs",
   "image": "FtrIcon/CapHatKiwi.png"
  },
  {
   "itemName": "Knight's Helmet",
-  "color": "Gray",
   "internalName": "CapFullfaceKnightIron",
   "hex": "uL9x7jkkaXs",
   "image": "FtrIcon/CapFullfaceKnightIron.png"
@@ -85833,14 +85750,12 @@
  },
  {
   "itemName": "Leaf Mask",
-  "color": "Green",
   "internalName": "CapMaskLeaf0",
   "hex": "bKwTyUDSQV8",
   "image": "FtrIcon/CapMaskLeaf0.png"
  },
  {
   "itemName": "Leaf Egg Shell",
-  "color": "None",
   "internalName": "CapHatEggleaf0",
   "hex": "JzKpXXgYtZQ",
   "image": "FtrIcon/CapHatEggleaf0.png"
@@ -85868,14 +85783,12 @@
  },
  {
   "itemName": "Lily Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentYuri1",
   "hex": "PRw09QlC7ZQ",
   "image": "FtrIcon/CapOrnamentYuri1.png"
  },
  {
   "itemName": "Lovely Cosmos Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentCosmos2",
   "hex": "9fGLy10QDHE",
   "image": "FtrIcon/CapOrnamentCosmos2.png"
@@ -85931,7 +85844,6 @@
  },
  {
   "itemName": "Matronly Bun",
-  "color": "Hair Color",
   "internalName": "CapWigOnionhair",
   "hex": "UPdTry5rSsA",
   "image": "FtrIcon/CapWigOnionhair.png"
@@ -85987,28 +85899,24 @@
  },
  {
   "itemName": "Milkmaid Hat",
-  "color": "White",
   "internalName": "CapBangsVolendamWhite",
   "hex": "v3itzbFGT54",
   "image": "FtrIcon/CapBangsVolendamWhite.png"
  },
  {
   "itemName": "Mohawk Wig",
-  "color": "Hair Color",
   "internalName": "CapWigMohican",
   "hex": "fSheMgBJah8",
   "image": "FtrIcon/CapWigMohican.png"
  },
  {
   "itemName": "Mum Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentMum1",
   "hex": "CH2JZwgVByU",
   "image": "FtrIcon/CapOrnamentMum1.png"
  },
  {
   "itemName": "Mummy Mask",
-  "color": "White",
   "internalName": "CapFullfaceMummyWhite",
   "hex": "nC0aAXMYO20",
   "image": "FtrIcon/CapFullfaceMummyWhite.png"
@@ -86183,21 +86091,18 @@
  },
  {
   "itemName": "Noh Mask",
-  "color": "White",
   "internalName": "CapMaskNomenWhite",
   "hex": "HHz9oPKoX1Y",
   "image": "FtrIcon/CapMaskNomenWhite.png"
  },
  {
   "itemName": "Nook Inc. Bandanna",
-  "color": "Yellow",
   "internalName": "CapHatBandanaRco",
   "hex": "P11RreOJ4rs",
   "image": "FtrIcon/CapHatBandanaRco.png"
  },
  {
   "itemName": "Nook Inc. Cap",
-  "color": "Green",
   "internalName": "CapHatMeshcapRco",
   "hex": "2IyVWGPWflo",
   "image": "FtrIcon/CapHatMeshcapRco.png"
@@ -86231,7 +86136,6 @@
  },
  {
   "itemName": "Orange Hat",
-  "color": "Orange",
   "internalName": "CapHatOrange",
   "hex": "r3IYrdAGPc0",
   "image": "FtrIcon/CapHatOrange.png"
@@ -86413,14 +86317,12 @@
  },
  {
   "itemName": "Pansy Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentPansy1",
   "hex": "qE375S1lDcY",
   "image": "FtrIcon/CapOrnamentPansy1.png"
  },
  {
   "itemName": "Paper Bag",
-  "color": "Beige",
   "internalName": "CapFullfacePaperbagBeige",
   "hex": "RHMlvbvt47k",
   "image": "FtrIcon/CapFullfacePaperbagBeige.png"
@@ -86483,21 +86385,18 @@
  },
  {
   "itemName": "Peach Hat",
-  "color": "Peach",
   "internalName": "CapHatPeach0",
   "hex": "6KRX1WNR5no",
   "image": "FtrIcon/CapHatPeach0.png"
  },
  {
   "itemName": "Pear Hat",
-  "color": "Green",
   "internalName": "CapHatPear0",
   "hex": "6Wkq5vEmi80",
   "image": "FtrIcon/CapHatPear0.png"
  },
  {
   "itemName": "Pigtail",
-  "color": "Hair Color",
   "internalName": "CapWigPigtail",
   "hex": "C32p4j4T0GU",
   "image": "FtrIcon/CapWigPigtail.png"
@@ -86546,7 +86445,6 @@
  },
  {
   "itemName": "Pineapple Cap",
-  "color": "Yellow",
   "internalName": "CapHatPineapple",
   "hex": "zRIysnDTwc0",
   "image": "FtrIcon/CapHatPineapple.png"
@@ -86588,7 +86486,6 @@
  },
  {
   "itemName": "Police Cap",
-  "color": "Navy blue",
   "internalName": "CapHatPoliceNavy",
   "hex": "zBRPKEEbnyE",
   "image": "FtrIcon/CapHatPoliceNavy.png"
@@ -86637,7 +86534,6 @@
  },
  {
   "itemName": "Pompadour Wig",
-  "color": "Hair Color",
   "internalName": "CapWigRegent",
   "hex": "MzBvMIX0Ch4",
   "image": "FtrIcon/CapWigRegent.png"
@@ -86672,21 +86568,18 @@
  },
  {
   "itemName": "Purple Hyacinth Crown",
-  "color": "Purple",
   "internalName": "CapOrnamentHyacinth3",
   "hex": "dI8HDQsGY9c",
   "image": "FtrIcon/CapOrnamentHyacinth3.png"
  },
  {
   "itemName": "Purple Pansy Crown",
-  "color": "Purple",
   "internalName": "CapOrnamentPansy3",
   "hex": "3IztUZ5w7R0",
   "image": "FtrIcon/CapOrnamentPansy3.png"
  },
  {
   "itemName": "Purple Windflower Crown",
-  "color": "Purple",
   "internalName": "CapOrnamentAnemone3",
   "hex": "KjTqibuuXPY",
   "image": "FtrIcon/CapOrnamentAnemone3.png"
@@ -86910,14 +86803,12 @@
  },
  {
   "itemName": "Rose Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentRose1",
   "hex": "zaRpzMAOSGE",
   "image": "FtrIcon/CapOrnamentRose1.png"
  },
  {
   "itemName": "Royal Crown",
-  "color": "Red",
   "internalName": "CapHatCrownRed",
   "hex": "aXVTn6rUvrs",
   "image": "FtrIcon/CapHatCrownRed.png"
@@ -87015,7 +86906,6 @@
  },
  {
   "itemName": "Samurai Wig",
-  "color": "Hair Color",
   "internalName": "CapWigSamurai",
   "hex": "c2HJqEFR1CM",
   "image": "FtrIcon/CapWigSamurai.png"
@@ -87169,7 +87059,6 @@
  },
  {
   "itemName": "Simple Mum Crown",
-  "color": "Green",
   "internalName": "CapOrnamentMum3",
   "hex": "9DltbxVeQNk",
   "image": "FtrIcon/CapOrnamentMum3.png"
@@ -87211,7 +87100,6 @@
  },
  {
   "itemName": "Skeleton Hood",
-  "color": "White",
   "internalName": "CapCostumeSkullWhite",
   "hex": "nPV54YyARPo",
   "image": "FtrIcon/CapCostumeSkullWhite.png"
@@ -87253,7 +87141,6 @@
  },
  {
   "itemName": "Sky Egg Shell",
-  "color": "None",
   "internalName": "CapHatEggsky0",
   "hex": "rnNUcKjQwHU",
   "image": "FtrIcon/CapHatEggsky0.png"
@@ -87281,7 +87168,6 @@
  },
  {
   "itemName": "Snowperson Head",
-  "color": "White",
   "internalName": "CapCostumeSnowball0",
   "hex": "H7ccYR3gm7o",
   "image": "FtrIcon/CapCostumeSnowball0.png"
@@ -87456,7 +87342,6 @@
  },
  {
   "itemName": "Space Helmet",
-  "color": "White",
   "internalName": "CapFullfaceAstronautWhite",
   "hex": "uezBV0MaJ48",
   "image": "FtrIcon/CapFullfaceAstronautWhite.png"
@@ -87491,7 +87376,6 @@
  },
  {
   "itemName": "Stagehand Hat",
-  "color": "Black",
   "internalName": "CapFullfaceKurokoBlack",
   "hex": "HAgsOyu6Y8E",
   "image": "FtrIcon/CapFullfaceKurokoBlack.png"
@@ -87533,14 +87417,12 @@
  },
  {
   "itemName": "Star Head",
-  "color": "Yellow",
   "internalName": "CapCostumeStar0",
   "hex": "8UWDRwJPaFA",
   "image": "FtrIcon/CapCostumeStar0.png"
  },
  {
   "itemName": "Stone Egg Shell",
-  "color": "None",
   "internalName": "CapHatEggrock0",
   "hex": "RXtLomxtGm0",
   "image": "FtrIcon/CapHatEggrock0.png"
@@ -87624,14 +87506,12 @@
  },
  {
   "itemName": "Straw Umbrella Hat",
-  "color": "Brown",
   "internalName": "CapHatSandogasa0",
   "hex": "Dzy1no0mzc0",
   "image": "FtrIcon/CapHatSandogasa0.png"
  },
  {
   "itemName": "Strawberry Hat",
-  "color": "Red",
   "internalName": "CapHatStrawberry",
   "hex": "8EfbAZEL9AM",
   "image": "FtrIcon/CapHatStrawberry.png"
@@ -88036,7 +87916,6 @@
  },
  {
   "itemName": "Tulip Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentTulip1",
   "hex": "EeN6SR03hS8",
   "image": "FtrIcon/CapOrnamentTulip1.png"
@@ -88197,28 +88076,24 @@
  },
  {
   "itemName": "Visual Punk Wig",
-  "color": "Hair Color",
   "internalName": "CapWigVisual",
   "hex": "i6HGYVwHKxA",
   "image": "FtrIcon/CapWigVisual.png"
  },
  {
   "itemName": "Water Egg Shell",
-  "color": "None",
   "internalName": "CapHatEggfish0",
   "hex": "kYf7agzhu9Q",
   "image": "FtrIcon/CapHatEggfish0.png"
  },
  {
   "itemName": "Watermelon Hat",
-  "color": "Red",
   "internalName": "CapHatWatermelon",
   "hex": "NC7M1t6dDXQ",
   "image": "FtrIcon/CapHatWatermelon.png"
  },
  {
   "itemName": "Welding Mask",
-  "color": "Red",
   "internalName": "CapMaskWelderRed",
   "hex": "wdvDhONXXLw",
   "image": "FtrIcon/CapMaskWelderRed.png"
@@ -88246,7 +88121,6 @@
  },
  {
   "itemName": "Windflower Crown",
-  "color": "Colorful",
   "internalName": "CapOrnamentAnemone1",
   "hex": "kKqI3ahG87Y",
   "image": "FtrIcon/CapOrnamentAnemone1.png"
@@ -88267,7 +88141,6 @@
  },
  {
   "itemName": "Wood Egg Shell",
-  "color": "None",
   "internalName": "CapHatEggforest0",
   "hex": "4401NnrUftQ",
   "image": "FtrIcon/CapHatEggforest0.png"
@@ -88442,14 +88315,12 @@
  },
  {
   "itemName": "Bandage",
-  "color": "Beige",
   "internalName": "AccessoryMouthBandageSkin",
   "hex": "31NvfwARwZA",
   "image": "FtrIcon/AccessoryMouthBandageSkin.png"
  },
  {
   "itemName": "Beak",
-  "color": "Yellow",
   "internalName": "AccessoryMouthBeakYellow",
   "hex": "hhrstnVjLRU",
   "image": "FtrIcon/AccessoryMouthBeakYellow.png"
@@ -88680,14 +88551,12 @@
  },
  {
   "itemName": "Cucumber Pack",
-  "color": "Green",
   "internalName": "AccessoryMouthCucumber",
   "hex": "RZHL6DEIg34",
   "image": "FtrIcon/AccessoryMouthCucumber.png"
  },
  {
   "itemName": "Curly Mustache",
-  "color": "Black",
   "internalName": "AccessoryMouthRollingmustacheBlack",
   "hex": "zFxSo5EauiY",
   "image": "FtrIcon/AccessoryMouthRollingmustacheBlack.png"
@@ -88736,21 +88605,18 @@
  },
  {
   "itemName": "DAL Eye Mask",
-  "color": "Blue",
   "internalName": "AccessoryGlassDalmask0",
   "hex": "8PwGrnfMYWE",
   "image": "FtrIcon/AccessoryGlassDalmask0.png"
  },
  {
   "itemName": "DAL Sunglasses",
-  "color": "Yellow",
   "internalName": "AccessoryGlassDalglass0",
   "hex": "aAkjCBrbOrw",
   "image": "FtrIcon/AccessoryGlassDalglass0.png"
  },
  {
   "itemName": "Doctor's Mask",
-  "color": "White",
   "internalName": "AccessoryMouthMaskWhite",
   "hex": "pWbo4rHMebc",
   "image": "FtrIcon/AccessoryMouthMaskWhite.png"
@@ -88848,21 +88714,18 @@
  },
  {
   "itemName": "Eye Patch",
-  "color": "Black",
   "internalName": "AccessoryGlassPatchBlack",
   "hex": "eeDOjh5XXzU",
   "image": "FtrIcon/AccessoryGlassPatchBlack.png"
  },
  {
   "itemName": "Facial Mask",
-  "color": "White",
   "internalName": "AccessoryGlassmouthPackWhite",
   "hex": "rWLc6zNj1A4",
   "image": "FtrIcon/AccessoryGlassmouthPackWhite.png"
  },
  {
   "itemName": "Fake Nose",
-  "color": "Red",
   "internalName": "AccessoryGlassmouthNoseRed",
   "hex": "MvROdUkeeXE",
   "image": "FtrIcon/AccessoryGlassmouthNoseRed.png"
@@ -88904,7 +88767,6 @@
  },
  {
   "itemName": "Food Mess",
-  "color": "Pasta",
   "internalName": "AccessoryMouthPasta",
   "hex": "RCitHK49I44",
   "image": "FtrIcon/AccessoryMouthPasta.png"
@@ -88946,14 +88808,12 @@
  },
  {
   "itemName": "Glass Bottle Glasses",
-  "color": "Black",
   "internalName": "AccessoryGlassBottleBlack",
   "hex": "gsXKnKoa1jI",
   "image": "FtrIcon/AccessoryGlassBottleBlack.png"
  },
  {
   "itemName": "Goatee",
-  "color": "Black",
   "internalName": "AccessoryMouthBeardChinBlack",
   "hex": "6Dz5GZ8iml8",
   "image": "FtrIcon/AccessoryMouthBeardChinBlack.png"
@@ -89002,7 +88862,6 @@
  },
  {
   "itemName": "Handlebar Mustache",
-  "color": "Black",
   "internalName": "AccessoryMouthBeardBlack",
   "hex": "ioOb0lWRdBw",
   "image": "FtrIcon/AccessoryMouthBeardBlack.png"
@@ -89044,7 +88903,6 @@
  },
  {
   "itemName": "Hmd",
-  "color": "White",
   "internalName": "AccessoryGlassHmdWhite",
   "hex": "jAVtjgJRwJ8",
   "image": "FtrIcon/AccessoryGlassHmdWhite.png"
@@ -89163,7 +89021,6 @@
  },
  {
   "itemName": "Leaf",
-  "color": "Green",
   "internalName": "AccessoryMouthLeafGreen",
   "hex": "Wxt7ALSeiZY",
   "image": "FtrIcon/AccessoryMouthLeafGreen.png"
@@ -89233,21 +89090,18 @@
  },
  {
   "itemName": "Night Vision Goggles",
-  "color": "Black",
   "internalName": "AccessoryGlassNightvisionBlack",
   "hex": "KbxJRKXWtE0",
   "image": "FtrIcon/AccessoryGlassNightvisionBlack.png"
  },
  {
   "itemName": "Nook Inc. Eye Mask",
-  "color": "Green",
   "internalName": "AccessoryGlassNook0",
   "hex": "EjuHSMzYkF8",
   "image": "FtrIcon/AccessoryGlassNook0.png"
  },
  {
   "itemName": "Nose Drip",
-  "color": "Light blue",
   "internalName": "AccessoryMouthJokeDripCyan",
   "hex": "QXStctHJYY4",
   "image": "FtrIcon/AccessoryMouthJokeDripCyan.png"
@@ -89394,7 +89248,6 @@
  },
  {
   "itemName": "Pig Nose",
-  "color": "Pink",
   "internalName": "AccessoryMouthPigPink",
   "hex": "hRnK9f6dpg8",
   "image": "FtrIcon/AccessoryMouthPigPink.png"
@@ -89443,28 +89296,24 @@
  },
  {
   "itemName": "Pleather Mask",
-  "color": "Black",
   "internalName": "AccessoryMouthLeatherBlack",
   "hex": "pw1yZQ3cNKY",
   "image": "FtrIcon/AccessoryMouthLeatherBlack.png"
  },
  {
   "itemName": "Post Op Patch",
-  "color": "White",
   "internalName": "AccessoryGlassEyepatchWhite",
   "hex": "Z2LcmsY4Cqc",
   "image": "FtrIcon/AccessoryGlassEyepatchWhite.png"
  },
  {
   "itemName": "Privacy Mask",
-  "color": "Black",
   "internalName": "AccessoryMouthCrowBlack",
   "hex": "JRCDhXv7h4U",
   "image": "FtrIcon/AccessoryMouthCrowBlack.png"
  },
  {
   "itemName": "Reflector",
-  "color": "Gray",
   "internalName": "AccessoryGlassMirrorGray",
   "hex": "lDcvT7jA6Xo",
   "image": "FtrIcon/AccessoryGlassMirrorGray.png"
@@ -89653,14 +89502,12 @@
  },
  {
   "itemName": "Rounded Beard",
-  "color": "Black",
   "internalName": "AccessoryMouthBeardRoundBlack",
   "hex": "C34J0eZstGc",
   "image": "FtrIcon/AccessoryMouthBeardRoundBlack.png"
  },
  {
   "itemName": "Shattered Glasses",
-  "color": "Black",
   "internalName": "AccessoryGlassCrackBlack",
   "hex": "feARhpQZYy8",
   "image": "FtrIcon/AccessoryGlassCrackBlack.png"
@@ -89835,14 +89682,12 @@
  },
  {
   "itemName": "Sticky Rice",
-  "color": "White",
   "internalName": "AccessoryMouthRice",
   "hex": "FScF6uFQUmw",
   "image": "FtrIcon/AccessoryMouthRice.png"
  },
  {
   "itemName": "Superhero Mask",
-  "color": "Black",
   "internalName": "AccessoryGlassHeromaskBlack",
   "hex": "ixFOheREz7A",
   "image": "FtrIcon/AccessoryGlassHeromaskBlack.png"
@@ -91284,7 +91129,6 @@
  },
  {
   "itemName": "Nook Inc. Socks",
-  "color": "Yellow",
   "internalName": "SocksTexBorderRco",
   "hex": "VITjdgBsyGA",
   "image": "FtrIcon/SocksTexBorderRco.png"
@@ -92425,7 +92269,6 @@
  },
  {
   "itemName": "Armor Shoes",
-  "color": "Gray",
   "internalName": "ShoesKneeKnightIron",
   "hex": "kx3L4p9gKy4",
   "image": "FtrIcon/ShoesKneeKnightIron.png"
@@ -92922,14 +92765,12 @@
  },
  {
   "itemName": "DAL Slippers",
-  "color": "Blue",
   "internalName": "AccessoryGlassSlippers0",
   "hex": "jCRvSUYjaE0",
   "image": "FtrIcon/AccessoryGlassSlippers0.png"
  },
  {
   "itemName": "Earth Egg Shoes",
-  "color": "None",
   "internalName": "ShoesLowcutEggground0",
   "hex": "V4Uc1nOHv2o",
   "image": "FtrIcon/ShoesLowcutEggground0.png"
@@ -93230,7 +93071,6 @@
  },
  {
   "itemName": "Gold Armor Shoes",
-  "color": "Gold",
   "internalName": "ShoesKneeKnightGold",
   "hex": "eqwizwo6ePc",
   "image": "FtrIcon/ShoesKneeKnightGold.png"
@@ -93510,7 +93350,6 @@
  },
  {
   "itemName": "Kung Fu Shoes",
-  "color": "Black",
   "internalName": "ShoesLowcutKungfu0",
   "hex": "b4hBr9jJl0A",
   "image": "FtrIcon/ShoesLowcutKungfu0.png"
@@ -93629,7 +93468,6 @@
  },
  {
   "itemName": "Leaf Egg Shoes",
-  "color": "None",
   "internalName": "ShoesLowcutEggleaf0",
   "hex": "arXO3FKa7WU",
   "image": "FtrIcon/ShoesLowcutEggleaf0.png"
@@ -93909,7 +93747,6 @@
  },
  {
   "itemName": "Nook Inc. Slippers",
-  "color": "White",
   "internalName": "ShoesSandalRco",
   "hex": "GPnTaTQKzdo",
   "image": "FtrIcon/ShoesSandalRco.png"
@@ -94224,7 +94061,6 @@
  },
  {
   "itemName": "Recycled Boots",
-  "color": "Brown",
   "internalName": "ShoesKneeRecyclingboots0",
   "hex": "tRtMWh3Ndgo",
   "image": "FtrIcon/ShoesKneeRecyclingboots0.png"
@@ -94595,7 +94431,6 @@
  },
  {
   "itemName": "Sky Egg Shoes",
-  "color": "None",
   "internalName": "ShoesLowcutEggsky0",
   "hex": "Yfc4gLbqNaw",
   "image": "FtrIcon/ShoesLowcutEggsky0.png"
@@ -94805,7 +94640,6 @@
  },
  {
   "itemName": "Space Boots",
-  "color": "White",
   "internalName": "ShoesKneeSpaceWhite",
   "hex": "jzyuEMGdyEU",
   "image": "FtrIcon/ShoesKneeSpaceWhite.png"
@@ -94910,7 +94744,6 @@
  },
  {
   "itemName": "Stone Egg Shoes",
-  "color": "None",
   "internalName": "ShoesLowcutEggrock0",
   "hex": "zRSbnpd8mbM",
   "image": "FtrIcon/ShoesLowcutEggrock0.png"
@@ -95141,7 +94974,6 @@
  },
  {
   "itemName": "Visual Punk Boots",
-  "color": "Black",
   "internalName": "ShoesKneeVisualBlack",
   "hex": "1ZRfEadrCtY",
   "image": "FtrIcon/ShoesKneeVisualBlack.png"
@@ -95281,7 +95113,6 @@
  },
  {
   "itemName": "Water Egg Shoes",
-  "color": "None",
   "internalName": "ShoesLowcutEggfish0",
   "hex": "hHDqnZgUrTw",
   "image": "FtrIcon/ShoesLowcutEggfish0.png"
@@ -95377,7 +95208,6 @@
  },
  {
   "itemName": "Wood Egg Shoes",
-  "color": "None",
   "internalName": "ShoesLowcutEggforest0",
   "hex": "Ez4wNrAVHOA",
   "image": "FtrIcon/ShoesLowcutEggforest0.png"
@@ -95517,7 +95347,6 @@
  },
  {
   "itemName": "Zap Boots",
-  "color": "White",
   "internalName": "ShoesKneeHeroWhite",
   "hex": "vrVclFQSD30",
   "image": "FtrIcon/ShoesKneeHeroWhite.png"
@@ -95580,49 +95409,42 @@
  },
  {
   "itemName": "Acorn Pochette",
-  "color": "Brown",
   "internalName": "BagShoulderAcorn0",
   "hex": "Fw6VrxdwNzM",
   "image": "FtrIcon/BagShoulderAcorn0.png"
  },
  {
   "itemName": "Basket Pack",
-  "color": "Green",
   "internalName": "BagBackpackBasket0",
   "hex": "0x1OnAmMntM",
   "image": "FtrIcon/BagBackpackBasket0.png"
  },
  {
   "itemName": "Bug Cage",
-  "color": "Green",
   "internalName": "BagShoulderCage0",
   "hex": "e9n5zJhIGgo",
   "image": "FtrIcon/BagShoulderCage0.png"
  },
  {
   "itemName": "Bunny Day Bag",
-  "color": "None",
   "internalName": "BagBackpackEgg0",
   "hex": "1WYrHwhPvo8",
   "image": "FtrIcon/BagBackpackEgg0.png"
  },
  {
   "itemName": "Butterfly Backpack",
-  "color": "Pink",
   "internalName": "BagBackpackButterfly0",
   "hex": "VSirxx0iltE",
   "image": "FtrIcon/BagBackpackButterfly0.png"
  },
  {
   "itemName": "Canvas Backpack",
-  "color": "White",
   "internalName": "BagBackpackTote0",
   "hex": "ms1lqS5KlnA",
   "image": "FtrIcon/BagBackpackTote0.png"
  },
  {
   "itemName": "Cherry Blossom Pochette",
-  "color": "Pink",
   "internalName": "BagShoulderCherryblossoms0",
   "hex": "7sIVBEUuP1M",
   "image": "FtrIcon/BagShoulderCherryblossoms0.png"
@@ -95692,7 +95514,6 @@
  },
  {
   "itemName": "DAL Backpack",
-  "color": "Blue",
   "internalName": "BagBackpackDal0",
   "hex": "4j58ZNPiEOc",
   "image": "FtrIcon/BagBackpackDal0.png"
@@ -95776,7 +95597,6 @@
  },
  {
   "itemName": "Fish Pochette",
-  "color": "Blue",
   "internalName": "BagShoulderFish0",
   "hex": "59bQ1EXVuuU",
   "image": "FtrIcon/BagShoulderFish0.png"
@@ -95874,21 +95694,18 @@
  },
  {
   "itemName": "Knitted Grass Backpack",
-  "color": "Green",
   "internalName": "BagBackpackGrass0",
   "hex": "A70TIpjawRw",
   "image": "FtrIcon/BagBackpackGrass0.png"
  },
  {
   "itemName": "Log Pack",
-  "color": "Brown",
   "internalName": "BagBackpackWood0",
   "hex": "IjKeuY8Jx0k",
   "image": "FtrIcon/BagBackpackWood0.png"
  },
  {
   "itemName": "Maple Leaf Pochette",
-  "color": "Red",
   "internalName": "BagShoulderMaple0",
   "hex": "jyORNGq54Ng",
   "image": "FtrIcon/BagShoulderMaple0.png"
@@ -95986,7 +95803,6 @@
  },
  {
   "itemName": "Nook Inc. Knapsack",
-  "color": "Brown",
   "internalName": "BagBackpackNook0",
   "hex": "0z1doAGtZRQ",
   "image": "FtrIcon/BagBackpackNook0.png"
@@ -96098,14 +95914,12 @@
  },
  {
   "itemName": "Shellfish Pochette",
-  "color": "White",
   "internalName": "BagShoulderShell0",
   "hex": "oc1clPNh9kw",
   "image": "FtrIcon/BagShoulderShell0.png"
  },
  {
   "itemName": "Snowflake Pochette",
-  "color": "White",
   "internalName": "BagShoulderSnow0",
   "hex": "bIlRacZ9FuU",
   "image": "FtrIcon/BagShoulderSnow0.png"
@@ -96133,14 +95947,12 @@
  },
  {
   "itemName": "Star Pochette",
-  "color": "Yellow",
   "internalName": "BagShoulderStar0",
   "hex": "B7Z3VvjWhj4",
   "image": "FtrIcon/BagShoulderStar0.png"
  },
  {
   "itemName": "Straw Pochette",
-  "color": "Brown",
   "internalName": "BagShoulderRattan0",
   "hex": "Lb9TwozfxNQ",
   "image": "FtrIcon/BagShoulderRattan0.png"
@@ -96161,14 +95973,12 @@
  },
  {
   "itemName": "Tackle Bag",
-  "color": "Blue",
   "internalName": "BagShoulderFishing0",
   "hex": "PDUKMnCuq10",
   "image": "FtrIcon/BagShoulderFishing0.png"
  },
  {
   "itemName": "Tool Bag",
-  "color": "Black",
   "internalName": "BagShoulderTool0",
   "hex": "FUyJffiDhmw",
   "image": "FtrIcon/BagShoulderTool0.png"
@@ -99256,9 +99066,9 @@
   "image": "MenuIcon/BellExchangeTicket.png"
  },
  {
-  "itemName": "Birthday Cupcake",
+  "itemName": "Birthday Cupcake x10",
   "internalName": "BirthdayCupcake",
-  "hex": "7kPNMipluC8",
+  "hex": "z82F9b4Uc2M",
   "image": "FtrIcon/BirthdayCupcake.png"
  },
  {
@@ -100528,9 +100338,9 @@
   "image": "FtrIcon/DIYWoodSoft.png"
  },
  {
-  "itemName": "Spoiled Turnips x10",
+  "itemName": "Spoiled Turnips",
   "internalName": "Kabu_Spoil",
-  "hex": "bz5ZMK0VG94",
+  "hex": "Imz1xfjQQ44",
   "image": "FtrIcon/Kabu_Spoil.png"
  },
  {
@@ -100636,9 +100446,9 @@
   "image": "FtrIcon/DIYBranch.png"
  },
  {
-  "itemName": "Turnips x10",
+  "itemName": "Turnips",
   "internalName": "PhotoStudioKabu",
-  "hex": "yd6AA7Qim9I",
+  "hex": "C3KmzX0z3mY",
   "image": "FtrIcon/PhotoStudioKabu.png"
  },
  {
