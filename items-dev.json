@@ -99388,9 +99388,9 @@
   "image": "FtrIcon/DIYbook1.png"
  },
  {
-  "itemName": "Earth Egg x10",
+  "itemName": "Earth Egg x30",
   "internalName": "EggGround",
-  "hex": "ApMSN73yhus",
+  "hex": "iKFbtNsHhNY",
   "image": "FtrIcon/EggGround.png"
  },
  {
@@ -99555,9 +99555,9 @@
   "image": "FtrIcon/StarpieceRare.png"
  },
  {
-  "itemName": "Leaf Egg x10",
+  "itemName": "Leaf Egg x30",
   "internalName": "EggLeaf",
-  "hex": "YC7YAALsiwg",
+  "hex": "5WV94RzBvVI",
   "image": "FtrIcon/EggLeaf.png"
  },
  {
@@ -100320,9 +100320,9 @@
   "image": "FtrIcon/MushSlender.png"
  },
  {
-  "itemName": "Sky Egg x10",
+  "itemName": "Sky Egg x30",
   "internalName": "EggSky",
-  "hex": "1sjPmCNBXJM",
+  "hex": "lzapYXAsi7A",
   "image": "FtrIcon/EggSky.png"
  },
  {
@@ -100350,9 +100350,9 @@
   "image": "FtrIcon/DIYStone.png"
  },
  {
-  "itemName": "Stone Egg x10",
+  "itemName": "Stone Egg x30",
   "internalName": "EggRock",
-  "hex": "6sx5CwzXsDg",
+  "hex": "HjWe7P9Uios",
   "image": "FtrIcon/EggRock.png"
  },
  {
@@ -100464,9 +100464,9 @@
   "image": "FtrIcon/Honeycomb.png"
  },
  {
-  "itemName": "Water Egg x10",
+  "itemName": "Water Egg x30",
   "internalName": "EggFish",
-  "hex": "kQjBexhwFzo",
+  "hex": "ez30pM19owM",
   "image": "FtrIcon/EggFish.png"
  },
  {
@@ -100656,9 +100656,9 @@
   "image": "FtrIcon/DIYWoodNormal.png"
  },
  {
-  "itemName": "Wood Egg x10",
+  "itemName": "Wood Egg x30",
   "internalName": "EggForest",
-  "hex": "fs0hU2Osj1w",
+  "hex": "zjNzO6cyGw8",
   "image": "FtrIcon/EggForest.png"
  },
  {
