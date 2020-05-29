@@ -100338,12 +100338,6 @@
   "image": "FtrIcon/DIYWoodSoft.png"
  },
  {
-  "itemName": "Spoiled Turnips",
-  "internalName": "Kabu_Spoil",
-  "hex": "Imz1xfjQQ44",
-  "image": "FtrIcon/Kabu_Spoil.png"
- },
- {
   "itemName": "Star Fragment x10",
   "internalName": "Starpiece",
   "hex": "c7Dz8yeMFRw",
@@ -100444,12 +100438,6 @@
   "internalName": "DIYBranch",
   "hex": "1HU8hU9s1B8",
   "image": "FtrIcon/DIYBranch.png"
- },
- {
-  "itemName": "Turnips",
-  "internalName": "PhotoStudioKabu",
-  "hex": "C3KmzX0z3mY",
-  "image": "FtrIcon/PhotoStudioKabu.png"
  },
  {
   "itemName": "Ultimate Pocket Stuffing",
