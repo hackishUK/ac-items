@@ -15744,62 +15744,6 @@
   "image": "FtrIcon/FtrStereoRetro_Remake_1_0.png"
  },
  {
-  "itemName": "Robot Hero",
-  "color": "Red",
-  "internalName": "FtrHerorobot_Remake_0_0",
-  "hex": "iAhHSkXbJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_0_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "Blue",
-  "internalName": "FtrHerorobot_Remake_1_0",
-  "hex": "iAhHSkXaJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_1_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "Yellow",
-  "internalName": "FtrHerorobot_Remake_2_0",
-  "hex": "iAhHSkXZJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_2_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "Green",
-  "internalName": "FtrHerorobot_Remake_3_0",
-  "hex": "iAhHSkXYJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_3_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "Pink",
-  "internalName": "FtrHerorobot_Remake_4_0",
-  "hex": "iAhHSkXfJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_4_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "White",
-  "internalName": "FtrHerorobot_Remake_5_0",
-  "hex": "iAhHSkXeJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_5_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "Black",
-  "internalName": "FtrHerorobot_Remake_6_0",
-  "hex": "iAhHSkXdJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_6_0.png"
- },
- {
-  "itemName": "Robot Hero",
-  "color": "Gray",
-  "internalName": "FtrHerorobot_Remake_7_0",
-  "hex": "iAhHSkXcJd0",
-  "image": "FtrIcon/FtrHerorobot_Remake_7_0.png"
- },
- {
   "itemName": "Rock Guitar",
   "color": "Sunburst-None",
   "internalName": "FtrElectricguitar1_Remake_0_0",
@@ -22801,6 +22745,2764 @@
   "internalName": "FtrGravestoneJapan_Remake_4_0",
   "hex": "7EX1NBYmRWA",
   "image": "FtrIcon/FtrGravestoneJapan_Remake_4_0.png"
+ },
+ {
+  "itemName": "Acoustic Guitar (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAcorsticguitar_Remake_7_0",
+  "hex": "82YJO5m3KUI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Air Circulator (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCirculator_Remake_5_0",
+  "hex": "TVuSrYJQ2X8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Anchor Statue (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShipanchor_Remake_6_0",
+  "hex": "6QWELVLCPgM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Angled Signpost (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSignpostTilt_Remake_8_0",
+  "hex": "RFNeUUtFTHw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueBedW_Remake_3_0",
+  "hex": "FF7Qa6hHcWE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Bureau (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueBureau_Remake_3_0",
+  "hex": "2s4gPxHGHnw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueChairS_Remake_3_0",
+  "hex": "H9BGFqEQ3dk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueClock_Remake_3_0",
+  "hex": "liKypqFThtY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Console Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueConsole_Remake_3_0",
+  "hex": "weAmS3nFiz4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Mini Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueTableS_Remake_3_0",
+  "hex": "mqYnhIzC6yM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueTableL_Remake_3_0",
+  "hex": "prltHFGETzU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Vanity (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueDresser_Remake_3_0",
+  "hex": "EWsxkOdJiog",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Wardrobe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiqueChest_Remake_3_0",
+  "hex": "SRt6DRjcvy0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Apple Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsChairApple_Remake_2_0",
+  "hex": "HPaJUmtKkpk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Arcade Seat (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGameChair_Remake_3_0",
+  "hex": "laXsmC9KKLY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Automatic Washer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWashingmachine_Remake_6_0",
+  "hex": "8L3UPZnl2lw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Baby Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBabychair_Remake_7_0",
+  "hex": "wiZpN684pmA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Basket (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooBasket_Remake_3_0",
+  "hex": "YnoXyNswVDQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooChairL_Remake_3_0",
+  "hex": "G8MIm1OxD8A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Floor Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooLamp_Remake_3_0",
+  "hex": "QOWTJRzMFhY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Partition (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooScreen_Remake_3_0",
+  "hex": "xsekcetUkrc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Shelf (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooShelf_Remake_3_0",
+  "hex": "tDo6U2jJSEY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Speaker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooMusic_Remake_3_0",
+  "hex": "KSI0gxegu04",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooStool_Remake_3_0",
+  "hex": "fLmfzevbUoA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Stopblock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooCarstop_Remake_3_0",
+  "hex": "TBZHiYJLOV8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Barbecue (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBarbecuegrill_Remake_5_0",
+  "hex": "rvDC9wDS3yM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Barbell (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBarbell_Remake_4_0",
+  "hex": "7LrY1rMd0UM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Basic Teacher's Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSchoolTeachertable_Remake_3_0",
+  "hex": "rqRTxm0rvWI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Basketball Hoop (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBasketgoal_Remake_3_0",
+  "hex": "hBWfDDHdpa8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bathroom Sink (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWashstand_Remake_3_0",
+  "hex": "gKPXaDycnXA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Beach Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBeachbed_Remake_6_0",
+  "hex": "Kzo2j12OtaA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Beekeeper's Hive (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBeekeepingbox_Remake_5_0",
+  "hex": "yMdxCE0AR40",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Big Festive Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTreeXmasL_Remake_6_0",
+  "hex": "Zu8tuSMERnc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Billiard Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBilliard_Remake_3_0",
+  "hex": "tmWchr6ftrU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birdbath (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirdbus_Remake_4_0",
+  "hex": "6DzMXqkpClI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birdcage (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirdcage_Remake_5_0",
+  "hex": "IKEhJstVBi8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birdhouse (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirdhouse_Remake_6_0",
+  "hex": "3mkzVsRjA18",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birthday Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirthdayBoard_Remake_6_0",
+  "hex": "ZoSwhQzyzeI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birthday Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirthdayTable_Remake_6_0",
+  "hex": "tVoxlgm2nD0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Blossom Viewing Lantern (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSakuraLantern_Remake_2_0",
+  "hex": "Jmo5WCtMgPc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Box Corner Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoxsofaCorner_Remake_8_0",
+  "hex": "7vbzHoZx5hw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Box Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoxsofa_Remake_8_0",
+  "hex": "MjRo3B4DuDc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Brick Oven (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStoneoven_Remake_4_0",
+  "hex": "nSuQfHnqERU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Brick Well (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWellBrick_Remake_3_0",
+  "hex": "8s7QHWqOycA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bunk Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBunkbed_Remake_7_0",
+  "hex": "9xitMORW7YU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Butter Churn (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrButtermixer_Remake_2_0",
+  "hex": "EJ2CYAJLvhQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Camping Cot (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCampbed_Remake_8_0",
+  "hex": "6HGGexqz0TI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Candy Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCandymachine_Remake_4_0",
+  "hex": "ucl9TCJJ0qE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cardboard Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCardboardBedS_Remake_2_0",
+  "hex": "X45Pc7AMe9w",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cardboard Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCardboardChairS_Remake_2_0",
+  "hex": "wf0fkzncJhw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cardboard Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCardboardSofaL_Remake_2_0",
+  "hex": "GPzCUjKwQfY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cardboard Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCardboardTableL_Remake_2_0",
+  "hex": "pYDDnNgrwmU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cat Tower (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCattower_Remake_6_0",
+  "hex": "4RRRTvvnOsg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cello (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCello_Remake_3_0",
+  "hex": "3AOGQm37zjY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Chalkboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlackboard_Remake_7_0",
+  "hex": "7DIz9wmxKp8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Champion's Pennant (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrVictoryflag_Remake_4_0",
+  "hex": "Nqwv0cyRWq0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Changing Room (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFittingroom_Remake_8_0",
+  "hex": "BNn1cEBQaC4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Clackercart (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKatakatatoy_Remake_6_0",
+  "hex": "3Eeed5iLf3M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Claw Foot Tub (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBathtubCabriole_Remake_6_0",
+  "hex": "D9f0K7rnO5c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Climbing Wall (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrClimbingwall_Remake_4_0",
+  "hex": "yNiRDnkchBU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Clothes Closet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFashioncase_Remake_6_0",
+  "hex": "gwWXNh9DJMc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Clothesline Pole (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrClotheshorse_Remake_2_0",
+  "hex": "7N16nzzVToQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Colorful Wheel (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRoulette_Remake_5_0",
+  "hex": "dx6sA7S80Xo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPylon_Remake_8_0",
+  "hex": "rKoaOHYUB48",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Construction Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSignConstruction_Remake_5_0",
+  "hex": "OzMVcsJQZrs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cosmos Shower (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerShower_Remake_3_0",
+  "hex": "5IIB5CkGLRs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cotton Candy Stall (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCottoncandymachine_Remake_3_0",
+  "hex": "FRAf8AJ6c68",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Crescent Moon Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStarMoonChairL_Remake_7_0",
+  "hex": "Y5Q2yNmaVTo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteBedW_Remake_5_0",
+  "hex": "SxztPniSHR8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteChairS_Remake_5_0",
+  "hex": "GzswWzIfpgc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute DIY Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteWorkbench_Remake_5_0",
+  "hex": "8sE68H06yRU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Floor Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteLamp_Remake_5_0",
+  "hex": "xpjTRzlHRqM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteChairL_Remake_5_0",
+  "hex": "VeG6hI4gnDM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Tea Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteTableS_Remake_5_0",
+  "hex": "rk6chL2AoKc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Vanity (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteDresser_Remake_5_0",
+  "hex": "IzVuf6PmiqE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Wardrobe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteClosetLR_Remake_5_0",
+  "hex": "MjgbpHqbIzI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cypress Bathtub (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBathHinoki_Remake_3_0",
+  "hex": "p2OCactYue4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cypress Plant (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPlantGoldcrest_Remake_5_0",
+  "hex": "Y8MRKuYli0U",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Deer Scare (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShishiodoshi_Remake_3_0",
+  "hex": "Vby3QMU7JvA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Deluxe Washer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWashingmachineDrum_Remake_6_0",
+  "hex": "NVKobdysCc0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Den Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrawingChair_Remake_6_0",
+  "hex": "8Jk9dTE62Bk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Den Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrawingTable_Remake_5_0",
+  "hex": "1kRXGeYOmck",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Destinations Signpost (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSignpostWorld_Remake_6_0",
+  "hex": "QAwMyDm3PwM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Digital Scale (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeightscale_Remake_7_0",
+  "hex": "tPazmF7B7ss",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroChairS_Remake_7_0",
+  "hex": "t5G4ijlYWO8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Counter Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroCounterchair_Remake_7_0",
+  "hex": "R5dkhbzcZJg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Counter Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroCounter_Remake_7_0",
+  "hex": "5VwoxElgWTk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Dining Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroTableM_Remake_7_0",
+  "hex": "n3Cbo22EH0M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Mini Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroTableS_Remake_7_0",
+  "hex": "4kRpN4YYayY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Neon Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroNeon_Remake_5_0",
+  "hex": "XSqRSCwUp58",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroChairL_Remake_7_0",
+  "hex": "I3unoDuRcSM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Director's Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDirectorchair_Remake_4_0",
+  "hex": "NtVdFCnWHEg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "DIY Workbench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWorkbench_Remake_8_0",
+  "hex": "BxO5RXnG0Jw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "DJ's Turntable (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDJbooth_Remake_4_0",
+  "hex": "PSbkpB3XmyE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Doghouse (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoghouse_Remake_5_0",
+  "hex": "3GT82rEscz8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Double Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSofaL_Remake_8_0",
+  "hex": "7DXmpX0Wl5g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Double Door Refrigerator (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRefrigeratorDoubledoor_Remake_4_0",
+  "hex": "IRSlRCcjt0I",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Drink Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrinkmachine_Remake_6_0",
+  "hex": "eDibDkDii2k",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Drinking Fountain (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrinkingfountain_Remake_4_0",
+  "hex": "P5f10ecPmvo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Drum Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrumSet_Remake_8_0",
+  "hex": "xoXOjksLS5M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Drying Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrClothesstand_Remake_4_0",
+  "hex": "N2PGWzX8USQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Effects Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrEffectorrack_Remake_6_0",
+  "hex": "iMrItDHAu00",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Elaborate Kimono Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKimonostandRich_Remake_5_0",
+  "hex": "zqOKQCugIJg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Electric Bass (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrElectricbass_Remake_8_0",
+  "hex": "rzEZHyyDGe4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Electric Guitar (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrElectricguitar2_Remake_7_0",
+  "hex": "Zfz70Qik9TA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Electric Kick Scooter (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKickboardElectric_Remake_6_0",
+  "hex": "byvw1VICVBY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Elephant Slide (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSlideelephant_Remake_8_0",
+  "hex": "kiQeOVqgQnA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Exercise Ball (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBalanceball_Remake_5_0",
+  "hex": "O5eFFWyxkh8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Exercise Bike (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrExercisebike_Remake_4_0",
+  "hex": "58uNaJ63B8A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFan_Remake_4_0",
+  "hex": "mlx1Ck0x66o",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fan Palm (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPlantYamadoriyashi_Remake_6_0",
+  "hex": "SZvX65JBwf8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Festive Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTreeXmasS_Remake_6_0",
+  "hex": "IxD9sPH31Ow",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fireplace (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFireplace_Remake_4_0",
+  "hex": "2S7pedPkKi8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fish Drying Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDriedfish_Remake_3_0",
+  "hex": "LYIi8BR2l7A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fishing Rod Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRodstand_Remake_3_0",
+  "hex": "RScgP4OPzCo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Flashy Flower Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWreath_Remake_3_0",
+  "hex": "tvjVd4oaLf8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Floor Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLamp_Remake_4_0",
+  "hex": "AAtgzSGz6xQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Floor Light (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGrandlight_Remake_8_0",
+  "hex": "Eshs5mzlsyk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Floor Seat (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFloorchair_Remake_4_0",
+  "hex": "iuRNOjoUkNs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Flower Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStandflower_Remake_7_0",
+  "hex": "6PG9iFXJZX0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Folding Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPipechair_Remake_6_0",
+  "hex": "RCO4PLrv2y0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Folding Floor Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampArm_Remake_8_0",
+  "hex": "tzQLB5Y9v9o",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Foosball Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTablesoccer_Remake_3_0",
+  "hex": "sMRmZcIufoE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fountain (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFountain_Remake_4_0",
+  "hex": "Q6XVzF59RW0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Freezer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFreezer_Remake_4_0",
+  "hex": "QvGDnieOPGE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Arch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceGate_Remake_7_0",
+  "hex": "elkQwizneVY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceBedW_Remake_7_0",
+  "hex": "XRQLiZ5iYn0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceChairS_Remake_7_0",
+  "hex": "znwhV1H21HM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Counter (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceCounter_Remake_7_0",
+  "hex": "g5ZZ32QSSqo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Partition (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceScreen_Remake_7_0",
+  "hex": "ndsk6YAnrpk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Pillar (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIcePillar_Remake_7_0",
+  "hex": "JZzZEIqS9Rk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Sculpture (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceArt_Remake_7_0",
+  "hex": "xHRKZlYvelA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceTableL_Remake_7_0",
+  "hex": "5kRDe5tSZdM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceTree_Remake_7_0",
+  "hex": "HfN7gfbzxPs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Garbage Bin (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPaleCaster_Remake_7_0",
+  "hex": "OzLIZEmpQgA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Garden Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrParkbenche_Remake_6_0",
+  "hex": "zY66O6SvUU4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Garden Faucet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWaterview_Remake_5_0",
+  "hex": "Z83HzPjWmzk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Garden Lantern (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampGarden_Remake_3_0",
+  "hex": "fefyssX99EM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Garden Wagon (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGardenwagon_Remake_4_0",
+  "hex": "4IEB5Zj9BJQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Gas Range (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKitchenOven_Remake_5_0",
+  "hex": "TI5lAKYIWt4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Giant Teddy Bear (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBearXL_Remake_6_0",
+  "hex": "o8of8ZkVajU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Golf Bag (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGolfbag_Remake_6_0",
+  "hex": "JMzChQwEiL4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Gong (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTamtam_Remake_2_0",
+  "hex": "M4QdzJ1UdJ0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Grand Piano (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPianoGrand_Remake_4_0",
+  "hex": "FyqpDSQjDVU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Grass Standee (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHariboteGrass_Remake_4_0",
+  "hex": "Rriq5RjMxNs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hammock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHammock_Remake_7_0",
+  "hex": "MzjncSJwrck",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Handcart (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHandcart_Remake_6_0",
+  "hex": "sKhXzBCOv4g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Harp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHarp_Remake_5_0",
+  "hex": "zJX65ljgckA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hay Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHaybed_Remake_3_0",
+  "hex": "PSRQ0chNviE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hedge Standee (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHariboteHedge_Remake_7_0",
+  "hex": "1BlggyOsh4s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hose Reel (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHosereel_Remake_6_0",
+  "hex": "eXRMNt4NQiQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Illuminated Present (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIllumiPresent_Remake_4_0",
+  "hex": "9n1qXuRNyNI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Illuminated Reindeer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIllumiReindeer_Remake_5_0",
+  "hex": "NZRKwHIpMuo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Illuminated Snowflakes (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIllumiSnow_Remake_4_0",
+  "hex": "mbsaAN9unuU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Illuminated Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIllumiTree_Remake_6_0",
+  "hex": "HaQAhD1TyNY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOrientalBedW_Remake_4_0",
+  "hex": "nmBJaHPggoc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Chest (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOrientalChest_Remake_4_0",
+  "hex": "5MG7qxC7O7c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Dining Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrChineseChair_Remake_2_0",
+  "hex": "NCVz7DRUjnI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Dining Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLazysusan_Remake_2_0",
+  "hex": "DIKhmz07LDY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Low Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOrientalTableM_Remake_4_0",
+  "hex": "q7H9BxVzI4U",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Partition (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOrientalScreen_Remake_4_0",
+  "hex": "ZGIQcRqNdPE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Inflatable Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAirsofa_Remake_8_0",
+  "hex": "lO2k3SBzjoo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Closet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronClosetLR_Remake_2_0",
+  "hex": "0dzI4MCyqOI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Frame (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronframe_Remake_3_0",
+  "hex": "Bz5Q1cC2FNw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Garden Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIrongardenBench_Remake_5_0",
+  "hex": "0T0X0xfxRag",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Garden Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIrongardenChair_Remake_5_0",
+  "hex": "1rI6MwPoMaw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Garden Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIrongardenTable_Remake_5_0",
+  "hex": "wCDbeKIGsgo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Hanger Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronHanger_Remake_2_0",
+  "hex": "ugO9mwCS4x8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Shelf (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronShelf_Remake_2_0",
+  "hex": "KBzCvbFKPcE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Worktable (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronTableM_Remake_2_0",
+  "hex": "TyGmwxNhzZA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodBedS_Remake_5_0",
+  "hex": "pK9fQqHDJqg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Cart (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodServingcart_Remake_5_0",
+  "hex": "PtoVH5O0bII",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodChairS_Remake_5_0",
+  "hex": "k1cG1m6tT2Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Cupboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodCupboard_Remake_5_0",
+  "hex": "5R8qKVRSM6s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood DIY Workbench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWorkbenchIronwood_Remake_5_0",
+  "hex": "DFv04pQh5Ak",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Dresser (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodChest_Remake_5_0",
+  "hex": "jIjdR6FAmAk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Kitchenette (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodKitchen_Remake_5_0",
+  "hex": "ou7pvkOPhFw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Low Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodTableM_Remake_5_0",
+  "hex": "RlqYyIKOHXc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodTableL_Remake_5_0",
+  "hex": "JSJGMPQJstw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Jail Bars (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrScreenCage_Remake_3_0",
+  "hex": "heacf69eZS8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Juicy Apple TV (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsTV_Remake_2_0",
+  "hex": "6Hb6FXmKB8s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Kitchen Island (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKitchenIsland_Remake_7_0",
+  "hex": "Ae7em2cUYfE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Kitty Litter Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPetWC_Remake_7_0",
+  "hex": "xdTEtS7RPmk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lawn Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrVinylchair_Remake_6_0",
+  "hex": "Zl3VJ5wNzbc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lawn Mower (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLawnmower_Remake_5_0",
+  "hex": "vytjgap8TuE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Leaf Campfire (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFallenleavesfire_Remake_2_0",
+  "hex": "t5UF9U67h5M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Leaf Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFallenleavesChairS_Remake_4_0",
+  "hex": "zv5zzlumFis",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lecture Hall Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrChairCollage_Remake_2_0",
+  "hex": "0OJFFIfBWVA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lecture Hall Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTableCollage_Remake_3_0",
+  "hex": "2Cid9nRphA4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lifeguard Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMonitoringchair_Remake_5_0",
+  "hex": "GbPv5odppQI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lighthouse (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLighthouse_Remake_6_0",
+  "hex": "pqoUQRzsL6Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lily Record Player (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerRecordplayer_Remake_3_0",
+  "hex": "VIT82NimMM0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Loft Bed With Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBeddesk_Remake_8_0",
+  "hex": "hXH4rY1J6hw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogBedW_Remake_4_0",
+  "hex": "nCRJ6N3sak0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogStoolL_Remake_4_0",
+  "hex": "m0vQVUuRtUc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogSofaS_Remake_4_0",
+  "hex": "romStjA9z5M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Decorative Shelves (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogShelf_Remake_4_0",
+  "hex": "CR881LZOJNY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Dining Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogTableL_Remake_4_0",
+  "hex": "x27IuyG6JoI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Extra Long Sofa (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogSofaL_Remake_4_0",
+  "hex": "AI46Ovi8GUQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Garden Lounge (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogBedS_Remake_4_0",
+  "hex": "DWkPCXY6ilU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Round Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogTableLRound_Remake_4_0",
+  "hex": "Z44ULbYEacY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Stakes (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodPile_Remake_4_0",
+  "hex": "nO0ItgotkZI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogStoolS_Remake_4_0",
+  "hex": "b2wGQHk84Vw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Long Bathtub (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBathtub_Remake_7_0",
+  "hex": "uA8ghcQIkzE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Low Screen (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrScreenJapanLow_Remake_3_0",
+  "hex": "UUAJYJOOu30",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mama Bear (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBearM_Remake_6_0",
+  "hex": "ow9WfUWOHfo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Manhole Cover (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrManhole_Remake_5_0",
+  "hex": "GhbafC4ALRM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Menu Chalkboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMenuboard_Remake_5_0",
+  "hex": "OCXOMdRns5o",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mini DIY Workbench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWorkbenchS_Remake_8_0",
+  "hex": "t8Z1gWszX8k",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mini Fridge (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRefrigeratorMini_Remake_8_0",
+  "hex": "anyDM76zQLc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Modern Office Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOfficeChair_Remake_7_0",
+  "hex": "2Qz7mfbT1Dw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Monster Statue (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMonster_Remake_4_0",
+  "hex": "omVRRFuN5Vo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Monstera (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPlantMonstera_Remake_6_0",
+  "hex": "RQUsrkU5aHE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mountain Bike (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMountainbike_Remake_6_0",
+  "hex": "ZPK9dZPQtnU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mountain Standee (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHariboteMountain_Remake_6_0",
+  "hex": "vuBJNd4EV4g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mr. Flamingo (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlamingoMale_Remake_2_0",
+  "hex": "D5lrKCHT8tc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mrs. Flamingo (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlamingoFemale_Remake_2_0",
+  "hex": "VDjSozItxwE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mum Cushion (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerStoolS_Remake_3_0",
+  "hex": "D3efIoseQso",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mush Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMushroomLamp_Remake_5_0",
+  "hex": "PYWJ7E5PpEQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mush Log (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMushroomPulpwood_Remake_5_0",
+  "hex": "WMZtuetXzlc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mush Low Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMushroomChairS_Remake_5_0",
+  "hex": "wroPbE0wGBw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mush Parasol (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMushroomParasol_Remake_5_0",
+  "hex": "X5fPZwnGCU4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mush Partition (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMushroomScreen_Remake_5_0",
+  "hex": "5bHnk5mPS7M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mush Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMushroomTableL_Remake_5_0",
+  "hex": "TplubrEWgUQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Music Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMusicstand_Remake_4_0",
+  "hex": "7stuu8EENp8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Natural Garden Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGardenChairNatural_Remake_3_0",
+  "hex": "dHSpbt59S8w",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Natural Garden Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGardenTableNatural_Remake_3_0",
+  "hex": "px1ups94b3c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Natural Square Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGardenTableSNatural_Remake_3_0",
+  "hex": "aMXxBJhmxNc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Office Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOfficeTable_Remake_4_0",
+  "hex": "R7zooR3zxj0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Oil Barrel (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrumcan_Remake_8_0",
+  "hex": "BAH2e99Qb0Y",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Oil Barrel Bathtub (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrumcanbath_Remake_6_0",
+  "hex": "ZzoUGNeVNbk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Old Sewing Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSewingmachineRetro_Remake_3_0",
+  "hex": "HIjWQNP69J0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Orange End Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsTableS_Remake_2_0",
+  "hex": "gCpDpzdzrk4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Outdoor Bath (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOpenairbath_Remake_4_0",
+  "hex": "DDkFzmY4zyg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Outdoor Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOutdoorchairM_Remake_5_0",
+  "hex": "rRKMHl0BvOw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Outdoor Generator (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOutdoorgenerator_Remake_6_0",
+  "hex": "PPSglrhYN28",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Outdoor Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOutdoortableM_Remake_5_0",
+  "hex": "1PCnHccaBj0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pagoda (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGojyu_Remake_3_0",
+  "hex": "cvEpYCx7Gz0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Palm Tree Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPalmtreelamp_Remake_4_0",
+  "hex": "Rt468B5p7sQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pansy Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerTableS_Remake_3_0",
+  "hex": "V3n0vzOZTk8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pants Press (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPantspresser_Remake_3_0",
+  "hex": "ERR0OxA2yWg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Papa Bear (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBearL_Remake_6_0",
+  "hex": "QAIVhx4B8Ic",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Paper Lantern (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampJapan_Remake_3_0",
+  "hex": "YBGFIAvnlb8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Parabolic Antenna (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrParabolicantenna_Remake_3_0",
+  "hex": "J6WekkEEr4A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Park Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrParkclock_Remake_4_0",
+  "hex": "3qRaGnRX5Fo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Peach Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsChairPeach_Remake_2_0",
+  "hex": "DV1nevRORC8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pear Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsBedS_Remake_2_0",
+  "hex": "cGm2oAfR9NQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pear Wardrobe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsClosetLR_Remake_2_0",
+  "hex": "o6Ox39X0uAo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pet Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPetBed_Remake_3_0",
+  "hex": "Ibmw5xT8JRg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Phone Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTelephonebox_Remake_8_0",
+  "hex": "zyYZTX7ZuZs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Piano Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPianochair_Remake_8_0",
+  "hex": "9cjqyTYHdQA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pinball Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPinball_Remake_5_0",
+  "hex": "kuozbCiKdts",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Plain Sink (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWashstandBowl_Remake_6_0",
+  "hex": "ju2gN11HTnE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Plain Wooden Shop Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSignWood_Remake_3_0",
+  "hex": "zYKbWsFP6eQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Plastic Pool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGardenpool_Remake_6_0",
+  "hex": "lOXJH20LOqw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Playground Gym (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrJunglegym_Remake_5_0",
+  "hex": "1C7zzyqPVrI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pond Stone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStonewaterbowl_Remake_2_0",
+  "hex": "CWaYw58hTiY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPool_Remake_3_0",
+  "hex": "7VA9vsY9TgQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Poolside Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPoolsidebed_Remake_3_0",
+  "hex": "FzBUzNt1GwI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Popcorn Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPopcornmachine_Remake_5_0",
+  "hex": "dTkg7X1tvG8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Portable Toilet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWCPortable_Remake_5_0",
+  "hex": "3qzFBXOWe60",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Public Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPublicbench_Remake_8_0",
+  "hex": "SVW1K528558",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pull Up Bar Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPullupstand_Remake_4_0",
+  "hex": "kLlY6zQDPC4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Punching Bag (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSandbag_Remake_3_0",
+  "hex": "8axuIHC8RgM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Armchair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanChairS_Remake_6_0",
+  "hex": "hWcROwjCFz0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanBedW_Remake_6_0",
+  "hex": "nZIPMy31Mno",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan End Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanTableS_Remake_6_0",
+  "hex": "4wQdaAm7X0U",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Low Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanTableM_Remake_6_0",
+  "hex": "RuzQ5bgL8zw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanStool_Remake_6_0",
+  "hex": "l3hSwkFdceM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Vanity (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanDresser_Remake_6_0",
+  "hex": "zZDbrzArdRY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Wardrobe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanClosetLR_Remake_6_0",
+  "hex": "oDR80C5C0uI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Waste Bin (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanTrashbox_Remake_6_0",
+  "hex": "g5vk53srafs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Refrigerator (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRefrigerator_Remake_8_0",
+  "hex": "dLw9C5JWto4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Retro Fan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFanRetro_Remake_3_0",
+  "hex": "gF28xYeCobU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Retro Gas Pump (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroGasstand_Remake_6_0",
+  "hex": "gALPvRLHxvc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Retro Stereo (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStereoRetro_Remake_2_0",
+  "hex": "bVq8Mya4tIo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rock Guitar (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrElectricguitar1_Remake_8_0",
+  "hex": "nXo36EUl6Wg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rocket Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLavalamp_Remake_7_0",
+  "hex": "p5tYfs1i1gE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rocking Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRockingchair_Remake_5_0",
+  "hex": "JbPs9hxMe5U",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rocking Horse (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRockinghorse_Remake_6_0",
+  "hex": "j8gB2a7xl8s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rose Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerBedW_Remake_3_0",
+  "hex": "Ba5HfSrxIRg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Round Space Heater (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStoveRound_Remake_6_0",
+  "hex": "z61ZbX46WZM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Safe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSafebox_Remake_4_0",
+  "hex": "kZwLKmlWPdk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Sand Castle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSandcastle_Remake_2_0",
+  "hex": "EOd53pMRpTo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "School Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSchoolChairS_Remake_6_0",
+  "hex": "zrVlA8faoCE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "School Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSchoolTableS_Remake_6_0",
+  "hex": "ISTIGYAs2YM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Screen (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrScreenByoubu_Remake_5_0",
+  "hex": "RpJNr4eNtTs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Serving Cart (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrServingcart_Remake_6_0",
+  "hex": "Xu3nfOLkdXo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shaded Floor Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampMount_Remake_8_0",
+  "hex": "mUuN0rjcbDo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Arch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellArch_Remake_6_0",
+  "hex": "EpOxlyYdg2s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellBedW_Remake_6_0",
+  "hex": "iRvdOsgDbn4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Fountain (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellFountain_Remake_6_0",
+  "hex": "fCInRnodCAY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Partition (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellScreen_Remake_6_0",
+  "hex": "foCe6T18WnM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellStoolS_Remake_6_0",
+  "hex": "oz9zRrWQjcw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellTableL_Remake_6_0",
+  "hex": "dw9XsGopoVc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shower Booth (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShowerboothSquare_Remake_4_0",
+  "hex": "92RVLlBEZvw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Signpost (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSignpost_Remake_8_0",
+  "hex": "9R5XOCt65h4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Silo (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSilo_Remake_5_0",
+  "hex": "gvSDvW35FA8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Simple Panel (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrScreenSimple_Remake_8_0",
+  "hex": "J8BWvqay5SE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Sleeping Bag (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSleepingbag_Remake_8_0",
+  "hex": "iVcqEHWfp0o",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Sleigh (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSled_Remake_4_0",
+  "hex": "fSpRRDd5bP8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Smoker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSmoker_Remake_3_0",
+  "hex": "JCqnLejzjJE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Snack Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFoodmachine_Remake_4_0",
+  "hex": "7mn4FXOsGvk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Soft Serve Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampSoftcream_Remake_8_0",
+  "hex": "Pfv64xltL7w",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Solar Panel (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSolarpanel_Remake_2_0",
+  "hex": "eTQ5ZOG9yyY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Speed Bag (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSpeedbag_Remake_3_0",
+  "hex": "eYx7GGcWjJk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Springy Ride On (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSpringrider_Remake_7_0",
+  "hex": "5XbgOGrsxdk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stadiometer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStadiometer_Remake_3_0",
+  "hex": "cRBKk9gg3X4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stall (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFloat_Remake_8_0",
+  "hex": "QFeidPmhaow",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Standard Umbrella Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrUmbrellastand_Remake_4_0",
+  "hex": "pFOEjDbHA6U",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stone Arch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRockArch_Remake_2_0",
+  "hex": "HzWADU51mZM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stone Lion Dog (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSekishishi_Remake_3_0",
+  "hex": "CXcg0DMX3qM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stone Tablet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRockMonument_Remake_2_0",
+  "hex": "U3aYLdDzylE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Street Organ (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStreetorgan_Remake_4_0",
+  "hex": "VPr8Ztasdq8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Street Piano (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPianoStreet_Remake_2_0",
+  "hex": "LH8iutVu52I",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Streetlamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStreetlamp_Remake_4_0",
+  "hex": "UwT5RsvLa3s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Studio Spotlight (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampSpot_Remake_8_0",
+  "hex": "HUTDT6BPoRQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Surfboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSurfboard_Remake_6_0",
+  "hex": "1Xr8tNxnXns",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Swinging Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSwingWood_Remake_5_0",
+  "hex": "vPaRlPvrVUw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Synthesizer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSynthesizer_Remake_6_0",
+  "hex": "42Ufj5UWc6A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "System Kitchen (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKitchenSystem_Remake_8_0",
+  "hex": "xHHBtRboVVQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tall Lantern (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStonelantern_Remake_3_0",
+  "hex": "lXfwDh07ECs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tankless Toilet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWCTankless_Remake_5_0",
+  "hex": "mzuo8f4wgBo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tatami Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTatamiBedS_Remake_4_0",
+  "hex": "ZNtDR1vDxlQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tea Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDiningtableJapan_Remake_5_0",
+  "hex": "uceHRRnUHNI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Teacup Ride (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTurncup_Remake_4_0",
+  "hex": "EhwyzoXjsXQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Three Tiered Snowperson (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSnowman_Remake_4_0",
+  "hex": "z1qdZZqfDlM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Hat Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyTableL_Remake_8_0",
+  "hex": "AEzeU0VUSzg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Mitt Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyChairS_Remake_6_0",
+  "hex": "j8ivxk7dlr0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Race Car Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyBedS_Remake_7_0",
+  "hex": "BuBdJ9Oz5Ig",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Rocket (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyClosetL_Remake_6_0",
+  "hex": "9G56hwtDtIw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tiny Library (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMicrolibrary_Remake_6_0",
+  "hex": "Mzl89UF3GsQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tire Stack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTyres_Remake_4_0",
+  "hex": "fEBvPlGLgKI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tire Toy (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPlayingtire_Remake_6_0",
+  "hex": "b3Hj6IBbQvk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Toilet (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWC_Remake_3_0",
+  "hex": "X2vvC70kepg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Toilet Cleaning Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCleaningsetWC_Remake_2_0",
+  "hex": "Juv5ZdGPYw4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tool Cart (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToolcart_Remake_8_0",
+  "hex": "IUJZ3R6VvmQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tool Shelf (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToolshelf_Remake_4_0",
+  "hex": "zgsaOGnRGW8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tourist Telescope (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTelescopeSightseeing_Remake_5_0",
+  "hex": "yBaFaP5tQ6o",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Train Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRailroad_Remake_4_0",
+  "hex": "oRNDn1ndvmY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Treadmill (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRunningmachine_Remake_4_0",
+  "hex": "KHUcHR2l2MQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tree Standee (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHariboteTree_Remake_5_0",
+  "hex": "SaebxCjpczQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tree's Bounty Arch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNutArch_Remake_2_0",
+  "hex": "ZRxXNyhjFxo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tree's Bounty Big Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNutTreeL_Remake_2_0",
+  "hex": "sG0sVTg0bdI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tricycle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTricycle_Remake_5_0",
+  "hex": "7O4ajVC25H4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tulip Surprise Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerSurprisedbox_Remake_3_0",
+  "hex": "UzRXTxuGSjg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "TV Camera (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCameraTV_Remake_2_0",
+  "hex": "EBJo6Q2i1CY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Upright Locker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLocker_Remake_7_0",
+  "hex": "l10UkeSJMiQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Upright Piano (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPianoUpright_Remake_4_0",
+  "hex": "GDdFQMdXm4c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Upright Vacuum (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCleanerStick_Remake_7_0",
+  "hex": "Z3XHITA7cIM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Utility Pole (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTelephonepole_Remake_2_0",
+  "hex": "EK4SgILlIug",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Vacuum Cleaner (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCleaner_Remake_5_0",
+  "hex": "kJNPboSXb5Y",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Video Camera (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrVideocamera_Remake_3_0",
+  "hex": "cffSQpo0wP0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Vintage TV Tray (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTVtray_Remake_4_0",
+  "hex": "bAxV3e7R1pY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Water Cooler (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWaterserver_Remake_2_0",
+  "hex": "Fl3r7kPtydg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Water Pump (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHandpump_Remake_4_0",
+  "hex": "fbsoA5QK6v0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Arch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingArch_Remake_3_0",
+  "hex": "Lpgdpiwm4EU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingChairL_Remake_3_0",
+  "hex": "E72z0oCZx7Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingChairS_Remake_3_0",
+  "hex": "apRRVJ3gkGc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Flower Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingFlower_Remake_3_0",
+  "hex": "c9qV9z7RuII",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Head Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingTableM_Remake_3_0",
+  "hex": "sbN7EGfP6LI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Pipe Organ (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingOrgan_Remake_3_0",
+  "hex": "cxLgzpeMGUw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingTableL_Remake_3_0",
+  "hex": "RsBMXuUuZ1c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Welcome Board (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingBoard_Remake_3_0",
+  "hex": "2zP4S8fenYU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Western Style Stone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGravestoneEuropean_Remake_5_0",
+  "hex": "0DJxC6MEOfU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Whirlpool Bath (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrJacuzzi_Remake_2_0",
+  "hex": "8vRdCMsg05Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Whiteboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWhiteboard_Remake_7_0",
+  "hex": "43hzeeWg9FY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wild Log Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodBench_Remake_4_0",
+  "hex": "m8Be72Mtc3A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wind Turbine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWindturbine_Remake_2_0",
+  "hex": "O59u1jPEKbs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Bookshelf (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBookshelf_Remake_4_0",
+  "hex": "WsQHRnbjzzg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenChairS_Remake_8_0",
+  "hex": "Gpfn7tzslfg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Chest (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenChest_Remake_8_0",
+  "hex": "N8lUsHyXPxs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Double Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenBedW_Remake_8_0",
+  "hex": "RA6oopaez2A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden End Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenTableS_Remake_8_0",
+  "hex": "9UgPrX8liTo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Full Length Mirror (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenMirror_Remake_8_0",
+  "hex": "eKgqnMrtYhs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Low Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenTableM_Remake_8_0",
+  "hex": "vLBEBRk2fAY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Mini Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenTableMini_Remake_8_0",
+  "hex": "zGJezxzBRXw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Simple Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenBedS_Remake_8_0",
+  "hex": "WOteWmzE62A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenStoolS_Remake_8_0",
+  "hex": "p7lnZdA4Uzs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenTableL_Remake_8_0",
+  "hex": "JMeKrA8r7CY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Wardrobe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenCloset_Remake_8_0",
+  "hex": "6mkfTvftNVU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Waste Bin (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTrashboxWood_Remake_6_0",
+  "hex": "E5wwyKJvznc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Bed (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockBedS_Remake_5_0",
+  "hex": "1UJ335MJWCw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Bench (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockChairL_Remake_5_0",
+  "hex": "oRLzm45JROk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Bookshelf (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockShelf_Remake_5_0",
+  "hex": "TV3PHhmKWO8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockChairS_Remake_5_0",
+  "hex": "hBgAymMXcOk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Chest (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockChest_Remake_5_0",
+  "hex": "Azb4AenYEkE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Stereo (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockCompo_Remake_5_0",
+  "hex": "wSFM6KOyG30",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Stool (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockStoolS_Remake_5_0",
+  "hex": "RWV3sY2S8WQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Table (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockTableL_Remake_5_0",
+  "hex": "MvE5nmfI7qU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Writing Chair (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStudyChair_Remake_4_0",
+  "hex": "Ao6GJCWEALs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Writing Desk (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStudyDesk_Remake_4_0",
+  "hex": "IBCzTmZ8vDo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Yucca (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPlantYucca_Remake_5_0",
+  "hex": "gjaAa92elaA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Zen Style Stone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGravestoneJapan_Remake_5_0",
+  "hex": "Gi8rLgRVQJE",
+  "image": "FtrIcon/Glitch.png"
  },
  {
   "itemName": "Accessories Stand",
@@ -31733,6 +34435,1105 @@
   "image": "FtrIcon/FtrFishMinokasagoToy.png"
  },
  {
+  "itemName": "Accessories Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrJewelrystand_Remake_5_0",
+  "hex": "RzmKqtzmwk8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Aluminum Briefcase (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDuralumincase_Remake_2_0",
+  "hex": "uXjrsXYcl6w",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Amp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmp_Remake_7_0",
+  "hex": "DV2q13ZVduQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Analog Kitchen Scale (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeighing_Remake_8_0",
+  "hex": "mrl7yRJ8F6s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Anthurium Plant (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPlantAnthurium_Remake_5_0",
+  "hex": "eGD8DirENxg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Aroma Pot (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAlomapot_Remake_6_0",
+  "hex": "Y9PgP6hoxco",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Baby Bear (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBearS_Remake_6_0",
+  "hex": "vyqBfk23jH4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ball (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBall_Remake_4_0",
+  "hex": "6vqoejBbRUM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Candleholder (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooCandle_Remake_3_0",
+  "hex": "WB1SqrnRVjM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Drum (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBamboodrum_Remake_3_0",
+  "hex": "YBokcSTZhKI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Lunch Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooLunch_Remake_3_0",
+  "hex": "KI8n6WRydO4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Sphere (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooBall_Remake_3_0",
+  "hex": "VqbEmzBWDY8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Beach Ball (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBeachball_Remake_4_0",
+  "hex": "lQ1IrwbmeOU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birthday Cake (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirthdayCake_Remake_3_0",
+  "hex": "QgrjcfjhhjI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Birthday Candles (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBirthdayCandle_Remake_6_0",
+  "hex": "dpCaxhSKF2Y",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Board Game (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoardgame_Remake_3_0",
+  "hex": "pcK34hLb7Wk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Book (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBookOpened_Remake_4_0",
+  "hex": "uP0JGlCBf80",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Book Stands (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBookstand_Remake_4_0",
+  "hex": "bEz6RQsYx78",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bottled Ship (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBottleship_Remake_3_0",
+  "hex": "RPkoxqj2d8M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Camp Stove (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKocher_Remake_6_0",
+  "hex": "R9iOqCArRbw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Candle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCandle_Remake_5_0",
+  "hex": "UPrRg0mq8AU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cardboard Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCardboard_Remake_7_0",
+  "hex": "w0dKj5SqGmU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cartoonist's Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCartoonistset_Remake_4_0",
+  "hex": "loSzIRRhz50",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cassette Player (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRadicaseW_Remake_8_0",
+  "hex": "y3Ko5eoop1g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cat Grass (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCatgrass_Remake_5_0",
+  "hex": "tc8z07KEPVs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Celebratory Candles (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCelebratoryCandle_Remake_5_0",
+  "hex": "1ufjfR9k7qA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cherry Speakers (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsMusic_Remake_2_0",
+  "hex": "CdiKtzJ2izQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Chessboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrChess_Remake_2_0",
+  "hex": "J1OWR2Mx8h0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Classic Pitcher (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPotteryjug_Remake_6_0",
+  "hex": "rmrCk04o2pw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Coffee Cup (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCoffeecup_Remake_6_0",
+  "hex": "zr3JxDMD2IY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cooler Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCoolerbox_Remake_4_0",
+  "hex": "wDuXzTBCgsc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cordless Phone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPhoneCordless_Remake_7_0",
+  "hex": "k3uhxLEpTkI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cream and Sugar (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSugermilk_Remake_4_0",
+  "hex": "TMjI8VRNjmU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Music Player (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteAudio_Remake_5_0",
+  "hex": "MORQuEOcRMk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cutting Board (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuttingboard_Remake_4_0",
+  "hex": "yHs2RLiRXSY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "DAL Model Plane (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDalFigure_Remake_4_0",
+  "hex": "g7dgFNZBeKQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Dala Horse (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDalecarlianhorse_Remake_3_0",
+  "hex": "MtX5eWR8TU8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Decoy Duck (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDecoy_Remake_7_0",
+  "hex": "N0m7Ax952vw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Desk Mirror (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMirror_Remake_6_0",
+  "hex": "smfhcSutGIg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Desktop Computer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDesktopPC_Remake_4_0",
+  "hex": "7DRnMfHnu5I",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Digital Alarm Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDigitalclock_Remake_8_0",
+  "hex": "J5kyiGSXj2w",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Dish Drying Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDrainerbasket_Remake_6_0",
+  "hex": "jl3PybMa3sM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Dolly (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoll_Remake_6_0",
+  "hex": "agjlyzp5OQ8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Electronics Kit (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrElectronicset_Remake_2_0",
+  "hex": "59BBsZNsELs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Espresso Maker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrEspresso_Remake_7_0",
+  "hex": "RMyTgKfq9tU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Essay Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWriterset_Remake_4_0",
+  "hex": "omDwT2swYMg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fancy Violin (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrViolin_Remake_3_0",
+  "hex": "rvdX63OyQnY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fax Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFax_Remake_4_0",
+  "hex": "u8mRQlLwVVc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Floating Biotope Planter (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBiotope_Remake_4_0",
+  "hex": "CCjcgcO3ADk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Floor Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSafetycone_Remake_5_0",
+  "hex": "6tGobpDgnF4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fortune Telling Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPsychicset_Remake_2_0",
+  "hex": "QXNPofzYqQw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fragrance Diffuser (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAromadiffuser_Remake_5_0",
+  "hex": "RVn05m9yeSs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fragrance Sticks (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAromastick_Remake_4_0",
+  "hex": "d1rEn8ofork",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frozen Treat Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIceCandy_Remake_6_0",
+  "hex": "ANEw1A4jZ6g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Frying Pan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPan_Remake_6_0",
+  "hex": "zBXIXwPa5PA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Garden Gnome (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDwarf_Remake_8_0",
+  "hex": "RYdyeiSN0P8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Glass Holder With Candle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGlasscandle_Remake_6_0",
+  "hex": "IWQaCpzjgzs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Globe (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGlobe_Remake_3_0",
+  "hex": "o0toUhpN9So",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hamster Cage (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHamstercage_Remake_5_0",
+  "hex": "R3vR7pcdGmU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Handy Water Cooler (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWaterjug_Remake_6_0",
+  "hex": "LinqmdhX8bA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Holiday Candle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCandleXmas_Remake_5_0",
+  "hex": "IjzxfxO7ILc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hourglass (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSandglass_Remake_4_0",
+  "hex": "N2ebWQnpXNc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hula Doll (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHuladoll_Remake_6_0",
+  "hex": "IfauSzeIyJ0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Humidifier (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHumidifier_Remake_8_0",
+  "hex": "TixLayBv6R4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hyacinth Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerLamp_Remake_3_0",
+  "hex": "jFgfXCPzpO0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Incense Burner (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIncense_Remake_6_0",
+  "hex": "wwbBVjGRbk0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Katana (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrJapanSword_Remake_5_0",
+  "hex": "7b7iJShNz6g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Kettlebell (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKettlebell_Remake_6_0",
+  "hex": "XVxQHAEqca8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Knife Block (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKniferack_Remake_3_0",
+  "hex": "y8OR2KEWToA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lantern (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLantern_Remake_8_0",
+  "hex": "L8eB870vWXU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Laptop (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLaptop_Remake_7_0",
+  "hex": "IT29Q2wI1YY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "LCD TV (20 In.) (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTV20inch_Remake_8_0",
+  "hex": "4aCn52m71g4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "LCD TV (50 In.) (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTV50inch_Remake_5_0",
+  "hex": "aK1YJheT9vY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Life Ring (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLifebelt_Remake_4_0",
+  "hex": "olDffu5e9Rk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Lucky Cat (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrManekineko_Remake_2_0",
+  "hex": "eug3iMo2WsQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Magazine Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMagazinerack_Remake_8_0",
+  "hex": "G3qUUPQobzg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Magic Kit (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMagicset_Remake_2_0",
+  "hex": "86auqnpl1j4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Matryoshka (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMatryoshka_Remake_5_0",
+  "hex": "uk6iojcMJgY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Metronome (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMetronome_Remake_5_0",
+  "hex": "Lt3i8yWXhIs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Microscope (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMicroscope_Remake_3_0",
+  "hex": "5HYsvXKjpKc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Microwave (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMicrowave_Remake_4_0",
+  "hex": "PDN4RLoQmQY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mixer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMixer_Remake_8_0",
+  "hex": "lR2D3xVuG7E",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Modeling Clay (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrClaytoy_Remake_7_0",
+  "hex": "Q8vakFxR1NU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Candle Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomCandle_Remake_6_0",
+  "hex": "N4qUVOsTrRQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Cushion (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomCushion_Remake_6_0",
+  "hex": "qvP9eRrz2JA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Homemade Cake (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomCake_Remake_6_0",
+  "hex": "UswvKbURrOQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Pen Stand (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomPenstand_Remake_6_0",
+  "hex": "ZjTFHyWupIQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Plushie (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomDoll_Remake_6_0",
+  "hex": "iXpZv3XPvCo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Tea Cozy (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomPot_Remake_6_0",
+  "hex": "xtEKSVoXbSU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Tissue Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomTissue_Remake_6_0",
+  "hex": "EwiTxWzx2W8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mug (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMug_Remake_8_0",
+  "hex": "Gu46Swpo7No",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Nail Art Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNailartset_Remake_2_0",
+  "hex": "crR8PmiyQik",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Nintendo Switch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSwitch_Remake_2_0",
+  "hex": "MdGpfPjR5FQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Nova Light (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStarLamp_Remake_7_0",
+  "hex": "Axufegm0zh8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Nutcracker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNutcracker_Remake_2_0",
+  "hex": "o5iVaTyPdB4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Old Fashioned Alarm Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrClockBell_Remake_8_0",
+  "hex": "E2FNzHuR6CY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Painting Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPaintset_Remake_4_0",
+  "hex": "W0Za8FRoFNE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Peach Surprise Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsBox_Remake_2_0",
+  "hex": "Rryz0PutgtY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pedal Board (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrEffectorset_Remake_3_0",
+  "hex": "FVejeIhrg9w",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pet Food Bowl (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPetFood_Remake_5_0",
+  "hex": "T0gmkR7QLZQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Picnic Basket (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPicnicbasket_Remake_6_0",
+  "hex": "wi0vRotoxwY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Plastic Canister (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPolytank_Remake_5_0",
+  "hex": "pwMwWKVsaZg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pocket Modern Camper (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCompassCarB_Remake_6_0",
+  "hex": "0g9TfZRz2nY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pocket Vintage Camper (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCompassCarA_Remake_6_0",
+  "hex": "C1HAY2ywy3Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pop Up Toaster (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToaster_Remake_6_0",
+  "hex": "g4bD7z9ALz8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Portable Radio (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPortableradio_Remake_8_0",
+  "hex": "6P1f2jLy5Ko",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Portable Record Player (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPortablerecordplayer_Remake_7_0",
+  "hex": "J5mwRGe9HsA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pot (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKame_Remake_5_0",
+  "hex": "7h45mt0pxlw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pro Tape Recorder (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrReelrecorder_Remake_3_0",
+  "hex": "77SPEZFIDpA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Protein Shaker Bottle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrProtein_Remake_4_0",
+  "hex": "82iRIJ08zzA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Table Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanLamp_Remake_6_0",
+  "hex": "YFKhBXeERhA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rattan Towel Basket (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRattanBasket_Remake_6_0",
+  "hex": "boNxYuC0smE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Record Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRecordbox_Remake_8_0",
+  "hex": "yfBWMxSVyts",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Recycled Can Thumb Piano (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKalimbaCan_Remake_6_0",
+  "hex": "OSCqvJFNRdY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Revolving Spice Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSeasoning_Remake_3_0",
+  "hex": "te5FlXSyO1s",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rice Cooker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRiceCooker_Remake_5_0",
+  "hex": "qyUNgge7TRw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ring (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRing_Remake_8_0",
+  "hex": "x5AlFyqsOA4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ringtoss (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrQuoits_Remake_4_0",
+  "hex": "Y9QexB2I3I0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Rotary Phone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPhoneDial_Remake_8_0",
+  "hex": "TEoVgWgVdUI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Sewing Machine (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSewingmachine_Remake_7_0",
+  "hex": "EvtzK8qDel0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Sewing Project (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSewingset_Remake_6_0",
+  "hex": "Nd5nwTRQaUM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shaved Ice Maker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIcemachine_Remake_2_0",
+  "hex": "No6fGiziHG8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellLamp_Remake_6_0",
+  "hex": "1KZ6BJl2I7Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shell Speaker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShellMusic_Remake_6_0",
+  "hex": "91OHQ8GALl0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Simple Kettle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKettle_Remake_7_0",
+  "hex": "P51cyPjjU0g",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Soup Kettle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSoupjar_Remake_8_0",
+  "hex": "JfbiXnKKhLw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stack of Books (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBooks_Remake_4_0",
+  "hex": "FPii6NgJo1k",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stand Mixer (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStandmixer_Remake_6_0",
+  "hex": "3E1qkQDDWpg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Star Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStarClock_Remake_7_0",
+  "hex": "BMhad0kjM5E",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Stovetop Espresso Maker (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrEspressomaker_Remake_3_0",
+  "hex": "G0y85ItO8Jw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Sturdy Sewing Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSewingbox_Remake_6_0",
+  "hex": "QqIzw4zh6g8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Table Setting (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTablesetting_Remake_5_0",
+  "hex": "8g2oFr97nVA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tabletop Festive Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTreeXmasMini_Remake_6_0",
+  "hex": "2AS5wN3xOyo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tape Deck (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrRadicase_Remake_4_0",
+  "hex": "laQG06EMO3I",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tea Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTeaset_Remake_4_0",
+  "hex": "qATpc9Ps2HI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Terrarium (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTerrarium_Remake_3_0",
+  "hex": "5Q9nP3Z79go",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Container (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyBox_Remake_7_0",
+  "hex": "z9Ziiynh7Q8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Gothic Mirror (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyMirror_Remake_3_0",
+  "hex": "3ahFI2g3b9A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Skull Radio (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyAudio_Remake_6_0",
+  "hex": "gwv4j16oKZs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Wrestling Figure (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyFigure_Remake_6_0",
+  "hex": "8SGMnFhmV2Y",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tissue Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTissuebox_Remake_6_0",
+  "hex": "f4QsIPEtpoo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Toolbox (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToolbox_Remake_6_0",
+  "hex": "p6jTXjPzizo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Toy Box (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToybox_Remake_4_0",
+  "hex": "4WbXO9qHeE8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Traditional Tea Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTeasetChina_Remake_3_0",
+  "hex": "uPvYI5sCCIE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Trash Bags (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGarbagebag_Remake_4_0",
+  "hex": "7BRDfpUZBYw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tree's Bounty Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNutLamp_Remake_2_0",
+  "hex": "nVzczLA5VAo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tree's Bounty Little Tree (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNutTreeS_Remake_2_0",
+  "hex": "Kz1jYFnvTLw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Typewriter (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTypewriter_Remake_6_0",
+  "hex": "9RW7UhiMjB4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ukulele (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrUkulele_Remake_4_0",
+  "hex": "U21W1q9UrmU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Unglazed Dish Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDishesUnglazed_Remake_6_0",
+  "hex": "u4qZQqQjb9Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Cake (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingCake_Remake_3_0",
+  "hex": "YOhhYWN6Cb0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Candle Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingCandle_Remake_3_0",
+  "hex": "aP1PL0tteKE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Windflower Fan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerFan_Remake_3_0",
+  "hex": "d2EoDqucUkc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Fish (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMokugyo_Remake_3_0",
+  "hex": "R01rNYbjxwY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Table Mirror (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWoodenMirrorS_Remake_8_0",
+  "hex": "cY3VgdHdeR0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Toolbox (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToolboxWood_Remake_4_0",
+  "hex": "n3zdqOSXzvg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Toy (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockBrick_Remake_5_0",
+  "hex": "KImiYkiC15c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
   "itemName": "Air Conditioner",
   "color": "White",
   "internalName": "FtrAirconditioner_Remake_0_0",
@@ -34880,6 +38681,510 @@
   "internalName": "FtrStudyposter_Remake_3_0",
   "hex": "I75nBjGonZE",
   "image": "FtrIcon/FtrStudyposter_Remake_3_0.png"
+ },
+ {
+  "itemName": "Air Conditioner (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAirconditioner_Remake_6_0",
+  "hex": "3rJu9zit1pE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Antique Phone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAntiquePhoneW_Remake_3_0",
+  "hex": "AdRG84jz7jQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Autograph Cards (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAutograph_Remake_4_0",
+  "hex": "6TJAzGcHDrY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bamboo Wall Decoration (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBambooFlowerwall_Remake_3_0",
+  "hex": "WzIzmyRWRjU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bathroom Towel Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTowelrackWall_Remake_4_0",
+  "hex": "h9t2UbzL9ok",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Bone Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorPlateBone_Remake_8_0",
+  "hex": "YLxUYw02Lqg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Boomerang (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoomerang_Remake_5_0",
+  "hex": "jKPw2kOWrWE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Broom and Dustpan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCleaningset_Remake_4_0",
+  "hex": "fZwFkReJzqU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cherry Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsLampW_Remake_2_0",
+  "hex": "bNRhfWb3pOg",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cherry Blossom Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSakuraClockW_Remake_2_0",
+  "hex": "0jdazAK9fjQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Corkboard (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCorkboard_Remake_3_0",
+  "hex": "h2jQSDB1SIc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Crest Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentCrest_Remake_6_0",
+  "hex": "7pStvTiDlSE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cuckoo Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuckooclock_Remake_7_0",
+  "hex": "bnPKUUJK0tw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Cute Wall Mounted Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCuteClockW_Remake_5_0",
+  "hex": "x4gZwaCJzz4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Deer Decoration (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHuntingtrophy_Remake_5_0",
+  "hex": "mPVu7xfiGSU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Diner Neon Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrAmeretroClock_Remake_7_0",
+  "hex": "6z8UIUoQdg4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Double Sided Wall Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBothsideclockWall_Remake_6_0",
+  "hex": "kMGsHGWzRns",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Exit Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrExit_Remake_4_0",
+  "hex": "80ZVunazlbA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fish Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentFish_Remake_8_0",
+  "hex": "rlJI4mcvDbk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fish Print (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFishprint_Remake_7_0",
+  "hex": "mLSRLHz8AWE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fishing Boat Flag (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBigcatchflag_Remake_4_0",
+  "hex": "uuNECY7GsGE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Floral Swag (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFlowerSwag_Remake_5_0",
+  "hex": "T52HDXp1YoQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Formal Paper (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTestimonial_Remake_3_0",
+  "hex": "c1gbtPuCie0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Fossil Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentFossil_Remake_2_0",
+  "hex": "JpmTbn9ROSE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Gears (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrGearWall_Remake_5_0",
+  "hex": "ZPxlxXhLPqA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hanging Scroll (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrHangingscroll_Remake_5_0",
+  "hex": "0hiGRzdPxVY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Hanging Terrarium (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTerrariumWall_Remake_3_0",
+  "hex": "0asDXX162Ew",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Heart Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentPlateHeart_Remake_8_0",
+  "hex": "S7CzucRwRtE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Decorative Shelves (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOrientalShelfWall_Remake_4_0",
+  "hex": "ywkx47RpU74",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Imperial Dining Lantern (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrChineseLampWall_Remake_4_0",
+  "hex": "AVzSOqRjVF4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentIron_Remake_8_0",
+  "hex": "Yr6x2ze0fYM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Wall Lamp (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronLampW_Remake_2_0",
+  "hex": "VAifrl3WwXE",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Iron Wall Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronShelfW_Remake_2_0",
+  "hex": "1wraxlvPZvw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ironwood Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrIronwoodClockW_Remake_5_0",
+  "hex": "Gz3obxJqC5k",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Key Holder (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKeyhanger_Remake_4_0",
+  "hex": "A9GoddK6XNc",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Light Switch (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSwitchWall_Remake_4_0",
+  "hex": "iHiqRNhOYyQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Log Wall Mounted Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLogClockWall_Remake_4_0",
+  "hex": "cq6tHXpKp2M",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Macrame Tapestry (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMacrametapestry_Remake_4_0",
+  "hex": "UCQ7LMTFFuo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Magnetic Knife Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrKniferackWall_Remake_3_0",
+  "hex": "D3yhfvz33U0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mobile (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMobile_Remake_5_0",
+  "hex": "tvmnt0pWYIw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Art (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomArt_Remake_8_0",
+  "hex": "mfKRI0XGx2c",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Mom's Embroidery (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrMomEmbroidery_Remake_6_0",
+  "hex": "oJs8ZpvRia4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Orange Wall Mounted Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFruitsClockW_Remake_2_0",
+  "hex": "10Iq6j3lZuI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ornament Mobile (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOrnamentMobile_Remake_6_0",
+  "hex": "UhSbG3Aazhw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ornament Wreath (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentWreathOrnament_Remake_8_0",
+  "hex": "NjApPmSc4Lo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Party Garland (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPartydecorationWall_Remake_6_0",
+  "hex": "VADP2NZXmrU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Paw Print Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentPaw_Remake_8_0",
+  "hex": "6H1K0RLHBXo",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pennant (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPennant_Remake_5_0",
+  "hex": "hVtqk0fqmDU",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Pot Rack (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPotrack_Remake_3_0",
+  "hex": "CRIaH0uWzgs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Potted Ivy (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLeafWall_Remake_4_0",
+  "hex": "mKtjygaNh6Q",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Shower Set (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrShowerWall_Remake_4_0",
+  "hex": "eqmDz9Q5v5I",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Skull Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorPlateSkull_Remake_2_0",
+  "hex": "xYrg9qb7dGI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Spider Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentPlateInsect_Remake_8_0",
+  "hex": "XavKR9aSd6o",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Starry Garland (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStarDecorationWall_Remake_7_0",
+  "hex": "pwbzm0qwPy8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Studio Wall Spotlight (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrLampSpotWall_Remake_8_0",
+  "hex": "H9hPS5W6IRM",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tapestry (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTapestry_Remake_6_0",
+  "hex": "7D9Rys6DvmA",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Throwback Wall Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBoyClockWall_Remake_7_0",
+  "hex": "03snetRmnBw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Timber Doorplate (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrDoorOrnamentLog_Remake_8_0",
+  "hex": "KS5GZDvlTsw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Tree's Bounty Mobile (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrNutMobile_Remake_2_0",
+  "hex": "FFLrqjZK4kk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Ventilation Fan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrExtractorfan_Remake_5_0",
+  "hex": "f7XR1AhsNwk",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrOfficeClock_Remake_5_0",
+  "hex": "5rURyeHysSw",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Fan (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrFanRetroWall_Remake_8_0",
+  "hex": "ZI78Xqy8ZM0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Mounted Candle (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrCandleWall_Remake_5_0",
+  "hex": "398bZhytY6A",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Mounted Phone (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrPhoneWall_Remake_6_0",
+  "hex": "GDtcQby7goY",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Mounted Tool Board (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrToolhanger_Remake_6_0",
+  "hex": "f5EfeflFfvI",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Mounted TV (20 In.) (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTV20inchWall_Remake_8_0",
+  "hex": "86Aozxtmaz4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wall Mounted TV (50 In.) (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrTV50inchWall_Remake_5_0",
+  "hex": "xqq0TkBkfR0",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wedding Decoration (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWeddingFlowerWall_Remake_3_0",
+  "hex": "ExJwj9Wo3h8",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Block Wall Clock (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrBlockClock_Remake_5_0",
+  "hex": "i29glcUmywQ",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Wooden Plank Sign (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrSignboardWood_Remake_4_0",
+  "hex": "8CEhOWmDhZs",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "World Map (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrWorldMap_Remake_2_0",
+  "hex": "BfRSW6hF9D4",
+  "image": "FtrIcon/Glitch.png"
+ },
+ {
+  "itemName": "Writing Poster (Camo)",
+  "color": "Glitch",
+  "internalName": "FtrStudyposter_Remake_4_0",
+  "hex": "YFXemOOPi0Y",
+  "image": "FtrIcon/Glitch.png"
  },
  {
   "itemName": "Abstract Wall",
@@ -64181,6 +68486,13 @@
   "internalName": "ToolAxeFragile",
   "hex": "qhw72JuQHVg",
   "image": "FtrIcon/ToolAxeFragile.png"
+ },
+ {
+  "itemName": "Mushroom Wand (Camo)",
+  "color": "Glitch",
+  "internalName": "ff-mushwand",
+  "hex": "9m29oP4Mi2Y",
+  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
  },
  {
   "itemName": "Bamboo Lattice Fence x50",
