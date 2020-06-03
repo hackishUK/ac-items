@@ -15744,6 +15744,62 @@
   "image": "FtrIcon/FtrStereoRetro_Remake_1_0.png"
  },
  {
+  "itemName": "Robot Hero",
+  "color": "Red",
+  "internalName": "FtrHerorobot_Remake_0_0",
+  "hex": "iAhHSkXbJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_0_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "Blue",
+  "internalName": "FtrHerorobot_Remake_1_0",
+  "hex": "iAhHSkXaJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_1_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "Yellow",
+  "internalName": "FtrHerorobot_Remake_2_0",
+  "hex": "iAhHSkXZJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_2_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "Green",
+  "internalName": "FtrHerorobot_Remake_3_0",
+  "hex": "iAhHSkXYJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_3_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "Pink",
+  "internalName": "FtrHerorobot_Remake_4_0",
+  "hex": "iAhHSkXfJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_4_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "White",
+  "internalName": "FtrHerorobot_Remake_5_0",
+  "hex": "iAhHSkXeJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_5_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "Black",
+  "internalName": "FtrHerorobot_Remake_6_0",
+  "hex": "iAhHSkXdJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_6_0.png"
+ },
+ {
+  "itemName": "Robot Hero",
+  "color": "Gray",
+  "internalName": "FtrHerorobot_Remake_7_0",
+  "hex": "iAhHSkXcJd0",
+  "image": "FtrIcon/FtrHerorobot_Remake_7_0.png"
+ },
+ {
   "itemName": "Rock Guitar",
   "color": "Sunburst-None",
   "internalName": "FtrElectricguitar1_Remake_0_0",
@@ -23622,69 +23678,6 @@
   "image": "FtrIcon/Glitch.png"
  },
  {
-  "itemName": "Frozen Arch (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceGate_Remake_7_0",
-  "hex": "elkQwizneVY",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Bed (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceBedW_Remake_7_0",
-  "hex": "XRQLiZ5iYn0",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Chair (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceChairS_Remake_7_0",
-  "hex": "znwhV1H21HM",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Counter (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceCounter_Remake_7_0",
-  "hex": "g5ZZ32QSSqo",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Partition (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceScreen_Remake_7_0",
-  "hex": "ndsk6YAnrpk",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Pillar (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIcePillar_Remake_7_0",
-  "hex": "JZzZEIqS9Rk",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Sculpture (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceArt_Remake_7_0",
-  "hex": "xHRKZlYvelA",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Table (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceTableL_Remake_7_0",
-  "hex": "5kRDe5tSZdM",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Frozen Tree (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceTree_Remake_7_0",
-  "hex": "HfN7gfbzxPs",
-  "image": "FtrIcon/Glitch.png"
- },
- {
   "itemName": "Garbage Bin (Camo)",
   "color": "Glitch",
   "internalName": "FtrPaleCaster_Remake_7_0",
@@ -24574,13 +24567,6 @@
   "image": "FtrIcon/Glitch.png"
  },
  {
-  "itemName": "Public Bench (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrPublicbench_Remake_8_0",
-  "hex": "SVW1K528558",
-  "image": "FtrIcon/Glitch.png"
- },
- {
   "itemName": "Pull Up Bar Stand (Camo)",
   "color": "Glitch",
   "internalName": "FtrPullupstand_Remake_4_0",
@@ -24868,13 +24854,6 @@
   "image": "FtrIcon/Glitch.png"
  },
  {
-  "itemName": "Soft Serve Lamp (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrLampSoftcream_Remake_8_0",
-  "hex": "Pfv64xltL7w",
-  "image": "FtrIcon/Glitch.png"
- },
- {
   "itemName": "Solar Panel (Camo)",
   "color": "Glitch",
   "internalName": "FtrSolarpanel_Remake_2_0",
@@ -24900,13 +24879,6 @@
   "color": "Glitch",
   "internalName": "FtrStadiometer_Remake_3_0",
   "hex": "cRBKk9gg3X4",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Stall (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrFloat_Remake_8_0",
-  "hex": "QFeidPmhaow",
   "image": "FtrIcon/Glitch.png"
  },
  {
@@ -25278,13 +25250,6 @@
   "color": "Glitch",
   "internalName": "FtrWeddingOrgan_Remake_3_0",
   "hex": "cxLgzpeMGUw",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Wedding Table (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrWeddingTableL_Remake_3_0",
-  "hex": "RsBMXuUuZ1c",
   "image": "FtrIcon/Glitch.png"
  },
  {
@@ -34806,13 +34771,6 @@
   "image": "FtrIcon/Glitch.png"
  },
  {
-  "itemName": "Frozen Treat Set (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIceCandy_Remake_6_0",
-  "hex": "ANEw1A4jZ6g",
-  "image": "FtrIcon/Glitch.png"
- },
- {
   "itemName": "Frying Pan (Camo)",
   "color": "Glitch",
   "internalName": "FtrPan_Remake_6_0",
@@ -35279,13 +35237,6 @@
   "color": "Glitch",
   "internalName": "FtrSewingset_Remake_6_0",
   "hex": "Nd5nwTRQaUM",
-  "image": "FtrIcon/Glitch.png"
- },
- {
-  "itemName": "Shaved Ice Maker (Camo)",
-  "color": "Glitch",
-  "internalName": "FtrIcemachine_Remake_2_0",
-  "hex": "No6fGiziHG8",
   "image": "FtrIcon/Glitch.png"
  },
  {
