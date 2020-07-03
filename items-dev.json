@@ -99627,9 +99627,10 @@
   "image": "FtrIcon/DIYAcorn.png"
  },
  {
-  "itemName": "Apple",
-  "hex": "ZkZpUgkqSxM",
-  "image": "FtrIcon/Apple.png"
+  "itemName": "Apple x10",
+  "hex": "nUkwEQcFW1c",
+  "image": "FtrIcon/Apple.png",
+  "internalName": "Apple"
  },
  {
   "itemName": "Apple Tree",
@@ -99890,9 +99891,10 @@
   "image": "FtrIcon/WPaperLightGreen.png"
  },
  {
-  "itemName": "Cherry",
-  "hex": "6oElSwPwm3M",
-  "image": "FtrIcon/Cherry.png"
+  "itemName": "Cherry x10",
+  "hex": "GUefJQnqicM",
+  "image": "FtrIcon/Cherry.png",
+  "internalName": "Cherry"
  },
  {
   "itemName": "Cherry Tree",
@@ -99925,9 +99927,10 @@
   "image": "FtrIcon/PltWeed.png"
  },
  {
-  "itemName": "Coconut",
-  "hex": "05Ph8WPtkKA",
-  "image": "FtrIcon/Coconut.png"
+  "itemName": "Coconut x10",
+  "hex": "OxyoLFGV7R0",
+  "image": "FtrIcon/Coconut.png",
+  "internalName": "Coconut"
  },
  {
   "itemName": "Coconut Tree",
@@ -100277,9 +100280,10 @@
   "image": "FtrIcon/TrashTire.png"
  },
  {
-  "itemName": "Orange",
-  "hex": "zFSzEzLZWJo",
-  "image": "FtrIcon/Orange.png"
+  "itemName": "Orange x10",
+  "hex": "sdycUwt3FMk",
+  "image": "FtrIcon/Orange.png",
+  "internalName": "Orange"
  },
  {
   "itemName": "Orange Cosmos x10 (wear)",
@@ -100402,9 +100406,10 @@
   "image": "MenuIcon/PltAnemone2.png"
  },
  {
-  "itemName": "Peach",
-  "hex": "xoYLqNgUJa0",
-  "image": "FtrIcon/Peach.png"
+  "itemName": "Peach x10",
+  "hex": "fn1ZiWA27C8",
+  "image": "FtrIcon/Peach.png",
+  "internalName": "Peach"
  },
  {
   "itemName": "Peach Tree",
@@ -100413,9 +100418,10 @@
   "image": "MenuIcon/PltPeach.png"
  },
  {
-  "itemName": "Pear",
-  "hex": "OEcNyLOJlJs",
-  "image": "FtrIcon/Pear.png"
+  "itemName": "Pear x10",
+  "hex": "BPmYuNf6Oeg",
+  "image": "FtrIcon/Pear.png",
+  "internalName": "Pear"
  },
  {
   "itemName": "Pear Tree",
@@ -100424,9 +100430,10 @@
   "image": "MenuIcon/PltPear.png"
  },
  {
-  "itemName": "Pearl",
-  "hex": "VLRZT6voMwM",
-  "image": "MenuIcon/Pearl.png"
+  "itemName": "Pearl x30",
+  "hex": "RdmzErxxHiQ",
+  "image": "MenuIcon/Pearl.png",
+  "internalName": "Pearl"
  },
  {
   "itemName": "Pine Cone x30",
