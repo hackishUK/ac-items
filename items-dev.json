@@ -70151,21 +70151,21 @@
   "color": "Black",
   "internalName": "TopsTexTopCoatLPirate2",
   "hex": "mszIkjZQza4",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexTopCoatLPirate2.png"
  },
  {
   "itemName": "Sea Captain's Coat",
   "color": "Red",
   "internalName": "TopsTexTopCoatLPirate0",
   "hex": "m8vMkTZQza4",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexTopCoatLPirate0.png"
  },
  {
   "itemName": "Sea Captain's Coat",
   "color": "Blue",
   "internalName": "TopsTexTopCoatLPirate1",
   "hex": "mszIyjZQza4",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexTopCoatLPirate1.png"
  },
  {
   "itemName": "Sea Hanten Shirt",
@@ -75669,7 +75669,7 @@
   "itemName": "Pirate Pants",
   "internalName": "BottomsTexPantsNormalPirates0",
   "hex": "MNMr7EoJAF8",
-  "image": "a.png"
+  "image": "FtrIcon/BottomsTexPantsNormalPirates0.png"
  },
  {
   "itemName": "Plaid Shorts",
@@ -80900,28 +80900,28 @@
   "color": "Pink",
   "internalName": "TopsTexOnepieceAlongNMermaiddress0",
   "hex": "pNndtMHX1V0",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceAlongNMermaiddress0.png"
  },
  {
   "itemName": "Mermaid Fishy Dress",
   "color": "Light blue",
   "internalName": "TopsTexOnepieceAlongNMermaiddress1",
   "hex": "pNjW5MHX1V0",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceAlongNMermaiddress1.png"
  },
  {
   "itemName": "Mermaid Princess Dress",
   "color": "Pink",
   "internalName": "TopsTexOnepieceDressNMermaid0",
   "hex": "MOxOh7i0wug",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceDressNMermaid0.png"
  },
  {
   "itemName": "Mermaid Princess Dress",
   "color": "Light blue",
   "internalName": "TopsTexOnepieceDressNMermaid1",
   "hex": "MO1F17i0wug",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceDressNMermaid1.png"
  },
  {
   "itemName": "Miko Attire",
@@ -81655,48 +81655,48 @@
   "color": "Black",
   "internalName": "TopsTexOnepieceBalloonHPirate2",
   "hex": "yAH7t0u3Gzk",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceBalloonHPirate2.png"
  },
  {
   "itemName": "Pirate Dress",
   "color": "Red",
   "internalName": "TopsTexOnepieceBalloonHPirate0",
   "hex": "yAPR50u3Gzk",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceBalloonHPirate0.png"
  },
  {
   "itemName": "Pirate Dress",
   "color": "Blue",
   "internalName": "TopsTexOnepieceBalloonHPirate1",
   "hex": "yAH7tku3Gzk",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceBalloonHPirate1.png"
  },
  {
   "itemName": "Pirate Outfit",
   "color": "Black",
   "internalName": "TopsTexOnepieceOverallHPirates2",
   "hex": "3nKd6BUj9lM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceOverallHPirates2.png"
  },
  {
   "itemName": "Pirate Outfit",
   "color": "Red",
   "internalName": "TopsTexOnepieceOverallHPirates0",
   "hex": "3ibP7RUj9lM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceOverallHPirates0.png"
  },
  {
   "itemName": "Pirate Outfit",
   "color": "Blue",
   "internalName": "TopsTexOnepieceOverallHPirates1",
   "hex": "3nKd6xUj9lM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceOverallHPirates1.png"
  },
  {
   "itemName": "Pirate Treasure Robe",
   "internalName": "TopsTexOnepieceAlongLPirates0",
   "hex": "NakgWZQFMEo",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexOnepieceAlongLPirates0.png"
  },
  {
   "itemName": "PJ Outfit",
@@ -86093,7 +86093,7 @@
   "itemName": "Mermaid Tiara",
   "internalName": "CapOrnamentCMermaid0",
   "hex": "3HkBoP3Pup4",
-  "image": "a.png"
+  "image": "FtrIcon/CapOrnamentCMermaid0.png"
  },
  {
   "itemName": "Mesh Cap",
@@ -86697,37 +86697,37 @@
   "image": "FtrIcon/CapHatPineapple.png"
  },
  {
-  "itemName": "Pirate Bandana",
+  "itemName": "Pirate Bandanna",
   "color": "Black",
   "internalName": "CapHatPiratesbandana2",
-  "hex": "PJBm3lg17Ns",
-  "image": "a.png"
+  "hex": "q4fPz9rT4oE",
+  "image": "FtrIcon/CapHatPiratesbandana2.png"
  },
  {
-  "itemName": "Pirate Bandana",
+  "itemName": "Pirate Bandanna",
   "color": "Red",
   "internalName": "CapHatPiratesbandana0",
-  "hex": "PJJjjlg17Ns",
-  "image": "a.png"
+  "hex": "q4XKr9rT4oE",
+  "image": "FtrIcon/CapHatPiratesbandana0.png"
  },
  {
-  "itemName": "Pirate Bandana",
+  "itemName": "Pirate Bandanna",
   "color": "Blue",
   "internalName": "CapHatPiratesbandana1",
-  "hex": "PJBm31g17Ns",
-  "image": "a.png"
+  "hex": "q4fPztrT4oE",
+  "image": "FtrIcon/CapHatPiratesbandana1.png"
  },
  {
   "itemName": "Pirate Treasure Crown",
   "internalName": "CapOrnamentCPirate0",
   "hex": "NS2xoVxBp3A",
-  "image": "a.png"
+  "image": "FtrIcon/CapOrnamentCPirate0.png"
  },
  {
   "itemName": "Pirate's Hat",
   "internalName": "CapHatPirate0",
   "hex": "jwGdUgFJ4Eo",
-  "image": "a.png"
+  "image": "FtrIcon/CapHatPirate0.png"
  },
  {
   "itemName": "Plain Cap",
@@ -89381,11 +89381,10 @@
   "image": "FtrIcon/AccessoryGlassNook0.png"
  },
  {
-  "itemName": "Snorkel Mask",
-  "color": "Blue",
-  "internalName": "AccessoryGlassmouthDiver0",
-  "hex": "9y3knKSnW4A",
-  "image": "a.png"
+  "itemName": "Nook Inc. Snorkel",
+  "internalName": "AccessoryGlassmouthNook0",
+  "hex": "eJ0sd3CdkZk",
+  "image": "FtrIcon/AccessoryGlassmouthNook0.png"
  },
  {
   "itemName": "Nose Drip",
@@ -89557,13 +89556,13 @@
   "itemName": "Pirate Beard",
   "internalName": "AccessoryMouthPirates0",
   "hex": "Q018uT5y0Aw",
-  "image": "a.png"
+  "image": "FtrIcon/AccessoryMouthPirates0.png"
  },
  {
   "itemName": "Pirate Eye Patch",
   "internalName": "AccessoryGlassPiratespatch0",
   "hex": "DPTYCVBIxek",
-  "image": "a.png"
+  "image": "FtrIcon/AccessoryGlassPiratespatch0.png"
  },
  {
   "itemName": "Pixel Shades",
@@ -89852,6 +89851,48 @@
   "internalName": "AccessoryGlassGogglesski3",
   "hex": "aGHJyp5bHq4",
   "image": "FtrIcon/AccessoryGlassGogglesski3.png"
+ },
+ {
+  "itemName": "Snorkel Mask",
+  "color": "Black",
+  "internalName": "AccessoryGlassmouthDiver5",
+  "hex": "9y3kkKSnW4A",
+  "image": "FtrIcon/AccessoryGlassmouthDiver5.png"
+ },
+ {
+  "itemName": "Snorkel Mask",
+  "color": "Red",
+  "internalName": "AccessoryGlassmouthDiver2",
+  "hex": "9y3kn6SnW4A",
+  "image": "FtrIcon/AccessoryGlassmouthDiver2.png"
+ },
+ {
+  "itemName": "Snorkel Mask",
+  "color": "Pink",
+  "internalName": "AccessoryGlassmouthDiver3",
+  "hex": "9y3knqSnW4A",
+  "image": "FtrIcon/AccessoryGlassmouthDiver3.png"
+ },
+ {
+  "itemName": "Snorkel Mask",
+  "color": "Orange",
+  "internalName": "AccessoryGlassmouthDiver1",
+  "hex": "9y3knKSnW4A",
+  "image": "FtrIcon/AccessoryGlassmouthDiver1.png"
+ },
+ {
+  "itemName": "Snorkel Mask",
+  "color": "Green",
+  "internalName": "AccessoryGlassmouthDiver4",
+  "hex": "9y3kkaSnW4A",
+  "image": "FtrIcon/AccessoryGlassmouthDiver4.png"
+ },
+ {
+  "itemName": "Snorkel Mask",
+  "color": "Blue",
+  "internalName": "AccessoryGlassmouthDiver0",
+  "hex": "9HzinqSnW4A",
+  "image": "FtrIcon/AccessoryGlassmouthDiver0.png"
  },
  {
   "itemName": "Sporty Shades",
@@ -93951,14 +93992,14 @@
   "color": "Pink",
   "internalName": "ShoesLowcutMermaid0",
   "hex": "JTkkeRPFDx4",
-  "image": "a.png"
+  "image": "FtrIcon/ShoesLowcutMermaid0.png"
  },
  {
   "itemName": "Mermaid Shoes",
   "color": "Light blue",
   "internalName": "ShoesLowcutMermaid1",
   "hex": "JTsiKePFDx4",
-  "image": "a.png"
+  "image": "FtrIcon/ShoesLowcutMermaid1.png"
  },
  {
   "itemName": "Moccasin Boots",
@@ -94159,7 +94200,7 @@
   "itemName": "Pirate Boots",
   "internalName": "ShoesKneePirates0",
   "hex": "ptvirfKU3Lo",
-  "image": "a.png"
+  "image": "FtrIcon/ShoesKneePirates0.png"
  },
  {
   "itemName": "Pleather Ankle Booties",
@@ -96786,62 +96827,62 @@
   "color": "Black",
   "internalName": "TopsTexMarinesuitNormalNGreco3",
   "hex": "EUHKUYo8hBA",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalNGreco3.png"
  },
  {
   "itemName": "Horizontal Striped Wet Suit",
   "color": "Red",
   "internalName": "TopsTexMarinesuitNormalNGreco0",
   "hex": "EUCaVoo8hBA",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalNGreco0.png"
  },
  {
   "itemName": "Horizontal Striped Wet Suit",
   "color": "Yellow",
   "internalName": "TopsTexMarinesuitNormalNGreco2",
   "hex": "EUHKUoo8hBA",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalNGreco2.png"
  },
  {
   "itemName": "Horizontal Striped Wet Suit",
   "color": "Blue",
   "internalName": "TopsTexMarinesuitNormalNGreco1",
   "hex": "EUHKU4o8hBA",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalNGreco1.png"
  },
  {
   "itemName": "Leaf Print Wet Suit",
   "color": "Yellow",
   "internalName": "TopsTexMarinesuitNormalLRashguard2",
   "hex": "0ohUl2awKUM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalLRashguard2.png"
  },
  {
   "itemName": "Leaf Print Wet Suit",
   "color": "Green",
   "internalName": "TopsTexMarinesuitNormalLRashguard3",
   "hex": "0ohUlmawKUM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalLRashguard3.png"
  },
  {
   "itemName": "Leaf Print Wet Suit",
   "color": "Light blue",
   "internalName": "TopsTexMarinesuitNormalLRashguard0",
   "hex": "0okEwGawKUM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalLRashguard0.png"
  },
  {
   "itemName": "Leaf Print Wet Suit",
   "color": "Purple",
   "internalName": "TopsTexMarinesuitNormalLRashguard1",
   "hex": "0ohUlGawKUM",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalLRashguard1.png"
  },
  {
   "itemName": "Nook Inc. Wet Suit",
   "internalName": "TopsTexMarinesuitNormalLNook0",
   "hex": "RKiyo8HuM7I",
-  "image": "a.png"
+  "image": "FtrIcon/TopsTexMarinesuitNormalLNook0.png"
  },
  {
   "itemName": "Agent K.K.",
