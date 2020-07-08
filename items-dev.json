@@ -98509,7 +98509,7 @@
  {
   "itemName": "Chambered Nautilus",
   "hex": "HAvaCO2jQzo",
-  "internalName": "FtrDiveFishOumagai",
+  "internalName": "FtrDiveFishOumugai",
   "image": "MenuIcon/Oumugai.png"
  },
  {
@@ -98563,7 +98563,7 @@
  {
   "itemName": "Mantis Shrimp",
   "hex": "njwt5WbdXIM",
-  "internalName": "FtrDiveFishSyako",
+  "internalName": "FtrDiveFishShako",
   "image": "MenuIcon/Shako.png"
  },
  {
@@ -99990,7 +99990,7 @@
   "itemName": "Communicator",
   "internalName": "PirateQuest",
   "hex": "qQVyfLuhflo",
-  "image": "a.png"
+  "image": "MenuIcon/PirateQuest.png"
  },
  {
   "itemName": "Communicator Part x10",
