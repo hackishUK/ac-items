@@ -99867,10 +99867,40 @@
   "image": "FtrIcon/PhotoStudioBellBag.png"
  },
  {
+  "itemName": "Bell Voucher",
+  "internalName": "BellExchangeTicket",
+  "hex": "fDaFv8MgnCE",
+  "image": "MenuIcon/BellExchangeTicket.png"
+ },
+ {
   "itemName": "Birthday Cupcake x10",
   "internalName": "BirthdayCupcake",
   "hex": "z82F9b4Uc2M",
   "image": "FtrIcon/BirthdayCupcake.png"
+ },
+ {
+  "itemName": "Black Cosmos x10 (wear)",
+  "internalName": "FlwCosmosBlack",
+  "hex": "X3gBl3SP6eA",
+  "image": "FtrIcon/FlwCosmosBlack.png"
+ },
+ {
+  "itemName": "Black Lilies x10 (wear)",
+  "internalName": "FlwYuriBlack",
+  "hex": "2ThFaT52tuM",
+  "image": "FtrIcon/FlwYuriBlack.png"
+ },
+ {
+  "itemName": "Black Roses x10 (wear)",
+  "internalName": "FlwRoseBlack",
+  "hex": "szZSK2sOakk",
+  "image": "FtrIcon/FlwRoseBlack.png"
+ },
+ {
+  "itemName": "Black Tulips x10 (wear)",
+  "internalName": "FlwTulipBlack",
+  "hex": "ee44neovvjQ",
+  "image": "FtrIcon/FlwTulipBlack.png"
  },
  {
   "itemName": "Black Wrapping Paper x10",
@@ -99909,10 +99939,34 @@
   "image": "MenuIcon/TentWhite.png"
  },
  {
+  "itemName": "Blue Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthBlue",
+  "hex": "ywU7vRUsA0A",
+  "image": "FtrIcon/FlwHyacinthBlue.png"
+ },
+ {
   "itemName": "Blue Ornament x30",
   "internalName": "DIYOrnamentBlue",
   "hex": "iBTDefiGA4g",
   "image": "FtrIcon/DIYOrnamentBlue.png"
+ },
+ {
+  "itemName": "Blue Pansies x10 (wear)",
+  "internalName": "FlwPansyBlue",
+  "hex": "U3uvzP0vH5g",
+  "image": "FtrIcon/FlwPansyBlue.png"
+ },
+ {
+  "itemName": "Blue Roses x10 (wear)",
+  "internalName": "FlwRoseBlue",
+  "hex": "f83pONsNmrA",
+  "image": "FtrIcon/FlwRoseBlue.png"
+ },
+ {
+  "itemName": "Blue Windflowers x10 (wear)",
+  "internalName": "FlwAnemonesBlue",
+  "hex": "f7RHRQ0qoco",
+  "image": "FtrIcon/FlwAnemonesBlue.png"
  },
  {
   "itemName": "Blue Wrapping Paper x10",
@@ -100077,6 +100131,12 @@
   "image": "FtrIcon/PhotoStudioBell.png"
  },
  {
+  "itemName": "Communicator",
+  "internalName": "PirateQuest",
+  "hex": "qQVyfLuhflo",
+  "image": "MenuIcon/PirateQuest.png"
+ },
+ {
   "itemName": "Communicator Part x10",
   "internalName": "JohnnyQuest1",
   "hex": "Hkb1KcsDanQ",
@@ -100167,6 +100227,12 @@
   "image": "FtrIcon/TrashCan.png"
  },
  {
+  "itemName": "Fish Bait x10",
+  "internalName": "FishBait",
+  "hex": "840LgAzYyzA",
+  "image": "FtrIcon/FishBait.png"
+ },
+ {
   "itemName": "Flat Mushroom x10",
   "internalName": "MushFlat",
   "hex": "eDKKyxAVCwY",
@@ -100208,6 +100274,12 @@
   "image": "FtrIcon/DIYOrnamentGold.png"
  },
  {
+  "itemName": "Gold Roses x10 (wear)",
+  "internalName": "FlwRoseGold",
+  "hex": "TVktbNfeUcc",
+  "image": "FtrIcon/FlwRoseGold.png"
+ },
+ {
   "itemName": "Gold Wrapping Paper x10",
   "internalName": "WPaperGold",
   "hex": "HYfQhul9fmo",
@@ -100224,6 +100296,12 @@
   "internalName": "WPaperGray",
   "hex": "yifc7bDAqos",
   "image": "FtrIcon/WPaperGray.png"
+ },
+ {
+  "itemName": "Green Mums x10 (wear)",
+  "internalName": "FlwMumGreen",
+  "hex": "u2jMyTlRDzs",
+  "image": "FtrIcon/FlwMumGreen.png"
  },
  {
   "itemName": "Green Wrapping Paper x10",
@@ -100382,6 +100460,12 @@
   "image": "FtrIcon/WPaperNavy.png"
  },
  {
+  "itemName": "Nook Miles Ticket x10",
+  "internalName": "MilePlaneTicket",
+  "hex": "I9rTnR1r37M",
+  "image": "MenuIcon/PlaneTicket.png"
+ },
+ {
   "itemName": "Old Tire",
   "internalName": "TrashTire",
   "hex": "JkLksTaHh5I",
@@ -100394,10 +100478,52 @@
   "internalName": "Orange"
  },
  {
+  "itemName": "Orange Cosmos x10 (wear)",
+  "internalName": "FlwCosmosOrange",
+  "hex": "tCGLK5SWeOY",
+  "image": "FtrIcon/FlwCosmosOrange.png"
+ },
+ {
+  "itemName": "Orange Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthOrange",
+  "hex": "bX2qAELuAf8",
+  "image": "FtrIcon/FlwHyacinthOrange.png"
+ },
+ {
+  "itemName": "Orange Lilies x10 (wear)",
+  "internalName": "FlwYuriOrange",
+  "hex": "M5NV3rmC9Nw",
+  "image": "FtrIcon/FlwYuriOrange.png"
+ },
+ {
+  "itemName": "Orange Pansies x10 (wear)",
+  "internalName": "FlwPansyRedYellow",
+  "hex": "lewSAYPOcUs",
+  "image": "FtrIcon/FlwPansyRedYellow.png"
+ },
+ {
+  "itemName": "Orange Roses x10 (wear)",
+  "internalName": "FlwRoseOrange",
+  "hex": "7oU9e4Da0Og",
+  "image": "FtrIcon/FlwRoseOrange.png"
+ },
+ {
   "itemName": "Orange Tree",
   "internalName": "PltOrange4",
   "hex": "uMxyV6T04Nc",
   "image": "MenuIcon/PltOrange.png"
+ },
+ {
+  "itemName": "Orange Tulips x10 (wear)",
+  "internalName": "FlwTulipOrange",
+  "hex": "oJr3fYresbo",
+  "image": "FtrIcon/FlwTulipOrange.png"
+ },
+ {
+  "itemName": "Orange Windflowers x10 (wear)",
+  "internalName": "FlwAnemonesOrange",
+  "hex": "FB6003z6yZA",
+  "image": "FtrIcon/FlwAnemonesOrange.png"
  },
  {
   "itemName": "Orange Wrapping Paper x10",
@@ -100496,10 +100622,58 @@
   "image": "MenuIcon/PltPear.png"
  },
  {
+  "itemName": "Pearl x30",
+  "hex": "RdmzEr0lHiQ",
+  "image": "MenuIcon/Pearl.png",
+  "internalName": "Pearl"
+ },
+ {
   "itemName": "Pine Cone x30",
   "internalName": "DIYPinecone",
   "hex": "DTFRjLWwmqo",
   "image": "FtrIcon/DIYPinecone.png"
+ },
+ {
+  "itemName": "Pink Cosmos x10 (wear)",
+  "internalName": "FlwCosmosPink",
+  "hex": "s1VfJ7U0KGs",
+  "image": "FtrIcon/FlwCosmosPink.png"
+ },
+ {
+  "itemName": "Pink Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthPink",
+  "hex": "JMlHwjmnhik",
+  "image": "FtrIcon/FlwHyacinthPink.png"
+ },
+ {
+  "itemName": "Pink Lilies x10 (wear)",
+  "internalName": "FlwYuriPink",
+  "hex": "NFVCWyz523s",
+  "image": "FtrIcon/FlwYuriPink.png"
+ },
+ {
+  "itemName": "Pink Mums x10 (wear)",
+  "internalName": "FlwMumPink",
+  "hex": "e7Jm7ufBXLg",
+  "image": "FtrIcon/FlwMumPink.png"
+ },
+ {
+  "itemName": "Pink Roses x10 (wear)",
+  "internalName": "FlwRosePink",
+  "hex": "G779AQ99RYw",
+  "image": "FtrIcon/FlwRosePink.png"
+ },
+ {
+  "itemName": "Pink Tulips x10 (wear)",
+  "internalName": "FlwTulipPink",
+  "hex": "CszTodqR5oM",
+  "image": "FtrIcon/FlwTulipPink.png"
+ },
+ {
+  "itemName": "Pink Windflowers x10 (wear)",
+  "internalName": "FlwAnemonesPink",
+  "hex": "AneOlCQz8jE",
+  "image": "FtrIcon/FlwAnemonesPink.png"
  },
  {
   "itemName": "Pink Wrapping Paper x10",
@@ -100628,6 +100802,42 @@
   "image": "MenuIcon/BookRecipe.png"
  },
  {
+  "itemName": "Purple Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthPurple",
+  "hex": "wSumX7VLRG8",
+  "image": "FtrIcon/FlwHyacinthPurple.png"
+ },
+ {
+  "itemName": "Purple Mums x10 (wear)",
+  "internalName": "FlwMumPurple",
+  "hex": "bvb8YOKBjAQ",
+  "image": "FtrIcon/FlwMumPurple.png"
+ },
+ {
+  "itemName": "Purple Pansies x10 (wear)",
+  "internalName": "FlwPansyPurple",
+  "hex": "eYeAntPA1e4",
+  "image": "FtrIcon/FlwPansyPurple.png"
+ },
+ {
+  "itemName": "Purple Roses x10 (wear)",
+  "internalName": "FlwRosePurple",
+  "hex": "0tTowG8j3jE",
+  "image": "FtrIcon/FlwRosePurple.png"
+ },
+ {
+  "itemName": "Purple Tulips x10 (wear)",
+  "internalName": "FlwTulipPurple",
+  "hex": "6zCXUoH8eLA",
+  "image": "FtrIcon/FlwTulipPurple.png"
+ },
+ {
+  "itemName": "Purple Windflowers x10 (wear)",
+  "internalName": "FlwAnemonesPurple",
+  "hex": "UiwI1yRe1Fo",
+  "image": "FtrIcon/FlwAnemonesPurple.png"
+ },
+ {
   "itemName": "Purple Wrapping Paper x10",
   "internalName": "WPaperPurple",
   "hex": "S07HYQmcXMY",
@@ -100676,10 +100886,58 @@
   "image": "FtrIcon/MushRare.png"
  },
  {
+  "itemName": "Red Cosmos x10 (wear)",
+  "internalName": "FlwCosmosRed",
+  "hex": "2ntrBPvSYvM",
+  "image": "FtrIcon/FlwCosmosRed.png"
+ },
+ {
+  "itemName": "Red Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthRed",
+  "hex": "W4C5nKJPYNA",
+  "image": "FtrIcon/FlwHyacinthRed.png"
+ },
+ {
+  "itemName": "Red Lilies x10 (wear)",
+  "internalName": "FlwYuriRed",
+  "hex": "syVD3SsV4jc",
+  "image": "FtrIcon/FlwYuriRed.png"
+ },
+ {
+  "itemName": "Red Mums x10 (wear)",
+  "internalName": "FlwMumRed",
+  "hex": "pHjzYzVyQzA",
+  "image": "FtrIcon/FlwMumRed.png"
+ },
+ {
   "itemName": "Red Ornament x30",
   "internalName": "DIYOrnamentRed",
   "hex": "7BXzWJvHF8k",
   "image": "FtrIcon/DIYOrnamentRed.png"
+ },
+ {
+  "itemName": "Red Pansies x10 (wear)",
+  "internalName": "FlwPansyRed",
+  "hex": "Ih8zAqTrZMY",
+  "image": "FtrIcon/FlwPansyRed.png"
+ },
+ {
+  "itemName": "Red Roses x10 (wear)",
+  "internalName": "FlwRoseRed",
+  "hex": "6KCrtmVHz48",
+  "image": "FtrIcon/FlwRoseRed.png"
+ },
+ {
+  "itemName": "Red Tulips x10 (wear)",
+  "internalName": "FlwTulipRed",
+  "hex": "7q4OMsL0Zas",
+  "image": "FtrIcon/FlwTulipRed.png"
+ },
+ {
+  "itemName": "Red Windflowers x10 (wear)",
+  "internalName": "FlwAnemonesRed",
+  "hex": "JOZGRCuqN18",
+  "image": "FtrIcon/FlwAnemonesRed.png"
  },
  {
   "itemName": "Red Wrapping Paper x10",
@@ -101003,7 +101261,7 @@
   "itemName": "Treasure",
   "internalName": "TreasureCapsule",
   "hex": "wzELzrfoRiw",
-  "image": "MenuIcon/Present2.png"
+  "image": "FtrIcon/TreasureCapsule.png"
  },
  {
   "itemName": "Tree Branch x30",
@@ -101052,6 +101310,60 @@
   "internalName": "FtrRiverMaker",
   "hex": "fZ78llb7GdQ",
   "image": "MenuIcon/ToolRiverMaker.png"
+ },
+ {
+  "itemName": "What Was This Again?",
+  "internalName": "TreasureCapsuleDust",
+  "hex": "WFySqa9zy60",
+  "image": "FtrIcon/TreasureCapsule.png"
+ },
+ {
+  "itemName": "White Cosmos x10 (wear)",
+  "internalName": "FlwCosmosWhite",
+  "hex": "SHpHyNCmYJw",
+  "image": "FtrIcon/FlwCosmosWhite.png"
+ },
+ {
+  "itemName": "White Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthWhite",
+  "hex": "NSJf7sIIiS0",
+  "image": "FtrIcon/FlwHyacinthWhite.png"
+ },
+ {
+  "itemName": "White Lilies x10 (wear)",
+  "internalName": "FlwYuriWhite",
+  "hex": "B3d1J9vK8rs",
+  "image": "FtrIcon/FlwYuriWhite.png"
+ },
+ {
+  "itemName": "White Mums x10 (wear)",
+  "internalName": "FlwMumWhite",
+  "hex": "RKVYtVxMbrU",
+  "image": "FtrIcon/FlwMumWhite.png"
+ },
+ {
+  "itemName": "White Pansies x10 (wear)",
+  "internalName": "FlwPansyWhite",
+  "hex": "Ed05d9l1EHc",
+  "image": "FtrIcon/FlwPansyWhite.png"
+ },
+ {
+  "itemName": "White Roses x10 (wear)",
+  "internalName": "FlwRoseWhite",
+  "hex": "OnXQD34Mf3o",
+  "image": "FtrIcon/FlwRoseWhite.png"
+ },
+ {
+  "itemName": "White Tulips x10 (wear)",
+  "internalName": "FlwTulipWhite",
+  "hex": "dP8LmG3z9y0",
+  "image": "FtrIcon/FlwTulipWhite.png"
+ },
+ {
+  "itemName": "White Windflowers x10 (wear)",
+  "internalName": "FlwAnemonesWhite",
+  "hex": "0utt9Ftyjzs",
+  "image": "FtrIcon/FlwAnemonesWhite.png"
  },
  {
   "itemName": "White Wrapping Paper x10",
@@ -101196,6 +101508,48 @@
   "internalName": "FtrGroundMakerWood",
   "hex": "PJpfQc0jNCg",
   "image": "MenuIcon/Helmet.png"
+ },
+ {
+  "itemName": "Yellow Cosmos x10 (wear)",
+  "internalName": "FlwCosmosYellow",
+  "hex": "Q0SiBoXDaUM",
+  "image": "FtrIcon/FlwCosmosYellow.png"
+ },
+ {
+  "itemName": "Yellow Hyacinths x10 (wear)",
+  "internalName": "FlwHyacinthYellow",
+  "hex": "EYZvMdkOKP8",
+  "image": "FtrIcon/FlwHyacinthYellow.png"
+ },
+ {
+  "itemName": "Yellow Lilies x10 (wear)",
+  "internalName": "FlwYuriYellow",
+  "hex": "5YKWDrbKto8",
+  "image": "FtrIcon/FlwYuriYellow.png"
+ },
+ {
+  "itemName": "Yellow Mums x10 (wear)",
+  "internalName": "FlwMumYellow",
+  "hex": "1q1BWqrlNsk",
+  "image": "FtrIcon/FlwMumYellow.png"
+ },
+ {
+  "itemName": "Yellow Pansies x10 (wear)",
+  "internalName": "FlwPansyYellow",
+  "hex": "Zv69YPzxrTU",
+  "image": "FtrIcon/FlwPansyYellow.png"
+ },
+ {
+  "itemName": "Yellow Roses x10 (wear)",
+  "internalName": "FlwRoseYellow",
+  "hex": "Qa3kYBQqaDA",
+  "image": "FtrIcon/FlwRoseYellow.png"
+ },
+ {
+  "itemName": "Yellow Tulips x10 (wear)",
+  "internalName": "FlwTulipYellow",
+  "hex": "6JGqbwEaOCU",
+  "image": "FtrIcon/FlwTulipYellow.png"
  },
  {
   "itemName": "Yellow Wrapping Paper x10",
@@ -101396,360 +101750,6 @@
   "image": "MenuIcon/PltBushOsmathusYellow.png"
  },
  {
-  "itemName": "Black Cosmos x10 (wear)",
-  "internalName": "FlwCosmosBlack",
-  "hex": "X3gBl3SP6eA",
-  "image": "FtrIcon/FlwCosmosBlack.png"
- },
- {
-  "itemName": "Black Lilies x10 (wear)",
-  "internalName": "FlwYuriBlack",
-  "hex": "2ThFaT52tuM",
-  "image": "FtrIcon/FlwYuriBlack.png"
- },
- {
-  "itemName": "Black Roses x10 (wear)",
-  "internalName": "FlwRoseBlack",
-  "hex": "szZSK2sOakk",
-  "image": "FtrIcon/FlwRoseBlack.png"
- },
- {
-  "itemName": "Black Tulips x10 (wear)",
-  "internalName": "FlwTulipBlack",
-  "hex": "ee44neovvjQ",
-  "image": "FtrIcon/FlwTulipBlack.png"
- },
- {
-  "itemName": "Blue Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthBlue",
-  "hex": "ywU7vRUsA0A",
-  "image": "FtrIcon/FlwHyacinthBlue.png"
- },
- {
-  "itemName": "Blue Pansies x10 (wear)",
-  "internalName": "FlwPansyBlue",
-  "hex": "U3uvzP0vH5g",
-  "image": "FtrIcon/FlwPansyBlue.png"
- },
- {
-  "itemName": "Blue Roses x10 (wear)",
-  "internalName": "FlwRoseBlue",
-  "hex": "f83pONsNmrA",
-  "image": "FtrIcon/FlwRoseBlue.png"
- },
- {
-  "itemName": "Blue Windflowers x10 (wear)",
-  "internalName": "FlwAnemonesBlue",
-  "hex": "f7RHRQ0qoco",
-  "image": "FtrIcon/FlwAnemonesBlue.png"
- },
- {
-  "itemName": "Gold Roses x10 (wear)",
-  "internalName": "FlwRoseGold",
-  "hex": "TVktbNfeUcc",
-  "image": "FtrIcon/FlwRoseGold.png"
- },
- {
-  "itemName": "Green Mums x10 (wear)",
-  "internalName": "FlwMumGreen",
-  "hex": "u2jMyTlRDzs",
-  "image": "FtrIcon/FlwMumGreen.png"
- },
- {
-  "itemName": "Orange Cosmos x10 (wear)",
-  "internalName": "FlwCosmosOrange",
-  "hex": "tCGLK5SWeOY",
-  "image": "FtrIcon/FlwCosmosOrange.png"
- },
- {
-  "itemName": "Orange Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthOrange",
-  "hex": "bX2qAELuAf8",
-  "image": "FtrIcon/FlwHyacinthOrange.png"
- },
- {
-  "itemName": "Orange Lilies x10 (wear)",
-  "internalName": "FlwYuriOrange",
-  "hex": "M5NV3rmC9Nw",
-  "image": "FtrIcon/FlwYuriOrange.png"
- },
- {
-  "itemName": "Orange Pansies x10 (wear)",
-  "internalName": "FlwPansyRedYellow",
-  "hex": "lewSAYPOcUs",
-  "image": "FtrIcon/FlwPansyRedYellow.png"
- },
- {
-  "itemName": "Orange Roses x10 (wear)",
-  "internalName": "FlwRoseOrange",
-  "hex": "7oU9e4Da0Og",
-  "image": "FtrIcon/FlwRoseOrange.png"
- },
- {
-  "itemName": "Orange Tulips x10 (wear)",
-  "internalName": "FlwTulipOrange",
-  "hex": "oJr3fYresbo",
-  "image": "FtrIcon/FlwTulipOrange.png"
- },
- {
-  "itemName": "Orange Windflowers x10 (wear)",
-  "internalName": "FlwAnemonesOrange",
-  "hex": "FB6003z6yZA",
-  "image": "FtrIcon/FlwAnemonesOrange.png"
- },
- {
-  "itemName": "Pink Cosmos x10 (wear)",
-  "internalName": "FlwCosmosPink",
-  "hex": "s1VfJ7U0KGs",
-  "image": "FtrIcon/FlwCosmosPink.png"
- },
- {
-  "itemName": "Pink Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthPink",
-  "hex": "JMlHwjmnhik",
-  "image": "FtrIcon/FlwHyacinthPink.png"
- },
- {
-  "itemName": "Pink Lilies x10 (wear)",
-  "internalName": "FlwYuriPink",
-  "hex": "NFVCWyz523s",
-  "image": "FtrIcon/FlwYuriPink.png"
- },
- {
-  "itemName": "Pink Mums x10 (wear)",
-  "internalName": "FlwMumPink",
-  "hex": "e7Jm7ufBXLg",
-  "image": "FtrIcon/FlwMumPink.png"
- },
- {
-  "itemName": "Pink Roses x10 (wear)",
-  "internalName": "FlwRosePink",
-  "hex": "G779AQ99RYw",
-  "image": "FtrIcon/FlwRosePink.png"
- },
- {
-  "itemName": "Pink Tulips x10 (wear)",
-  "internalName": "FlwTulipPink",
-  "hex": "CszTodqR5oM",
-  "image": "FtrIcon/FlwTulipPink.png"
- },
- {
-  "itemName": "Pink Windflowers x10 (wear)",
-  "internalName": "FlwAnemonesPink",
-  "hex": "AneOlCQz8jE",
-  "image": "FtrIcon/FlwAnemonesPink.png"
- },
- {
-  "itemName": "Purple Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthPurple",
-  "hex": "wSumX7VLRG8",
-  "image": "FtrIcon/FlwHyacinthPurple.png"
- },
- {
-  "itemName": "Purple Mums x10 (wear)",
-  "internalName": "FlwMumPurple",
-  "hex": "bvb8YOKBjAQ",
-  "image": "FtrIcon/FlwMumPurple.png"
- },
- {
-  "itemName": "Purple Pansies x10 (wear)",
-  "internalName": "FlwPansyPurple",
-  "hex": "eYeAntPA1e4",
-  "image": "FtrIcon/FlwPansyPurple.png"
- },
- {
-  "itemName": "Purple Roses x10 (wear)",
-  "internalName": "FlwRosePurple",
-  "hex": "0tTowG8j3jE",
-  "image": "FtrIcon/FlwRosePurple.png"
- },
- {
-  "itemName": "Purple Tulips x10 (wear)",
-  "internalName": "FlwTulipPurple",
-  "hex": "6zCXUoH8eLA",
-  "image": "FtrIcon/FlwTulipPurple.png"
- },
- {
-  "itemName": "Purple Windflowers x10 (wear)",
-  "internalName": "FlwAnemonesPurple",
-  "hex": "UiwI1yRe1Fo",
-  "image": "FtrIcon/FlwAnemonesPurple.png"
- },
- {
-  "itemName": "Red Cosmos x10 (wear)",
-  "internalName": "FlwCosmosRed",
-  "hex": "2ntrBPvSYvM",
-  "image": "FtrIcon/FlwCosmosRed.png"
- },
- {
-  "itemName": "Red Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthRed",
-  "hex": "W4C5nKJPYNA",
-  "image": "FtrIcon/FlwHyacinthRed.png"
- },
- {
-  "itemName": "Red Lilies x10 (wear)",
-  "internalName": "FlwYuriRed",
-  "hex": "syVD3SsV4jc",
-  "image": "FtrIcon/FlwYuriRed.png"
- },
- {
-  "itemName": "Red Mums x10 (wear)",
-  "internalName": "FlwMumRed",
-  "hex": "pHjzYzVyQzA",
-  "image": "FtrIcon/FlwMumRed.png"
- },
- {
-  "itemName": "Red Pansies x10 (wear)",
-  "internalName": "FlwPansyRed",
-  "hex": "Ih8zAqTrZMY",
-  "image": "FtrIcon/FlwPansyRed.png"
- },
- {
-  "itemName": "Red Roses x10 (wear)",
-  "internalName": "FlwRoseRed",
-  "hex": "6KCrtmVHz48",
-  "image": "FtrIcon/FlwRoseRed.png"
- },
- {
-  "itemName": "Red Tulips x10 (wear)",
-  "internalName": "FlwTulipRed",
-  "hex": "7q4OMsL0Zas",
-  "image": "FtrIcon/FlwTulipRed.png"
- },
- {
-  "itemName": "Red Windflowers x10 (wear)",
-  "internalName": "FlwAnemonesRed",
-  "hex": "JOZGRCuqN18",
-  "image": "FtrIcon/FlwAnemonesRed.png"
- },
- {
-  "itemName": "White Cosmos x10 (wear)",
-  "internalName": "FlwCosmosWhite",
-  "hex": "SHpHyNCmYJw",
-  "image": "FtrIcon/FlwCosmosWhite.png"
- },
- {
-  "itemName": "White Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthWhite",
-  "hex": "NSJf7sIIiS0",
-  "image": "FtrIcon/FlwHyacinthWhite.png"
- },
- {
-  "itemName": "White Lilies x10 (wear)",
-  "internalName": "FlwYuriWhite",
-  "hex": "B3d1J9vK8rs",
-  "image": "FtrIcon/FlwYuriWhite.png"
- },
- {
-  "itemName": "White Mums x10 (wear)",
-  "internalName": "FlwMumWhite",
-  "hex": "RKVYtVxMbrU",
-  "image": "FtrIcon/FlwMumWhite.png"
- },
- {
-  "itemName": "White Pansies x10 (wear)",
-  "internalName": "FlwPansyWhite",
-  "hex": "Ed05d9l1EHc",
-  "image": "FtrIcon/FlwPansyWhite.png"
- },
- {
-  "itemName": "White Roses x10 (wear)",
-  "internalName": "FlwRoseWhite",
-  "hex": "OnXQD34Mf3o",
-  "image": "FtrIcon/FlwRoseWhite.png"
- },
- {
-  "itemName": "White Tulips x10 (wear)",
-  "internalName": "FlwTulipWhite",
-  "hex": "dP8LmG3z9y0",
-  "image": "FtrIcon/FlwTulipWhite.png"
- },
- {
-  "itemName": "White Windflowers x10 (wear)",
-  "internalName": "FlwAnemonesWhite",
-  "hex": "0utt9Ftyjzs",
-  "image": "FtrIcon/FlwAnemonesWhite.png"
- },
- {
-  "itemName": "Yellow Cosmos x10 (wear)",
-  "internalName": "FlwCosmosYellow",
-  "hex": "Q0SiBoXDaUM",
-  "image": "FtrIcon/FlwCosmosYellow.png"
- },
- {
-  "itemName": "Yellow Hyacinths x10 (wear)",
-  "internalName": "FlwHyacinthYellow",
-  "hex": "EYZvMdkOKP8",
-  "image": "FtrIcon/FlwHyacinthYellow.png"
- },
- {
-  "itemName": "Yellow Lilies x10 (wear)",
-  "internalName": "FlwYuriYellow",
-  "hex": "5YKWDrbKto8",
-  "image": "FtrIcon/FlwYuriYellow.png"
- },
- {
-  "itemName": "Yellow Mums x10 (wear)",
-  "internalName": "FlwMumYellow",
-  "hex": "1q1BWqrlNsk",
-  "image": "FtrIcon/FlwMumYellow.png"
- },
- {
-  "itemName": "Yellow Pansies x10 (wear)",
-  "internalName": "FlwPansyYellow",
-  "hex": "Zv69YPzxrTU",
-  "image": "FtrIcon/FlwPansyYellow.png"
- },
- {
-  "itemName": "Yellow Roses x10 (wear)",
-  "internalName": "FlwRoseYellow",
-  "hex": "Qa3kYBQqaDA",
-  "image": "FtrIcon/FlwRoseYellow.png"
- },
- {
-  "itemName": "Yellow Tulips x10 (wear)",
-  "internalName": "FlwTulipYellow",
-  "hex": "6JGqbwEaOCU",
-  "image": "FtrIcon/FlwTulipYellow.png"
- },
- {
-  "itemName": "Bell Voucher",
-  "internalName": "BellExchangeTicket",
-  "hex": "fDaFv8MgnCE",
-  "image": "MenuIcon/BellExchangeTicket.png"
- },
- {
-  "itemName": "Fish Bait x10",
-  "internalName": "FishBait",
-  "hex": "840LgAzYyzA",
-  "image": "FtrIcon/FishBait.png"
- },
- {
-  "itemName": "Nook Miles Ticket x10",
-  "internalName": "MilePlaneTicket",
-  "hex": "I9rTnR1r37M",
-  "image": "MenuIcon/PlaneTicket.png"
- },
- {
-  "itemName": "Pearl x30",
-  "hex": "RdmzEr0lHiQ",
-  "image": "MenuIcon/Pearl.png",
-  "internalName": "Pearl"
- },
- {
-  "itemName": "Communicator",
-  "internalName": "PirateQuest",
-  "hex": "qQVyfLuhflo",
-  "image": "MenuIcon/PirateQuest.png"
- },
- {
-  "itemName": "Custom Tree (Specify)",
-  "internalName": "ff-customtree",
-  "hex": "svTnXw9mcxk",
-  "image": "https://acnhcdn.com/latest/MenuIcon/PltMoney.png"
- },
- {
   "itemName": "Japanese Construction Helmet (White)",
   "internalName": "ff-construction",
   "hex": "w4mCreDbgcI",
@@ -101840,114 +101840,13 @@
   "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
  },
  {
-  "itemName": "Star Fragment (Tree)",
-  "internalName": "ff-startree",
-  "hex": "go9nV9TYHxo",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Large Star Fragment (Tree)",
-  "internalName": "ff-lstartree",
-  "hex": "DIawCj4IGHQ",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Leo Fragment (Tree)",
-  "internalName": "ff-leofrag",
-  "hex": "6cXAICMYjZw",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Aries Fragment (Tree)",
-  "internalName": "ff-arifrag",
-  "hex": "uipPIcCIdfQ",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Libra Fragment (Tree)",
-  "internalName": "ff-libfrag",
-  "hex": "RPP9oGcazuw",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Virgo Fragment (Tree)",
-  "internalName": "ff-virfrag",
-  "hex": "fc2juVHBGF8",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Cancer Fragment (Tree)",
-  "internalName": "ff-canfrag",
-  "hex": "M8ukGmUvu9o",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Gemini Fragment (Tree)",
-  "internalName": "ff-gemfrag",
-  "hex": "FtTKHq63Ff8",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Pisces Fragment (Tree)",
-  "internalName": "ff-pisfrag",
-  "hex": "L8iNNSAA5io",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Taurus Fragment (Tree)",
-  "internalName": "ff-taufrag",
-  "hex": "DVC2VOZRVbM",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Aquarius Fragment (Tree)",
-  "internalName": "ff-aqufrag",
-  "hex": "XVRdSHxzquc",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Scorpius Fragment (Tree)",
-  "internalName": "ff-scofrag",
-  "hex": "PDeE0dHWn0k",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Capricorn Fragment (Tree)",
-  "internalName": "ff-capfrag",
-  "hex": "3fJ4t3t8SF8",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Sagittarius Fragment (Tree)",
-  "internalName": "ff-sagfrag",
-  "hex": "6gkWx6Mky5o",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Birthday Cupcake (Tree)",
-  "internalName": "ff-birtree",
-  "hex": "biHEThZvxjs",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Heart Crystal (Tree)",
-  "internalName": "ff-hearttree",
-  "hex": "6xvZN43kCGo",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Music Note (Tree)",
-  "internalName": "ff-notetree",
-  "hex": "LRHBDyT5JbA",
-  "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
   "itemName": "Blanca",
   "hex": "715Jd2XjmEI",
   "image": "a.png"
  },
  {
   "itemName": "Blathers",
+  "internalName": "owl",
   "hex": "k2CCIfpM41M",
   "image": "NpcIcon/owl.png"
  },
@@ -101968,6 +101867,7 @@
  },
  {
   "itemName": "Celeste",
+  "internalName": "ows",
   "hex": "TwLtLt7BfJc",
   "image": "NpcIcon/ows.png"
  },
@@ -101983,6 +101883,7 @@
  },
  {
   "itemName": "Cyrus",
+  "internalName": "alp",
   "hex": "tU8Rz0tIzts",
   "image": "NpcIcon/alp.png"
  },
@@ -102033,6 +101934,7 @@
  },
  {
   "itemName": "Gulliver",
+  "internalName": "gul",
   "hex": "elGWG6loTxE",
   "image": "NpcIcon/gul.png"
  },
@@ -102043,11 +101945,13 @@
  },
  {
   "itemName": "Harvey",
+  "internalName": "spn",
   "hex": "ER6AvBmZfXM",
   "image": "NpcIcon/spn.png"
  },
  {
   "itemName": "Isabelle",
+  "internalName": "sza",
   "hex": "oLGjIGaL5t4",
   "image": "NpcIcon/sza.png"
  },
@@ -102068,6 +101972,7 @@
  },
  {
   "itemName": "K.K.",
+  "internalName": "tkkA",
   "hex": "hxxrJdqVMUw",
   "image": "NpcIcon/tkkA.png"
  },
@@ -102088,16 +101993,19 @@
  },
  {
   "itemName": "Kicks",
+  "internalName": "skk",
   "hex": "ligNaqhgeRU",
   "image": "NpcIcon/skk.png"
  },
  {
   "itemName": "Label",
+  "internalName": "hgc",
   "hex": "nvCEzV2eTSk",
   "image": "NpcIcon/hgc.png"
  },
  {
   "itemName": "Leif",
+  "internalName": "slo",
   "hex": "e6R3HpyDeYY",
   "image": "NpcIcon/slo.png"
  },
@@ -102118,6 +102026,7 @@
  },
  {
   "itemName": "Luna",
+  "internalName": "tap",
   "hex": "RRkTyaFq3DI",
   "image": "NpcIcon/tap.png"
  },
@@ -102128,6 +102037,7 @@
  },
  {
   "itemName": "Mabel",
+  "internalName": "hgh",
   "hex": "Q5W7fDHOqiM",
   "image": "NpcIcon/hgh.png"
  },
@@ -102143,6 +102053,7 @@
  },
  {
   "itemName": "Pascal",
+  "internalName": "seo",
   "hex": "RORmnL9mSxY",
   "image": "NpcIcon/seo.png"
  },
@@ -102178,11 +102089,13 @@
  },
  {
   "itemName": "Redd",
+  "internalName": "fox",
   "hex": "qadtSma03zY",
   "image": "NpcIcon/fox.png"
  },
  {
   "itemName": "Reese",
+  "internalName": "alw",
   "hex": "xT0YtozjhcI",
   "image": "NpcIcon/alw.png"
  },
@@ -102193,16 +102106,19 @@
  },
  {
   "itemName": "Rover",
+  "internalName": "xct",
   "hex": "SfRFysD3Ya4",
   "image": "NpcIcon/xct.png"
  },
  {
   "itemName": "Sable",
+  "internalName": "hgs",
   "hex": "O96uCAIQ3JA",
   "image": "NpcIcon/hgs.png"
  },
  {
   "itemName": "Saharah",
+  "internalName": "cml",
   "hex": "nu0KRMyibrw",
   "image": "NpcIcon/cml.png"
  },
@@ -102213,16 +102129,19 @@
  },
  {
   "itemName": "Timmy",
+  "internalName": "rcm",
   "hex": "SsVcmn0nimM",
   "image": "NpcIcon/rcm.png"
  },
  {
   "itemName": "Tom Nook",
+  "internalName": "rco",
   "hex": "5uOAxMZlA2Q",
   "image": "NpcIcon/rco.png"
  },
  {
   "itemName": "Tommy",
+  "internalName": "rct",
   "hex": "qWaoZeO490w",
   "image": "NpcIcon/rct.png"
  },
@@ -102238,6 +102157,7 @@
  },
  {
   "itemName": "Wilbur",
+  "internalName": "doc",
   "hex": "xTUTG9okUN4",
   "image": "NpcIcon/doc.png"
  },
@@ -102253,6 +102173,7 @@
  },
  {
   "itemName": "Zipper",
+  "internalName": "pyn",
   "hex": "xd5GLPj4evM",
   "image": "NpcIcon/pyn.png"
  },
@@ -106307,6 +106228,13 @@
   "diy": true,
   "itemName": "Gold Helmet",
   "internalName": "goldhelmet",
+  "image": "diy.png"
+ },
+ {
+  "hex": "PY7FoGzRXcQ",
+  "diy": true,
+  "itemName": "King Tut Mask",
+  "internalName": "KingTutmask",
   "image": "diy.png"
  },
  {
