@@ -17971,6 +17971,258 @@
   "image": "FtrIcon/FtrSpinning.png"
  },
  {
+  "itemName": "Spooky Arch",
+  "color": "Orange",
+  "internalName": "FtrHwnArch_Remake_0_0",
+  "hex": "dwal6KvjnSY",
+  "image": "FtrIcon/FtrHwnArch_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Arch",
+  "color": "Yellow",
+  "internalName": "FtrHwnArch_Remake_1_0",
+  "hex": "dwal6KvinSY",
+  "image": "FtrIcon/FtrHwnArch_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Arch",
+  "color": "Green",
+  "internalName": "FtrHwnArch_Remake_2_0",
+  "hex": "dwal6KvhnSY",
+  "image": "FtrIcon/FtrHwnArch_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Arch",
+  "color": "Monochrome",
+  "internalName": "FtrHwnArch_Remake_3_0",
+  "hex": "dwal6KvgnSY",
+  "image": "FtrIcon/FtrHwnArch_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Carriage",
+  "color": "Orange",
+  "internalName": "FtrHwnCarriage_Remake_0_0",
+  "hex": "eHfvzw5eYfo",
+  "image": "FtrIcon/FtrHwnCarriage_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Carriage",
+  "color": "Yellow",
+  "internalName": "FtrHwnCarriage_Remake_1_0",
+  "hex": "eHfvzw5fYfo",
+  "image": "FtrIcon/FtrHwnCarriage_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Carriage",
+  "color": "Green",
+  "internalName": "FtrHwnCarriage_Remake_2_0",
+  "hex": "eHfvzw5cYfo",
+  "image": "FtrIcon/FtrHwnCarriage_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Carriage",
+  "color": "Monochrome",
+  "internalName": "FtrHwnCarriage_Remake_3_0",
+  "hex": "eHfvzw5dYfo",
+  "image": "FtrIcon/FtrHwnCarriage_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Chair",
+  "color": "Orange",
+  "internalName": "FtrHwnChairS_Remake_0_0",
+  "hex": "0c6Tqn2W6IA",
+  "image": "FtrIcon/FtrHwnChairS_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Chair",
+  "color": "Yellow",
+  "internalName": "FtrHwnChairS_Remake_1_0",
+  "hex": "0c6Tqn2X6IA",
+  "image": "FtrIcon/FtrHwnChairS_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Chair",
+  "color": "Green",
+  "internalName": "FtrHwnChairS_Remake_2_0",
+  "hex": "0c6Tqn2U6IA",
+  "image": "FtrIcon/FtrHwnChairS_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Chair",
+  "color": "Monochrome",
+  "internalName": "FtrHwnChairS_Remake_3_0",
+  "hex": "0c6Tqn2V6IA",
+  "image": "FtrIcon/FtrHwnChairS_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern",
+  "color": "Orange",
+  "internalName": "FtrHwnLantern_Remake_0_0",
+  "hex": "zit8zQZp0DY",
+  "image": "FtrIcon/FtrHwnLantern_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern",
+  "color": "Yellow",
+  "internalName": "FtrHwnLantern_Remake_1_0",
+  "hex": "zit8zQZo0DY",
+  "image": "FtrIcon/FtrHwnLantern_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern",
+  "color": "Green",
+  "internalName": "FtrHwnLantern_Remake_2_0",
+  "hex": "zit8zQZr0DY",
+  "image": "FtrIcon/FtrHwnLantern_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern",
+  "color": "Monochrome",
+  "internalName": "FtrHwnLantern_Remake_3_0",
+  "hex": "zit8zQZq0DY",
+  "image": "FtrIcon/FtrHwnLantern_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern Set",
+  "color": "Orange",
+  "internalName": "FtrHwnLanternset_Remake_0_0",
+  "hex": "kmvhVO8FoPE",
+  "image": "FtrIcon/FtrHwnLanternset_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern Set",
+  "color": "Yellow",
+  "internalName": "FtrHwnLanternset_Remake_1_0",
+  "hex": "kmvhVO8EoPE",
+  "image": "FtrIcon/FtrHwnLanternset_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern Set",
+  "color": "Green",
+  "internalName": "FtrHwnLanternset_Remake_2_0",
+  "hex": "kmvhVO8HoPE",
+  "image": "FtrIcon/FtrHwnLanternset_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Lantern Set",
+  "color": "Monochrome",
+  "internalName": "FtrHwnLanternset_Remake_3_0",
+  "hex": "kmvhVO8GoPE",
+  "image": "FtrIcon/FtrHwnLanternset_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Scarecrow",
+  "color": "Orange",
+  "internalName": "FtrHwnScarecrow_Remake_0_0",
+  "hex": "SzaClqBFQvU",
+  "image": "FtrIcon/FtrHwnScarecrow_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Scarecrow",
+  "color": "Yellow",
+  "internalName": "FtrHwnScarecrow_Remake_1_0",
+  "hex": "SzaClqBEQvU",
+  "image": "FtrIcon/FtrHwnScarecrow_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Scarecrow",
+  "color": "Green",
+  "internalName": "FtrHwnScarecrow_Remake_2_0",
+  "hex": "SzaClqBHQvU",
+  "image": "FtrIcon/FtrHwnScarecrow_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Scarecrow",
+  "color": "Monochrome",
+  "internalName": "FtrHwnScarecrow_Remake_3_0",
+  "hex": "SzaClqBGQvU",
+  "image": "FtrIcon/FtrHwnScarecrow_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Standing Lamp",
+  "color": "Orange",
+  "internalName": "FtrHwnStand_Remake_0_0",
+  "hex": "arICJeRtWe4",
+  "image": "FtrIcon/FtrHwnStand_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Standing Lamp",
+  "color": "Yellow",
+  "internalName": "FtrHwnStand_Remake_1_0",
+  "hex": "arICJeRsWe4",
+  "image": "FtrIcon/FtrHwnStand_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Standing Lamp",
+  "color": "Green",
+  "internalName": "FtrHwnStand_Remake_2_0",
+  "hex": "arICJeRvWe4",
+  "image": "FtrIcon/FtrHwnStand_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Standing Lamp",
+  "color": "Monochrome",
+  "internalName": "FtrHwnStand_Remake_3_0",
+  "hex": "arICJeRuWe4",
+  "image": "FtrIcon/FtrHwnStand_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Table",
+  "color": "Orange",
+  "internalName": "FtrHwnTableL_Remake_0_0",
+  "hex": "S0YHOqnVUPI",
+  "image": "FtrIcon/FtrHwnTableL_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Table",
+  "color": "Yellow",
+  "internalName": "FtrHwnTableL_Remake_1_0",
+  "hex": "S0YHOqnUUPI",
+  "image": "FtrIcon/FtrHwnTableL_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Table",
+  "color": "Green",
+  "internalName": "FtrHwnTableL_Remake_2_0",
+  "hex": "S0YHOqnXUPI",
+  "image": "FtrIcon/FtrHwnTableL_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Table",
+  "color": "Monochrome",
+  "internalName": "FtrHwnTableL_Remake_3_0",
+  "hex": "S0YHOqnWUPI",
+  "image": "FtrIcon/FtrHwnTableL_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Tower",
+  "color": "Orange",
+  "internalName": "FtrHwnTower_Remake_0_0",
+  "hex": "O7RFvppVD9s",
+  "image": "FtrIcon/FtrHwnTower_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Tower",
+  "color": "Yellow",
+  "internalName": "FtrHwnTower_Remake_1_0",
+  "hex": "O7RFvppUD9s",
+  "image": "FtrIcon/FtrHwnTower_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Tower",
+  "color": "Green",
+  "internalName": "FtrHwnTower_Remake_2_0",
+  "hex": "O7RFvppXD9s",
+  "image": "FtrIcon/FtrHwnTower_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Tower",
+  "color": "Monochrome",
+  "internalName": "FtrHwnTower_Remake_3_0",
+  "hex": "O7RFvppWD9s",
+  "image": "FtrIcon/FtrHwnTower_Remake_3_0.png"
+ },
+ {
   "itemName": "Springy Ride On",
   "color": "White",
   "internalName": "FtrSpringrider_Remake_0_0",
@@ -29788,6 +30040,12 @@
   "image": "FtrIcon/FtrRing_Remake_7_0.png"
  },
  {
+  "itemName": "Ring Con",
+  "internalName": "FtrRingcon",
+  "hex": "iEbZnfwOwzY",
+  "image": "FtrIcon/FtrRingcon.png"
+ },
+ {
   "itemName": "Ringtoss",
   "color": "Natural",
   "internalName": "FtrQuoits_Remake_0_0",
@@ -30296,6 +30554,62 @@
   "internalName": "FtrInsectKumoToy",
   "hex": "TzSsk4kF81E",
   "image": "FtrIcon/FtrInsectKumoToy.png"
+ },
+ {
+  "itemName": "Spooky Candy Set",
+  "color": "Orange",
+  "internalName": "FtrHwnSweets_Remake_0_0",
+  "hex": "E6Qb6CIahTs",
+  "image": "FtrIcon/FtrHwnSweets_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Candy Set",
+  "color": "Yellow",
+  "internalName": "FtrHwnSweets_Remake_1_0",
+  "hex": "E6Qb6CIbhTs",
+  "image": "FtrIcon/FtrHwnSweets_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Candy Set",
+  "color": "Green",
+  "internalName": "FtrHwnSweets_Remake_2_0",
+  "hex": "E6Qb6CIYhTs",
+  "image": "FtrIcon/FtrHwnSweets_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Candy Set",
+  "color": "Monochrome",
+  "internalName": "FtrHwnSweets_Remake_3_0",
+  "hex": "E6Qb6CIZhTs",
+  "image": "FtrIcon/FtrHwnSweets_Remake_3_0.png"
+ },
+ {
+  "itemName": "Spooky Table Setting",
+  "color": "Orange",
+  "internalName": "FtrHwnTablesetting_Remake_0_0",
+  "hex": "ytWTrRTxMVQ",
+  "image": "FtrIcon/FtrHwnTablesetting_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Table Setting",
+  "color": "Yellow",
+  "internalName": "FtrHwnTablesetting_Remake_1_0",
+  "hex": "ytWTrRTwMVQ",
+  "image": "FtrIcon/FtrHwnTablesetting_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Table Setting",
+  "color": "Green",
+  "internalName": "FtrHwnTablesetting_Remake_2_0",
+  "hex": "ytWTrRTzMVQ",
+  "image": "FtrIcon/FtrHwnTablesetting_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Table Setting",
+  "color": "Monochrome",
+  "internalName": "FtrHwnTablesetting_Remake_3_0",
+  "hex": "ytWTrRTyMVQ",
+  "image": "FtrIcon/FtrHwnTablesetting_Remake_3_0.png"
  },
  {
   "itemName": "Squid Model",
@@ -33448,6 +33762,12 @@
   "image": "FtrIcon/FtrIronwoodClockW_Remake_4_0.png"
  },
  {
+  "itemName": "Jack's Portrait",
+  "internalName": "FtrHwnPortraitWall",
+  "hex": "yptUTQzgjXQ",
+  "image": "FtrIcon/FtrHwnPortraitWall.png"
+ },
+ {
   "itemName": "Key Holder",
   "color": "Dark wood",
   "internalName": "FtrKeyhanger_Remake_0_0",
@@ -34236,6 +34556,34 @@
   "internalName": "FtrSpiderweb",
   "hex": "51lTrO3UcCY",
   "image": "FtrIcon/FtrSpiderweb.png"
+ },
+ {
+  "itemName": "Spooky Garland",
+  "color": "Orange",
+  "internalName": "FtrHwnDecorationWall_Remake_0_0",
+  "hex": "4W1lOIWpjEA",
+  "image": "FtrIcon/FtrHwnDecorationWall_Remake_0_0.png"
+ },
+ {
+  "itemName": "Spooky Garland",
+  "color": "Yellow",
+  "internalName": "FtrHwnDecorationWall_Remake_1_0",
+  "hex": "4W1lOIWojEA",
+  "image": "FtrIcon/FtrHwnDecorationWall_Remake_1_0.png"
+ },
+ {
+  "itemName": "Spooky Garland",
+  "color": "Green",
+  "internalName": "FtrHwnDecorationWall_Remake_2_0",
+  "hex": "4W1lOIWrjEA",
+  "image": "FtrIcon/FtrHwnDecorationWall_Remake_2_0.png"
+ },
+ {
+  "itemName": "Spooky Garland",
+  "color": "Monochrome",
+  "internalName": "FtrHwnDecorationWall_Remake_3_0",
+  "hex": "4W1lOIWqjEA",
+  "image": "FtrIcon/FtrHwnDecorationWall_Remake_3_0.png"
  },
  {
   "itemName": "Starry Garland",
@@ -36238,6 +36586,12 @@
   "image": "FtrIcon/RoomTexWallMud01.png"
  },
  {
+  "itemName": "Spooky Wall",
+  "internalName": "RoomTexWallHalloween00",
+  "hex": "gLsXwChuiA8",
+  "image": "FtrIcon/RoomTexWallHalloween00.png"
+ },
+ {
   "itemName": "Stacked Wood Wall",
   "internalName": "RoomTexWallFireWood00",
   "hex": "YNZ41kLQdnU",
@@ -37414,6 +37768,12 @@
   "image": "FtrIcon/RoomTexFloorSlate00.png"
  },
  {
+  "itemName": "Spooky Flooring",
+  "internalName": "RoomTexFloorHalloween00",
+  "hex": "YQcwqJKY4os",
+  "image": "FtrIcon/RoomTexFloorHalloween00.png"
+ },
+ {
   "itemName": "Starry Sands Flooring",
   "internalName": "RoomTexFloorSandStar00",
   "hex": "X0pVaWOoWVA",
@@ -38234,6 +38594,12 @@
   "internalName": "RugRoundSnowM00",
   "hex": "Jq1X6eTIThc",
   "image": "FtrIcon/RugRoundSnowM00.png"
+ },
+ {
+  "itemName": "Spooky Rug",
+  "internalName": "RugSquareHalloweenL00",
+  "hex": "gTLx9dwktTg",
+  "image": "FtrIcon/RugSquareHalloweenL00.png"
  },
  {
   "itemName": "Tatami Mat",
@@ -64221,6 +64587,12 @@
   "image": "FtrIcon/ToolSlingshot_Remake_7_0.png"
  },
  {
+  "itemName": "Spooky Wand",
+  "internalName": "ToolStickHalloween",
+  "hex": "LQRgVHsMZ38",
+  "image": "FtrIcon/ToolStickHalloween.png"
+ },
+ {
   "itemName": "Star Net",
   "color": "Yellow",
   "internalName": "ToolNetStar_Remake_0_0",
@@ -64499,6 +64871,12 @@
   "internalName": "ItemFenceSharply",
   "hex": "hXHS5I9ZsPQ",
   "image": "FtrIcon/ItemFenceSharply.png"
+ },
+ {
+  "itemName": "Spooky Fence x50",
+  "internalName": "ItemFenceHalloween",
+  "hex": "YxonLiWm46I",
+  "image": "FtrIcon/ItemFenceHalloween.png"
  },
  {
   "itemName": "Stone Fence x50",
@@ -79535,6 +79913,48 @@
   "image": "FtrIcon/TopsTexOnepieceBoxNFlapper4.png"
  },
  {
+  "itemName": "Flashy Animal Costume",
+  "color": "White",
+  "internalName": "TopsTexOnepieceOverallLHalloween2",
+  "hex": "SARNpa1RY6c",
+  "image": "FtrIcon/TopsTexOnepieceOverallLHalloween2.png"
+ },
+ {
+  "itemName": "Flashy Animal Costume",
+  "color": "Black",
+  "internalName": "TopsTexOnepieceOverallLHalloween5",
+  "hex": "SARNoq1RY6c",
+  "image": "FtrIcon/TopsTexOnepieceOverallLHalloween5.png"
+ },
+ {
+  "itemName": "Flashy Animal Costume",
+  "color": "Red",
+  "internalName": "TopsTexOnepieceOverallLHalloween4",
+  "hex": "SARNo61RY6c",
+  "image": "FtrIcon/TopsTexOnepieceOverallLHalloween4.png"
+ },
+ {
+  "itemName": "Flashy Animal Costume",
+  "color": "Orange",
+  "internalName": "TopsTexOnepieceOverallLHalloween0",
+  "hex": "SAnb8q1RY6c",
+  "image": "FtrIcon/TopsTexOnepieceOverallLHalloween0.png"
+ },
+ {
+  "itemName": "Flashy Animal Costume",
+  "color": "Green",
+  "internalName": "TopsTexOnepieceOverallLHalloween3",
+  "hex": "SARNpK1RY6c",
+  "image": "FtrIcon/TopsTexOnepieceOverallLHalloween3.png"
+ },
+ {
+  "itemName": "Flashy Animal Costume",
+  "color": "Purple",
+  "internalName": "TopsTexOnepieceOverallLHalloween1",
+  "hex": "SARNpq1RY6c",
+  "image": "FtrIcon/TopsTexOnepieceOverallLHalloween1.png"
+ },
+ {
   "itemName": "Flashy Kimono",
   "color": "White",
   "internalName": "TopsTexOnepieceKimonoLGaudy4",
@@ -80163,6 +80583,12 @@
   "image": "FtrIcon/TopsTexOnepieceOverallLPlatearmorIron.png"
  },
  {
+  "itemName": "Jack's Robe",
+  "internalName": "TopsTexOnepieceAlongLHalloween0",
+  "hex": "o8BzIZMC2YE",
+  "image": "FtrIcon/TopsTexOnepieceAlongLHalloween0.png"
+ },
+ {
   "itemName": "Jester Costume",
   "color": "Black & white",
   "internalName": "TopsTexOnepieceOverallLClown1",
@@ -80719,6 +81145,48 @@
   "image": "FtrIcon/TopsTexOnepieceBoxLAutumncheck3.png"
  },
  {
+  "itemName": "Mage's Dress",
+  "color": "White",
+  "internalName": "TopsTexOnepieceBalloonLHalloween2",
+  "hex": "6Zikq5W6jyE",
+  "image": "FtrIcon/TopsTexOnepieceBalloonLHalloween2.png"
+ },
+ {
+  "itemName": "Mage's Dress",
+  "color": "Black",
+  "internalName": "TopsTexOnepieceBalloonLHalloween5",
+  "hex": "6ZikzZW6jyE",
+  "image": "FtrIcon/TopsTexOnepieceBalloonLHalloween5.png"
+ },
+ {
+  "itemName": "Mage's Dress",
+  "color": "Red",
+  "internalName": "TopsTexOnepieceBalloonLHalloween4",
+  "hex": "6ZikpZW6jyE",
+  "image": "FtrIcon/TopsTexOnepieceBalloonLHalloween4.png"
+ },
+ {
+  "itemName": "Mage's Dress",
+  "color": "Orange",
+  "internalName": "TopsTexOnepieceBalloonLHalloween0",
+  "hex": "6Z7yRJW6jyE",
+  "image": "FtrIcon/TopsTexOnepieceBalloonLHalloween0.png"
+ },
+ {
+  "itemName": "Mage's Dress",
+  "color": "Green",
+  "internalName": "TopsTexOnepieceBalloonLHalloween3",
+  "hex": "6ZikpJW6jyE",
+  "image": "FtrIcon/TopsTexOnepieceBalloonLHalloween3.png"
+ },
+ {
+  "itemName": "Mage's Dress",
+  "color": "Purple",
+  "internalName": "TopsTexOnepieceBalloonLHalloween1",
+  "hex": "6ZikqpW6jyE",
+  "image": "FtrIcon/TopsTexOnepieceBalloonLHalloween1.png"
+ },
+ {
   "itemName": "Mage's Robe",
   "color": "Black",
   "internalName": "TopsTexOnepieceAlongLWitch0",
@@ -80745,6 +81213,48 @@
   "internalName": "TopsTexOnepieceAlongLWitch1",
   "hex": "PM3Hdru2uzU",
   "image": "FtrIcon/TopsTexOnepieceAlongLWitch1.png"
+ },
+ {
+  "itemName": "Magic Academy Robe",
+  "color": "White",
+  "internalName": "TopsTexOnepieceRobeLHalloween2",
+  "hex": "S8PyyhxkRSM",
+  "image": "FtrIcon/TopsTexOnepieceRobeLHalloween2.png"
+ },
+ {
+  "itemName": "Magic Academy Robe",
+  "color": "Black",
+  "internalName": "TopsTexOnepieceRobeLHalloween5",
+  "hex": "S8PyyRxkRSM",
+  "image": "FtrIcon/TopsTexOnepieceRobeLHalloween5.png"
+ },
+ {
+  "itemName": "Magic Academy Robe",
+  "color": "Red",
+  "internalName": "TopsTexOnepieceRobeLHalloween4",
+  "hex": "S8PyyBxkRSM",
+  "image": "FtrIcon/TopsTexOnepieceRobeLHalloween4.png"
+ },
+ {
+  "itemName": "Magic Academy Robe",
+  "color": "Orange",
+  "internalName": "TopsTexOnepieceRobeLHalloween0",
+  "hex": "S8OknBxkRSM",
+  "image": "FtrIcon/TopsTexOnepieceRobeLHalloween0.png"
+ },
+ {
+  "itemName": "Magic Academy Robe",
+  "color": "Green",
+  "internalName": "TopsTexOnepieceRobeLHalloween3",
+  "hex": "S8PyyxxkRSM",
+  "image": "FtrIcon/TopsTexOnepieceRobeLHalloween3.png"
+ },
+ {
+  "itemName": "Magic Academy Robe",
+  "color": "Purple",
+  "internalName": "TopsTexOnepieceRobeLHalloween1",
+  "hex": "S8PyzRxkRSM",
+  "image": "FtrIcon/TopsTexOnepieceRobeLHalloween1.png"
  },
  {
   "itemName": "Magical Dress",
@@ -82065,6 +82575,48 @@
   "internalName": "TopsTexOnepieceBoxLBubbly2",
   "hex": "Fsv6VRJ0DZk",
   "image": "FtrIcon/TopsTexOnepieceBoxLBubbly2.png"
+ },
+ {
+  "itemName": "Raggedy Outfit",
+  "color": "White",
+  "internalName": "TopsTexOnepieceSalopetteLHalloween2",
+  "hex": "IMiGz0idxWk",
+  "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween2.png"
+ },
+ {
+  "itemName": "Raggedy Outfit",
+  "color": "Black",
+  "internalName": "TopsTexOnepieceSalopetteLHalloween5",
+  "hex": "IMiHq0idxWk",
+  "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween5.png"
+ },
+ {
+  "itemName": "Raggedy Outfit",
+  "color": "Red",
+  "internalName": "TopsTexOnepieceSalopetteLHalloween4",
+  "hex": "IMiGzUidxWk",
+  "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween4.png"
+ },
+ {
+  "itemName": "Raggedy Outfit",
+  "color": "Orange",
+  "internalName": "TopsTexOnepieceSalopetteLHalloween0",
+  "hex": "IM7QREidxWk",
+  "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween0.png"
+ },
+ {
+  "itemName": "Raggedy Outfit",
+  "color": "Green",
+  "internalName": "TopsTexOnepieceSalopetteLHalloween3",
+  "hex": "IMiGzkidxWk",
+  "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween3.png"
+ },
+ {
+  "itemName": "Raggedy Outfit",
+  "color": "Purple",
+  "internalName": "TopsTexOnepieceSalopetteLHalloween1",
+  "hex": "IMiGREidxWk",
+  "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween1.png"
  },
  {
   "itemName": "Renaissance Dress",
@@ -85235,6 +85787,90 @@
   "image": "FtrIcon/CapOrnamentLGaudy3.png"
  },
  {
+  "itemName": "Flashy Pointy Ear Animal Hat",
+  "color": "White",
+  "internalName": "CapHatHalloweentriangle2",
+  "hex": "EIyWL8pjzac",
+  "image": "FtrIcon/CapHatHalloweentriangle2.png"
+ },
+ {
+  "itemName": "Flashy Pointy Ear Animal Hat",
+  "color": "Black",
+  "internalName": "CapHatHalloweentriangle5",
+  "hex": "EIyWKMpjzac",
+  "image": "FtrIcon/CapHatHalloweentriangle5.png"
+ },
+ {
+  "itemName": "Flashy Pointy Ear Animal Hat",
+  "color": "Red",
+  "internalName": "CapHatHalloweentriangle4",
+  "hex": "EIyWKcpjzac",
+  "image": "FtrIcon/CapHatHalloweentriangle4.png"
+ },
+ {
+  "itemName": "Flashy Pointy Ear Animal Hat",
+  "color": "Orange",
+  "internalName": "CapHatHalloweentriangle0",
+  "hex": "EIrEK8pjzac",
+  "image": "FtrIcon/CapHatHalloweentriangle0.png"
+ },
+ {
+  "itemName": "Flashy Pointy Ear Animal Hat",
+  "color": "Green",
+  "internalName": "CapHatHalloweentriangle3",
+  "hex": "EIyWLspjzac",
+  "image": "FtrIcon/CapHatHalloweentriangle3.png"
+ },
+ {
+  "itemName": "Flashy Pointy Ear Animal Hat",
+  "color": "Purple",
+  "internalName": "CapHatHalloweentriangle1",
+  "hex": "EIyWLMpjzac",
+  "image": "FtrIcon/CapHatHalloweentriangle1.png"
+ },
+ {
+  "itemName": "Flashy Round Ear Animal Hat",
+  "color": "White",
+  "internalName": "CapHatHalloweenround2",
+  "hex": "U8enUyM1rRA",
+  "image": "FtrIcon/CapHatHalloweenround2.png"
+ },
+ {
+  "itemName": "Flashy Round Ear Animal Hat",
+  "color": "Black",
+  "internalName": "CapHatHalloweenround5",
+  "hex": "U8enUCM1rRA",
+  "image": "FtrIcon/CapHatHalloweenround5.png"
+ },
+ {
+  "itemName": "Flashy Round Ear Animal Hat",
+  "color": "Red",
+  "internalName": "CapHatHalloweenround4",
+  "hex": "U8enUSM1rRA",
+  "image": "FtrIcon/CapHatHalloweenround4.png"
+ },
+ {
+  "itemName": "Flashy Round Ear Animal Hat",
+  "color": "Orange",
+  "internalName": "CapHatHalloweenround0",
+  "hex": "U8H1UyM1rRA",
+  "image": "FtrIcon/CapHatHalloweenround0.png"
+ },
+ {
+  "itemName": "Flashy Round Ear Animal Hat",
+  "color": "Green",
+  "internalName": "CapHatHalloweenround3",
+  "hex": "U8enUiM1rRA",
+  "image": "FtrIcon/CapHatHalloweenround3.png"
+ },
+ {
+  "itemName": "Flashy Round Ear Animal Hat",
+  "color": "Purple",
+  "internalName": "CapHatHalloweenround1",
+  "hex": "U8emBSM1rRA",
+  "image": "FtrIcon/CapHatHalloweenround1.png"
+ },
+ {
   "itemName": "Floral Hairpin",
   "color": "Pink",
   "internalName": "CapOrnamentLFlowerhairpin0",
@@ -85796,6 +86432,54 @@
   "image": "FtrIcon/CapCostumeDevil1.png"
  },
  {
+  "itemName": "Impish Horns",
+  "color": "White",
+  "internalName": "CapOrnamentFHalloween2",
+  "hex": "XgOPn4HkvcM",
+  "image": "FtrIcon/CapOrnamentFHalloween2.png"
+ },
+ {
+  "itemName": "Impish Horns",
+  "color": "Black",
+  "internalName": "CapOrnamentFHalloween5",
+  "hex": "XgOPmIHkvcM",
+  "image": "FtrIcon/CapOrnamentFHalloween5.png"
+ },
+ {
+  "itemName": "Impish Horns",
+  "color": "Red",
+  "internalName": "CapOrnamentFHalloween4",
+  "hex": "XgOPmYHkvcM",
+  "image": "FtrIcon/CapOrnamentFHalloween4.png"
+ },
+ {
+  "itemName": "Impish Horns",
+  "color": "Orange",
+  "internalName": "CapOrnamentFHalloween0",
+  "hex": "XgXeyIHkvcM",
+  "image": "FtrIcon/CapOrnamentFHalloween0.png"
+ },
+ {
+  "itemName": "Impish Horns",
+  "color": "Green",
+  "internalName": "CapOrnamentFHalloween3",
+  "hex": "XgOPnoHkvcM",
+  "image": "FtrIcon/CapOrnamentFHalloween3.png"
+ },
+ {
+  "itemName": "Impish Horns",
+  "color": "Purple",
+  "internalName": "CapOrnamentFHalloween1",
+  "hex": "XgOPnIHkvcM",
+  "image": "FtrIcon/CapOrnamentFHalloween1.png"
+ },
+ {
+  "itemName": "Jack's Face",
+  "internalName": "CapFullfaceHalloween0",
+  "hex": "vsE9jhe1ebU",
+  "image": "FtrIcon/CapFullfaceHalloween0.png"
+ },
+ {
   "itemName": "Jester's Cap",
   "color": "Black & white",
   "internalName": "CapHatClown1",
@@ -86193,6 +86877,90 @@
   "internalName": "CapHatWitch1",
   "hex": "vctExoK8WsA",
   "image": "FtrIcon/CapHatWitch1.png"
+ },
+ {
+  "itemName": "Mage's Striped Hat",
+  "color": "White",
+  "internalName": "CapHatHalloween2",
+  "hex": "BXS3TdZ12FY",
+  "image": "FtrIcon/CapHatHalloween2.png"
+ },
+ {
+  "itemName": "Mage's Striped Hat",
+  "color": "Black",
+  "internalName": "CapHatHalloween5",
+  "hex": "BXS3SNZ12FY",
+  "image": "FtrIcon/CapHatHalloween5.png"
+ },
+ {
+  "itemName": "Mage's Striped Hat",
+  "color": "Red",
+  "internalName": "CapHatHalloween4",
+  "hex": "BXS3S9Z12FY",
+  "image": "FtrIcon/CapHatHalloween4.png"
+ },
+ {
+  "itemName": "Mage's Striped Hat",
+  "color": "Orange",
+  "internalName": "CapHatHalloween0",
+  "hex": "BXLmGtZ12FY",
+  "image": "FtrIcon/CapHatHalloween0.png"
+ },
+ {
+  "itemName": "Mage's Striped Hat",
+  "color": "Green",
+  "internalName": "CapHatHalloween3",
+  "hex": "BXS3StZ12FY",
+  "image": "FtrIcon/CapHatHalloween3.png"
+ },
+ {
+  "itemName": "Mage's Striped Hat",
+  "color": "Purple",
+  "internalName": "CapHatHalloween1",
+  "hex": "BXS3TNZ12FY",
+  "image": "FtrIcon/CapHatHalloween1.png"
+ },
+ {
+  "itemName": "Magic Academy Hood",
+  "color": "White",
+  "internalName": "CapFullfaceHalloweenhood2",
+  "hex": "MP7a2pS9wEo",
+  "image": "FtrIcon/CapFullfaceHalloweenhood2.png"
+ },
+ {
+  "itemName": "Magic Academy Hood",
+  "color": "Black",
+  "internalName": "CapFullfaceHalloweenhood5",
+  "hex": "MP7ajJS9wEo",
+  "image": "FtrIcon/CapFullfaceHalloweenhood5.png"
+ },
+ {
+  "itemName": "Magic Academy Hood",
+  "color": "Red",
+  "internalName": "CapFullfaceHalloweenhood4",
+  "hex": "MP7a1JS9wEo",
+  "image": "FtrIcon/CapFullfaceHalloweenhood4.png"
+ },
+ {
+  "itemName": "Magic Academy Hood",
+  "color": "Orange",
+  "internalName": "CapFullfaceHalloweenhood0",
+  "hex": "MPiMj5S9wEo",
+  "image": "FtrIcon/CapFullfaceHalloweenhood0.png"
+ },
+ {
+  "itemName": "Magic Academy Hood",
+  "color": "Green",
+  "internalName": "CapFullfaceHalloweenhood3",
+  "hex": "MP7a1ZS9wEo",
+  "image": "FtrIcon/CapFullfaceHalloweenhood3.png"
+ },
+ {
+  "itemName": "Magic Academy Hood",
+  "color": "Purple",
+  "internalName": "CapFullfaceHalloweenhood1",
+  "hex": "MP7a25S9wEo",
+  "image": "FtrIcon/CapFullfaceHalloweenhood1.png"
  },
  {
   "itemName": "Matanpushi",
@@ -88732,6 +89500,12 @@
   "image": "FtrIcon/AccessoryGlassThreed1.png"
  },
  {
+  "itemName": "Animal Nose",
+  "internalName": "AccessoryMouthHalloween0",
+  "hex": "fcwksTjDkQ0",
+  "image": "FtrIcon/AccessoryMouthHalloween0.png"
+ },
+ {
   "itemName": "Bandage",
   "internalName": "AccessoryMouthBandageSkin",
   "hex": "31NvfwARwZA",
@@ -91165,6 +91939,48 @@
   "image": "FtrIcon/SocksTexHoletights4.png"
  },
  {
+  "itemName": "Horizontal Striped Tights",
+  "color": "White",
+  "internalName": "SocksTexHalloween2",
+  "hex": "NlTpAmuT5mo",
+  "image": "FtrIcon/SocksTexHalloween2.png"
+ },
+ {
+  "itemName": "Horizontal Striped Tights",
+  "color": "Black",
+  "internalName": "SocksTexHalloween5",
+  "hex": "NlTuVmuT5mo",
+  "image": "FtrIcon/SocksTexHalloween5.png"
+ },
+ {
+  "itemName": "Horizontal Striped Tights",
+  "color": "Red",
+  "internalName": "SocksTexHalloween4",
+  "hex": "NlTpAGuT5mo",
+  "image": "FtrIcon/SocksTexHalloween4.png"
+ },
+ {
+  "itemName": "Horizontal Striped Tights",
+  "color": "Orange",
+  "internalName": "SocksTexHalloween0",
+  "hex": "NlKzU2uT5mo",
+  "image": "FtrIcon/SocksTexHalloween0.png"
+ },
+ {
+  "itemName": "Horizontal Striped Tights",
+  "color": "Green",
+  "internalName": "SocksTexHalloween3",
+  "hex": "NlTpA2uT5mo",
+  "image": "FtrIcon/SocksTexHalloween3.png"
+ },
+ {
+  "itemName": "Horizontal Striped Tights",
+  "color": "Purple",
+  "internalName": "SocksTexHalloween1",
+  "hex": "NlTpBWuT5mo",
+  "image": "FtrIcon/SocksTexHalloween1.png"
+ },
+ {
   "itemName": "Kiddie Socks",
   "color": "Black & gray",
   "internalName": "SocksTexKids7",
@@ -93401,6 +94217,48 @@
   "image": "FtrIcon/ShoesLowcutSuede2.png"
  },
  {
+  "itemName": "Flashy Animal Boots",
+  "color": "White",
+  "internalName": "ShoesLowcutHalloween2",
+  "hex": "G19qnYw8qzY",
+  "image": "FtrIcon/ShoesLowcutHalloween2.png"
+ },
+ {
+  "itemName": "Flashy Animal Boots",
+  "color": "Black",
+  "internalName": "ShoesLowcutHalloween5",
+  "hex": "G19qkow8qzY",
+  "image": "FtrIcon/ShoesLowcutHalloween5.png"
+ },
+ {
+  "itemName": "Flashy Animal Boots",
+  "color": "Red",
+  "internalName": "ShoesLowcutHalloween4",
+  "hex": "G19qk4w8qzY",
+  "image": "FtrIcon/ShoesLowcutHalloween4.png"
+ },
+ {
+  "itemName": "Flashy Animal Boots",
+  "color": "Orange",
+  "internalName": "ShoesLowcutHalloween0",
+  "hex": "G1k4k4w8qzY",
+  "image": "FtrIcon/ShoesLowcutHalloween0.png"
+ },
+ {
+  "itemName": "Flashy Animal Boots",
+  "color": "Green",
+  "internalName": "ShoesLowcutHalloween3",
+  "hex": "G19qnIw8qzY",
+  "image": "FtrIcon/ShoesLowcutHalloween3.png"
+ },
+ {
+  "itemName": "Flashy Animal Boots",
+  "color": "Purple",
+  "internalName": "ShoesLowcutHalloween1",
+  "hex": "G19qnow8qzY",
+  "image": "FtrIcon/ShoesLowcutHalloween1.png"
+ },
+ {
   "itemName": "Flip Flops",
   "color": "White",
   "internalName": "ShoesSandalBeachborder3",
@@ -94068,6 +94926,48 @@
   "internalName": "ShoesKneeWitch1",
   "hex": "dqQM3SErW8w",
   "image": "FtrIcon/ShoesKneeWitch1.png"
+ },
+ {
+  "itemName": "Mage's Boots",
+  "color": "White",
+  "internalName": "ShoesHighcutHalloween2",
+  "hex": "Jjmxmo5RYyU",
+  "image": "FtrIcon/ShoesHighcutHalloween2.png"
+ },
+ {
+  "itemName": "Mage's Boots",
+  "color": "Black",
+  "internalName": "ShoesHighcutHalloween5",
+  "hex": "Jjmxl45RYyU",
+  "image": "FtrIcon/ShoesHighcutHalloween5.png"
+ },
+ {
+  "itemName": "Mage's Boots",
+  "color": "Red",
+  "internalName": "ShoesHighcutHalloween4",
+  "hex": "JjmxmI5RYyU",
+  "image": "FtrIcon/ShoesHighcutHalloween4.png"
+ },
+ {
+  "itemName": "Mage's Boots",
+  "color": "Orange",
+  "internalName": "ShoesHighcutHalloween0",
+  "hex": "Jjzilo5RYyU",
+  "image": "FtrIcon/ShoesHighcutHalloween0.png"
+ },
+ {
+  "itemName": "Mage's Boots",
+  "color": "Green",
+  "internalName": "ShoesHighcutHalloween3",
+  "hex": "JjmxmY5RYyU",
+  "image": "FtrIcon/ShoesHighcutHalloween3.png"
+ },
+ {
+  "itemName": "Mage's Boots",
+  "color": "Purple",
+  "internalName": "ShoesHighcutHalloween1",
+  "hex": "Jjmxm45RYyU",
+  "image": "FtrIcon/ShoesHighcutHalloween1.png"
  },
  {
   "itemName": "Mary Janes",
@@ -96181,6 +97081,48 @@
   "internalName": "BagBackpackHardshell0",
   "hex": "oq4nXXdeEV0",
   "image": "FtrIcon/BagBackpackHardshell0.png"
+ },
+ {
+  "itemName": "Impish Wings",
+  "color": "White",
+  "internalName": "BagBackpackHalloween2",
+  "hex": "cKrUbzR39Jg",
+  "image": "FtrIcon/BagBackpackHalloween2.png"
+ },
+ {
+  "itemName": "Impish Wings",
+  "color": "Black",
+  "internalName": "BagBackpackHalloween5",
+  "hex": "cKrUajR39Jg",
+  "image": "FtrIcon/BagBackpackHalloween5.png"
+ },
+ {
+  "itemName": "Impish Wings",
+  "color": "Red",
+  "internalName": "BagBackpackHalloween4",
+  "hex": "cKrUbTR39Jg",
+  "image": "FtrIcon/BagBackpackHalloween4.png"
+ },
+ {
+  "itemName": "Impish Wings",
+  "color": "Orange",
+  "internalName": "BagBackpackHalloween0",
+  "hex": "cKyGaTR39Jg",
+  "image": "FtrIcon/BagBackpackHalloween0.png"
+ },
+ {
+  "itemName": "Impish Wings",
+  "color": "Green",
+  "internalName": "BagBackpackHalloween3",
+  "hex": "cKrUbDR39Jg",
+  "image": "FtrIcon/BagBackpackHalloween3.png"
+ },
+ {
+  "itemName": "Impish Wings",
+  "color": "Purple",
+  "internalName": "BagBackpackHalloween1",
+  "hex": "cKrUbjR39Jg",
+  "image": "FtrIcon/BagBackpackHalloween1.png"
  },
  {
   "itemName": "Knapsack",
@@ -99870,7 +100812,7 @@
   "itemName": "Bell Voucher",
   "internalName": "BellExchangeTicket",
   "hex": "fDaFv8MgnCE",
-  "image": "MenuIcon/BellExchangeTicket.png"
+  "image": "FtrIcon/BellExchangeTicket.png"
  },
  {
   "itemName": "Birthday Cupcake x10",
@@ -99900,7 +100842,7 @@
   "itemName": "Black Tulips x10 (wear)",
   "internalName": "FlwTulipBlack",
   "hex": "ee44neovvjQ",
-  "image": "FtrIcon/FlwTulipBlack.png"
+  "image": "a.png"
  },
  {
   "itemName": "Black Wrapping Paper x10",
@@ -100017,6 +100959,12 @@
   "image": "MenuIcon/PltAnemone5.png"
  },
  {
+  "itemName": "Body Paint Costume Tips",
+  "internalName": "HowtoBookBodyColor",
+  "hex": "JBJ4h5fIfAA",
+  "image": "MenuIcon/HowtoBookHair.png"
+ },
+ {
   "itemName": "Boot",
   "internalName": "TrashBoot",
   "hex": "pytml9XCPzo",
@@ -100051,6 +100999,11 @@
   "internalName": "StarpieceCancer",
   "hex": "ZRxlmgEJB5M",
   "image": "FtrIcon/StarpieceCancer.png"
+ },
+ {
+  "itemName": "Candy",
+  "hex": "fbRsIfxEaIw",
+  "image": "FtrIcon/Candy.png"
  },
  {
   "itemName": "Capricorn Fragment x10",
@@ -100227,6 +101180,12 @@
   "image": "FtrIcon/TrashCan.png"
  },
  {
+  "itemName": "Exploring New Eye Colors",
+  "internalName": "HowtoBookEyeColor",
+  "hex": "k4BqqN0blUM",
+  "image": "MenuIcon/HowtoBookHair.png"
+ },
+ {
   "itemName": "Fish Bait x10",
   "internalName": "FishBait",
   "hex": "840LgAzYyzA",
@@ -100302,6 +101261,12 @@
   "internalName": "FlwMumGreen",
   "hex": "u2jMyTlRDzs",
   "image": "FtrIcon/FlwMumGreen.png"
+ },
+ {
+  "itemName": "Green Pumpkin",
+  "internalName": "SquashGreen",
+  "hex": "zIEBTEivzWo",
+  "image": "FtrIcon/SquashGreen.png"
  },
  {
   "itemName": "Green Wrapping Paper x10",
@@ -100388,6 +101353,30 @@
   "image": "FtrIcon/StarpieceLeo.png"
  },
  {
+  "itemName": "Lg. Green Pumpkin Sprout",
+  "internalName": "PltSquashGreen2",
+  "hex": "4pmKet7O1YU",
+  "image": "MenuIcon/PltSquashGreen.png"
+ },
+ {
+  "itemName": "Lg. Orange Pumpkin Sprout",
+  "internalName": "PltSquashOrange2",
+  "hex": "kgSdJpc1gkY",
+  "image": "MenuIcon/PltSquashOrange.png"
+ },
+ {
+  "itemName": "Lg. White Pumpkin Sprout",
+  "internalName": "PltSquashWhite2",
+  "hex": "qveVHR1RiLs",
+  "image": "MenuIcon/PltSquashWhite.png"
+ },
+ {
+  "itemName": "Lg. Yellow Pumpkin Sprout",
+  "internalName": "PltSquashYellow2",
+  "hex": "6uzm1z7US60",
+  "image": "MenuIcon/PltSquashYellow.png"
+ },
+ {
   "itemName": "Libra Fragment x10",
   "internalName": "StarpieceLibra",
   "hex": "tnl34tAwMzo",
@@ -100404,6 +101393,35 @@
   "internalName": "PltSuzuran2",
   "hex": "t6l7Pt3zpYg",
   "image": "MenuIcon/PltSuzuran.png"
+ },
+ {
+  "itemName": "Lollipop",
+  "hex": "nUbZnRw0HaQ",
+  "image": "FtrIcon/Lollipop.png"
+ },
+ {
+  "itemName": "M. Green Pumpkin Sprout",
+  "internalName": "PltSquashGreen1",
+  "hex": "93eeLnCpoJo",
+  "image": "MenuIcon/PltSquashGreen.png"
+ },
+ {
+  "itemName": "M. Orange Pumpkin Sprout",
+  "internalName": "PltSquashOrange1",
+  "hex": "Yz92X7KGLXs",
+  "image": "MenuIcon/PltSquashOrange.png"
+ },
+ {
+  "itemName": "M. White Pumpkin Sprout",
+  "internalName": "PltSquashWhite1",
+  "hex": "eSadd1OaazY",
+  "image": "MenuIcon/PltSquashWhite.png"
+ },
+ {
+  "itemName": "M. Yellow Pumpkin Sprout",
+  "internalName": "PltSquashYellow1",
+  "hex": "zXEYEcVZTVA",
+  "image": "MenuIcon/PltSquashYellow.png"
  },
  {
   "itemName": "Manila Clam",
@@ -100500,6 +101518,12 @@
   "internalName": "FlwPansyRedYellow",
   "hex": "lewSAYPOcUs",
   "image": "FtrIcon/FlwPansyRedYellow.png"
+ },
+ {
+  "itemName": "Orange Pumpkin",
+  "internalName": "SquashOrange",
+  "hex": "nfZzx05TCio",
+  "image": "FtrIcon/SquashOrange.png"
  },
  {
   "itemName": "Orange Roses x10 (wear)",
@@ -100624,7 +101648,7 @@
  {
   "itemName": "Pearl x30",
   "hex": "RdmzEr0lHiQ",
-  "image": "MenuIcon/Pearl.png",
+  "image": "FtrIcon/Pearl.png",
   "internalName": "Pearl"
  },
  {
@@ -100800,6 +101824,12 @@
   "internalName": "DIYbookNormalTools",
   "hex": "nUNvhRwOFJ4",
   "image": "MenuIcon/BookRecipe.png"
+ },
+ {
+  "itemName": "Pumpkin Start x10",
+  "internalName": "SeedSquash",
+  "hex": "RuF9zb58urA",
+  "image": "FtrIcon/SeedSquash.png"
  },
  {
   "itemName": "Purple Hyacinths x10 (wear)",
@@ -101078,6 +102108,30 @@
   "image": "MenuIcon/PltAnemone1.png"
  },
  {
+  "itemName": "Ripe Green Pumpkin Plant",
+  "internalName": "PltSquashGreen3",
+  "hex": "x8VeirN7WxY",
+  "image": "MenuIcon/PltSquashGreen.png"
+ },
+ {
+  "itemName": "Ripe Orange Pumpkin Plant",
+  "internalName": "PltSquashOrange3",
+  "hex": "4NabYCMoW4A",
+  "image": "MenuIcon/PltSquashOrange.png"
+ },
+ {
+  "itemName": "Ripe White Pumpkin Plant",
+  "internalName": "PltSquashWhite3",
+  "hex": "fRBB1kAVqo4",
+  "image": "MenuIcon/PltSquashWhite.png"
+ },
+ {
+  "itemName": "Ripe Yellow Pumpkin Plant",
+  "internalName": "PltSquashYellow3",
+  "hex": "XsWQ3Fnikq8",
+  "image": "MenuIcon/PltSquashYellow.png"
+ },
+ {
   "itemName": "Round Mushroom x10",
   "internalName": "MushRound",
   "hex": "xNLpql2zRRI",
@@ -101088,6 +102142,30 @@
   "internalName": "JohnnyQuestDust1",
   "hex": "6JEnfmmzQy8",
   "image": "FtrIcon/JohnnyQuestDust1.png"
+ },
+ {
+  "itemName": "S. Green Pumpkin Sprout",
+  "internalName": "PltSquashGreen0",
+  "hex": "5wU4YERykn0",
+  "image": "MenuIcon/PltSquashGreen.png"
+ },
+ {
+  "itemName": "S. Orange Pumpkin Sprout",
+  "internalName": "PltSquashOrange0",
+  "hex": "uhMMLpGpy24",
+  "image": "MenuIcon/PltSquashOrange.png"
+ },
+ {
+  "itemName": "S. White Pumpkin Sprout",
+  "internalName": "PltSquashWhite0",
+  "hex": "D6zcnRgMQDA",
+  "image": "MenuIcon/PltSquashWhite.png"
+ },
+ {
+  "itemName": "S. Yellow Pumpkin Sprout",
+  "internalName": "PltSquashYellow0",
+  "hex": "8ZXGM5aje24",
+  "image": "MenuIcon/PltSquashYellow.png"
  },
  {
   "itemName": "Sagittarius Fragment x10",
@@ -101348,6 +102426,12 @@
   "image": "FtrIcon/FlwPansyWhite.png"
  },
  {
+  "itemName": "White Pumpkin",
+  "internalName": "SquashWhite",
+  "hex": "7UU8mrmJBZA",
+  "image": "FtrIcon/SquashWhite.png"
+ },
+ {
   "itemName": "White Roses x10 (wear)",
   "internalName": "FlwRoseWhite",
   "hex": "OnXQD34Mf3o",
@@ -101538,6 +102622,12 @@
   "internalName": "FlwPansyYellow",
   "hex": "Zv69YPzxrTU",
   "image": "FtrIcon/FlwPansyYellow.png"
+ },
+ {
+  "itemName": "Yellow Pumpkin",
+  "internalName": "SquashYellow",
+  "hex": "JsX0I9sRY5Y",
+  "image": "FtrIcon/SquashYellow.png"
  },
  {
   "itemName": "Yellow Roses x10 (wear)",
@@ -101838,344 +102928,6 @@
   "internalName": "ff-excfense",
   "hex": "jtZRAO8wCr8",
   "image": "https://acnhcdn.com/latest/ClosetIcon/a.png"
- },
- {
-  "itemName": "Blanca",
-  "hex": "715Jd2XjmEI",
-  "image": "a.png"
- },
- {
-  "itemName": "Blathers",
-  "internalName": "owl",
-  "hex": "k2CCIfpM41M",
-  "image": "NpcIcon/owl.png"
- },
- {
-  "itemName": "Booker",
-  "hex": "dPgQu24Hi2g",
-  "image": "a.png"
- },
- {
-  "itemName": "Brewster",
-  "hex": "thXRtgNXvO8",
-  "image": "a.png"
- },
- {
-  "itemName": "C.J.",
-  "hex": "9xk5yD6ceG8",
-  "image": "a.png"
- },
- {
-  "itemName": "Celeste",
-  "internalName": "ows",
-  "hex": "TwLtLt7BfJc",
-  "image": "NpcIcon/ows.png"
- },
- {
-  "itemName": "Chip",
-  "hex": "SElhhVAZY28",
-  "image": "a.png"
- },
- {
-  "itemName": "Copper",
-  "hex": "cTJymzQgRTI",
-  "image": "a.png"
- },
- {
-  "itemName": "Cyrus",
-  "internalName": "alp",
-  "hex": "tU8Rz0tIzts",
-  "image": "NpcIcon/alp.png"
- },
- {
-  "itemName": "Daisy Mae",
-  "hex": "zGx2e6VsOqc",
-  "image": "a.png"
- },
- {
-  "itemName": "Digby",
-  "hex": "fpBSPRWqnSM",
-  "image": "a.png"
- },
- {
-  "itemName": "Dj Kk",
-  "hex": "MtXg01jBjSk",
-  "image": "a.png"
- },
- {
-  "itemName": "Don",
-  "hex": "eRPejmYXVd4",
-  "image": "a.png"
- },
- {
-  "itemName": "Flick",
-  "hex": "lKka5h0A4jA",
-  "image": "a.png"
- },
- {
-  "itemName": "Franklin",
-  "hex": "zT4RgocVBew",
-  "image": "a.png"
- },
- {
-  "itemName": "Gracie",
-  "hex": "qHxF0HH462U",
-  "image": "a.png"
- },
- {
-  "itemName": "Grams",
-  "hex": "krCaVN75k44",
-  "image": "a.png"
- },
- {
-  "itemName": "Gullivarrr",
-  "hex": "WBZRveRfTWY",
-  "image": "a.png"
- },
- {
-  "itemName": "Gulliver",
-  "internalName": "gul",
-  "hex": "elGWG6loTxE",
-  "image": "NpcIcon/gul.png"
- },
- {
-  "itemName": "Harriet",
-  "hex": "KadlP9pf49Q",
-  "image": "a.png"
- },
- {
-  "itemName": "Harvey",
-  "internalName": "spn",
-  "hex": "ER6AvBmZfXM",
-  "image": "NpcIcon/spn.png"
- },
- {
-  "itemName": "Isabelle",
-  "internalName": "sza",
-  "hex": "oLGjIGaL5t4",
-  "image": "NpcIcon/sza.png"
- },
- {
-  "itemName": "Jack",
-  "hex": "Ke0cKZucuV4",
-  "image": "a.png"
- },
- {
-  "itemName": "Jingle",
-  "hex": "UIxKcebiI8s",
-  "image": "a.png"
- },
- {
-  "itemName": "Joan",
-  "hex": "NmVYR42yxy4",
-  "image": "a.png"
- },
- {
-  "itemName": "K.K.",
-  "internalName": "tkkA",
-  "hex": "hxxrJdqVMUw",
-  "image": "NpcIcon/tkkA.png"
- },
- {
-  "itemName": "Kapp'n",
-  "hex": "bv9Z2kRYC6o",
-  "image": "a.png"
- },
- {
-  "itemName": "Katie",
-  "hex": "Am49dgqB7zs",
-  "image": "a.png"
- },
- {
-  "itemName": "Katrina",
-  "hex": "VDa7ZP314IY",
-  "image": "a.png"
- },
- {
-  "itemName": "Kicks",
-  "internalName": "skk",
-  "hex": "ligNaqhgeRU",
-  "image": "NpcIcon/skk.png"
- },
- {
-  "itemName": "Label",
-  "internalName": "hgc",
-  "hex": "nvCEzV2eTSk",
-  "image": "NpcIcon/hgc.png"
- },
- {
-  "itemName": "Leif",
-  "internalName": "slo",
-  "hex": "e6R3HpyDeYY",
-  "image": "NpcIcon/slo.png"
- },
- {
-  "itemName": "Leila",
-  "hex": "jUdr5D2Hvig",
-  "image": "a.png"
- },
- {
-  "itemName": "Leilani",
-  "hex": "DWB0wverc54",
-  "image": "a.png"
- },
- {
-  "itemName": "Lottie",
-  "hex": "UZaWIwtE8gQ",
-  "image": "a.png"
- },
- {
-  "itemName": "Luna",
-  "internalName": "tap",
-  "hex": "RRkTyaFq3DI",
-  "image": "NpcIcon/tap.png"
- },
- {
-  "itemName": "Lyle",
-  "hex": "7zRQKV6Pe9Y",
-  "image": "a.png"
- },
- {
-  "itemName": "Mabel",
-  "internalName": "hgh",
-  "hex": "Q5W7fDHOqiM",
-  "image": "NpcIcon/hgh.png"
- },
- {
-  "itemName": "Nat",
-  "hex": "J8UF9nFT9NU",
-  "image": "a.png"
- },
- {
-  "itemName": "Orville",
-  "hex": "GeQxQToA4jI",
-  "image": "a.png"
- },
- {
-  "itemName": "Pascal",
-  "internalName": "seo",
-  "hex": "RORmnL9mSxY",
-  "image": "NpcIcon/seo.png"
- },
- {
-  "itemName": "Pav\u00e9",
-  "hex": "JRLP50SOTig",
-  "image": "a.png"
- },
- {
-  "itemName": "Pelly",
-  "hex": "0y8sdP0SylI",
-  "image": "a.png"
- },
- {
-  "itemName": "Pete",
-  "hex": "slOWPp7tn8Y",
-  "image": "a.png"
- },
- {
-  "itemName": "Phineas",
-  "hex": "PxIjC6Ns7FE",
-  "image": "a.png"
- },
- {
-  "itemName": "Phyllis",
-  "hex": "Aa4wGjM4YJE",
-  "image": "a.png"
- },
- {
-  "itemName": "Porter",
-  "hex": "YTPrDPmH1I0",
-  "image": "a.png"
- },
- {
-  "itemName": "Redd",
-  "internalName": "fox",
-  "hex": "qadtSma03zY",
-  "image": "NpcIcon/fox.png"
- },
- {
-  "itemName": "Reese",
-  "internalName": "alw",
-  "hex": "xT0YtozjhcI",
-  "image": "NpcIcon/alw.png"
- },
- {
-  "itemName": "Resetti",
-  "hex": "eA5CGIBLEXs",
-  "image": "a.png"
- },
- {
-  "itemName": "Rover",
-  "internalName": "xct",
-  "hex": "SfRFysD3Ya4",
-  "image": "NpcIcon/xct.png"
- },
- {
-  "itemName": "Sable",
-  "internalName": "hgs",
-  "hex": "O96uCAIQ3JA",
-  "image": "NpcIcon/hgs.png"
- },
- {
-  "itemName": "Saharah",
-  "internalName": "cml",
-  "hex": "nu0KRMyibrw",
-  "image": "NpcIcon/cml.png"
- },
- {
-  "itemName": "Shrunk",
-  "hex": "A93mnWFIbPQ",
-  "image": "a.png"
- },
- {
-  "itemName": "Timmy",
-  "internalName": "rcm",
-  "hex": "SsVcmn0nimM",
-  "image": "NpcIcon/rcm.png"
- },
- {
-  "itemName": "Tom Nook",
-  "internalName": "rco",
-  "hex": "5uOAxMZlA2Q",
-  "image": "NpcIcon/rco.png"
- },
- {
-  "itemName": "Tommy",
-  "internalName": "rct",
-  "hex": "qWaoZeO490w",
-  "image": "NpcIcon/rct.png"
- },
- {
-  "itemName": "Tortimer",
-  "hex": "zaVYRRrysUw",
-  "image": "a.png"
- },
- {
-  "itemName": "Wendell",
-  "hex": "Gw77afwpBwE",
-  "image": "a.png"
- },
- {
-  "itemName": "Wilbur",
-  "internalName": "doc",
-  "hex": "xTUTG9okUN4",
-  "image": "NpcIcon/doc.png"
- },
- {
-  "itemName": "Wisp",
-  "hex": "KLzPZH35QCY",
-  "image": "a.png"
- },
- {
-  "itemName": "Wisp",
-  "hex": "KLzIY335QCY",
-  "image": "a.png"
- },
- {
-  "itemName": "Zipper",
-  "internalName": "pyn",
-  "hex": "xd5GLPj4evM",
-  "image": "NpcIcon/pyn.png"
  },
  {
   "hex": "tlIIEYOUlmk",
