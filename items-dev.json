@@ -1,5 +1,11 @@
 [
  {
+  "itemName": "2021 Celebratory Arch",
+  "internalName": "Ftr2021Arch",
+  "hex": "wYD3ksfF1wY",
+  "image": "FtrIcon/Ftr2021Arch.png"
+ },
+ {
   "itemName": "Acoustic Guitar",
   "color": "Natural",
   "internalName": "FtrAcorsticguitar_Remake_0_0",
@@ -8234,6 +8240,55 @@
   "image": "FtrIcon/FtrBearXL_Remake_5_3.png"
  },
  {
+  "itemName": "Gift Pile",
+  "color": "Red & green",
+  "internalName": "FtrCrsPresents_Remake_0_0",
+  "hex": "lvr7TSUnNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_0_0.png"
+ },
+ {
+  "itemName": "Gift Pile",
+  "color": "Colorful",
+  "internalName": "FtrCrsPresents_Remake_1_0",
+  "hex": "lvr7TSUmNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_1_0.png"
+ },
+ {
+  "itemName": "Gift Pile",
+  "color": "Cute",
+  "internalName": "FtrCrsPresents_Remake_2_0",
+  "hex": "lvr7TSUlNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_2_0.png"
+ },
+ {
+  "itemName": "Gift Pile",
+  "color": "Cool",
+  "internalName": "FtrCrsPresents_Remake_3_0",
+  "hex": "lvr7TSUkNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_3_0.png"
+ },
+ {
+  "itemName": "Gift Pile",
+  "color": "Chic",
+  "internalName": "FtrCrsPresents_Remake_4_0",
+  "hex": "lvr7TSUjNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_4_0.png"
+ },
+ {
+  "itemName": "Gift Pile",
+  "color": "Elegant",
+  "internalName": "FtrCrsPresents_Remake_5_0",
+  "hex": "lvr7TSUiNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_5_0.png"
+ },
+ {
+  "itemName": "Gift Pile",
+  "color": "Natural",
+  "internalName": "FtrCrsPresents_Remake_6_0",
+  "hex": "lvr7TSUhNsg",
+  "image": "FtrIcon/FtrCrsPresents_Remake_6_0.png"
+ },
+ {
   "itemName": "Go Board",
   "internalName": "FtrGo",
   "hex": "amLqmngoyrM",
@@ -9783,10 +9838,72 @@
   "image": "FtrIcon/FtrJukebox.png"
  },
  {
+  "itemName": "Kadomatsu",
+  "internalName": "FtrKadomatsu",
+  "hex": "JG0fTelLH0Q",
+  "image": "FtrIcon/FtrKadomatsu.png"
+ },
+ {
   "itemName": "Kettle Bathtub",
   "internalName": "FtrGoemonburo",
   "hex": "R5TTmKyunKs",
   "image": "FtrIcon/FtrGoemonburo.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "White",
+  "internalName": "FtrCrsTent_Remake_0_0",
+  "hex": "G47LvqLzmPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_0_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Pink",
+  "internalName": "FtrCrsTent_Remake_1_0",
+  "hex": "G47LvqLymPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_1_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Black",
+  "internalName": "FtrCrsTent_Remake_2_0",
+  "hex": "G47LvqLxmPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_2_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Stripes",
+  "internalName": "FtrCrsTent_Remake_3_0",
+  "hex": "G47LvqLwmPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_3_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Floral",
+  "internalName": "FtrCrsTent_Remake_4_0",
+  "hex": "G47LvqL3mPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_4_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Blue",
+  "internalName": "FtrCrsTent_Remake_5_0",
+  "hex": "G47LvqL2mPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_5_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Brown",
+  "internalName": "FtrCrsTent_Remake_6_0",
+  "hex": "G47LvqL1mPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_6_0.png"
+ },
+ {
+  "itemName": "Kids' Tent",
+  "color": "Colorful",
+  "internalName": "FtrCrsTent_Remake_7_0",
+  "hex": "G47LvqL0mPM",
+  "image": "FtrIcon/FtrCrsTent_Remake_7_0.png"
  },
  {
   "itemName": "Kimono Stand",
@@ -15358,6 +15475,55 @@
   "image": "FtrIcon/FtrRattanTrashbox_Remake_5_0.png"
  },
  {
+  "itemName": "RC Helicopter",
+  "color": "Blue",
+  "internalName": "FtrCrsHelicopter_Remake_0_0",
+  "hex": "eIPbyw1DMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_0_0.png"
+ },
+ {
+  "itemName": "RC Helicopter",
+  "color": "Red",
+  "internalName": "FtrCrsHelicopter_Remake_1_0",
+  "hex": "eIPbyw1CMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_1_0.png"
+ },
+ {
+  "itemName": "RC Helicopter",
+  "color": "Yellow",
+  "internalName": "FtrCrsHelicopter_Remake_2_0",
+  "hex": "eIPbyw1BMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_2_0.png"
+ },
+ {
+  "itemName": "RC Helicopter",
+  "color": "Green",
+  "internalName": "FtrCrsHelicopter_Remake_3_0",
+  "hex": "eIPbyw1AMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_3_0.png"
+ },
+ {
+  "itemName": "RC Helicopter",
+  "color": "Pink",
+  "internalName": "FtrCrsHelicopter_Remake_4_0",
+  "hex": "eIPbyw1HMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_4_0.png"
+ },
+ {
+  "itemName": "RC Helicopter",
+  "color": "Light blue",
+  "internalName": "FtrCrsHelicopter_Remake_5_0",
+  "hex": "eIPbyw1GMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_5_0.png"
+ },
+ {
+  "itemName": "RC Helicopter",
+  "color": "Purple",
+  "internalName": "FtrCrsHelicopter_Remake_6_0",
+  "hex": "eIPbyw1FMeM",
+  "image": "FtrIcon/FtrCrsHelicopter_Remake_6_0.png"
+ },
+ {
   "itemName": "Red Corner",
   "color": "NA-Green",
   "internalName": "FtrRingcornerRed_Remake_0_0",
@@ -19917,6 +20083,12 @@
   "image": "FtrIcon/FtrPisa.png"
  },
  {
+  "itemName": "Toy Day Sleigh",
+  "internalName": "FtrCrsSled",
+  "hex": "dzrS3K60DEE",
+  "image": "FtrIcon/FtrCrsSled.png"
+ },
+ {
   "itemName": "Train Set",
   "color": "Spring",
   "internalName": "FtrRailroad_Remake_0_0",
@@ -20096,6 +20268,62 @@
   "internalName": "FtrFlowerSurprisedbox_Remake_2_0",
   "hex": "gRFTmILsdJU",
   "image": "FtrIcon/FtrFlowerSurprisedbox_Remake_2_0.png"
+ },
+ {
+  "itemName": "Turkey Day Chair",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestChairS_Remake_0_0",
+  "hex": "Z7KAaUJcfOs",
+  "image": "FtrIcon/FtrHarvestChairS_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Chair",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestChairS_Remake_1_0",
+  "hex": "Z7KAaUJdfOs",
+  "image": "FtrIcon/FtrHarvestChairS_Remake_1_0.png"
+ },
+ {
+  "itemName": "Turkey Day Garden Stand",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestStand_Remake_0_0",
+  "hex": "Jx4BF3verH4",
+  "image": "FtrIcon/FtrHarvestStand_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Garden Stand",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestStand_Remake_1_0",
+  "hex": "Jx4BF3vfrH4",
+  "image": "FtrIcon/FtrHarvestStand_Remake_1_0.png"
+ },
+ {
+  "itemName": "Turkey Day Hearth",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestFireplace_Remake_0_0",
+  "hex": "YR0T44ozLQU",
+  "image": "FtrIcon/FtrHarvestFireplace_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Hearth",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestFireplace_Remake_1_0",
+  "hex": "YR0T44oRLQU",
+  "image": "FtrIcon/FtrHarvestFireplace_Remake_1_0.png"
+ },
+ {
+  "itemName": "Turkey Day Table",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestTableL_Remake_0_0",
+  "hex": "rpQeR7YWhiA",
+  "image": "FtrIcon/FtrHarvestTableL_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Table",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestTableL_Remake_1_0",
+  "hex": "rpQeR7YXhiA",
+  "image": "FtrIcon/FtrHarvestTableL_Remake_1_0.png"
  },
  {
   "itemName": "TV Camera",
@@ -23786,6 +24014,12 @@
   "image": "FtrIcon/FtrInsectSuzumushiToy.png"
  },
  {
+  "itemName": "Berliner",
+  "internalName": "FtrBerliner",
+  "hex": "CR1gzezznfQ",
+  "image": "FtrIcon/FtrBerliner.png"
+ },
+ {
   "itemName": "Betta Model",
   "internalName": "FtrFishBetaToy",
   "hex": "OrZwbagSEwY",
@@ -24652,6 +24886,12 @@
   "image": "FtrIcon/FtrPhoneCordless_Remake_6_0.png"
  },
  {
+  "itemName": "Cornucopia",
+  "internalName": "FtrCornucopia",
+  "hex": "zmNguoBZcHc",
+  "image": "FtrIcon/FtrCornucopia.png"
+ },
+ {
   "itemName": "Crawfish Model",
   "internalName": "FtrFishZariganiToy",
   "hex": "mPNEu0OnuMk",
@@ -25293,6 +25533,41 @@
   "image": "FtrIcon/FtrDishes.png"
  },
  {
+  "itemName": "Dinosaur Toy",
+  "color": "Gray",
+  "internalName": "FtrCrsDinosaur_Remake_0_0",
+  "hex": "VRcsdORN5Ws",
+  "image": "FtrIcon/FtrCrsDinosaur_Remake_0_0.png"
+ },
+ {
+  "itemName": "Dinosaur Toy",
+  "color": "Brown",
+  "internalName": "FtrCrsDinosaur_Remake_1_0",
+  "hex": "VRcsdORM5Ws",
+  "image": "FtrIcon/FtrCrsDinosaur_Remake_1_0.png"
+ },
+ {
+  "itemName": "Dinosaur Toy",
+  "color": "Green",
+  "internalName": "FtrCrsDinosaur_Remake_2_0",
+  "hex": "VRcsdORP5Ws",
+  "image": "FtrIcon/FtrCrsDinosaur_Remake_2_0.png"
+ },
+ {
+  "itemName": "Dinosaur Toy",
+  "color": "Blue",
+  "internalName": "FtrCrsDinosaur_Remake_3_0",
+  "hex": "VRcsdORO5Ws",
+  "image": "FtrIcon/FtrCrsDinosaur_Remake_3_0.png"
+ },
+ {
+  "itemName": "Dinosaur Toy",
+  "color": "Red",
+  "internalName": "FtrCrsDinosaur_Remake_4_0",
+  "hex": "VRcsdORJ5Ws",
+  "image": "FtrIcon/FtrCrsDinosaur_Remake_4_0.png"
+ },
+ {
   "itemName": "Dish Drying Rack",
   "color": "White",
   "internalName": "FtrDrainerbasket_Remake_0_0",
@@ -25367,6 +25642,55 @@
   "internalName": "FtrOfficePapers_Remake_0_3",
   "hex": "RfVYhx0ffZ8",
   "image": "FtrIcon/FtrOfficePapers_Remake_0_3.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Red",
+  "internalName": "FtrCrsDollhouse_Remake_0_0",
+  "hex": "hRFGSvWpVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_0_0.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Brown",
+  "internalName": "FtrCrsDollhouse_Remake_1_0",
+  "hex": "hRFGSvWoVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_1_0.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Blue",
+  "internalName": "FtrCrsDollhouse_Remake_2_0",
+  "hex": "hRFGSvWrVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_2_0.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Orange",
+  "internalName": "FtrCrsDollhouse_Remake_3_0",
+  "hex": "hRFGSvWqVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_3_0.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Green",
+  "internalName": "FtrCrsDollhouse_Remake_4_0",
+  "hex": "hRFGSvWtVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_4_0.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Pink",
+  "internalName": "FtrCrsDollhouse_Remake_5_0",
+  "hex": "hRFGSvWsVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_5_0.png"
+ },
+ {
+  "itemName": "Dollhouse",
+  "color": "Purple",
+  "internalName": "FtrCrsDollhouse_Remake_6_0",
+  "hex": "hRFGSvWvVFQ",
+  "image": "FtrIcon/FtrCrsDollhouse_Remake_6_0.png"
  },
  {
   "itemName": "Dolly",
@@ -26617,6 +26941,12 @@
   "internalName": "FtrGong",
   "hex": "seq2yntIo4g",
   "image": "FtrIcon/FtrGong.png"
+ },
+ {
+  "itemName": "Kagamimochi",
+  "internalName": "FtrKagamimochi",
+  "hex": "balNH0Fpbr0",
+  "image": "FtrIcon/FtrKagamimochi.png"
  },
  {
   "itemName": "Katana",
@@ -27870,6 +28200,34 @@
   "image": "FtrIcon/FtrInsectTonosamabattaToy.png"
  },
  {
+  "itemName": "Mini Circuit",
+  "color": "Red & white",
+  "internalName": "FtrCrsCircuit_Remake_0_0",
+  "hex": "WcN6E51gp38",
+  "image": "FtrIcon/FtrCrsCircuit_Remake_0_0.png"
+ },
+ {
+  "itemName": "Mini Circuit",
+  "color": "Blue & yellow",
+  "internalName": "FtrCrsCircuit_Remake_1_0",
+  "hex": "WcN6E51hp38",
+  "image": "FtrIcon/FtrCrsCircuit_Remake_1_0.png"
+ },
+ {
+  "itemName": "Mini Circuit",
+  "color": "Black & silver",
+  "internalName": "FtrCrsCircuit_Remake_2_0",
+  "hex": "WcN6E51ip38",
+  "image": "FtrIcon/FtrCrsCircuit_Remake_2_0.png"
+ },
+ {
+  "itemName": "Mini Circuit",
+  "color": "Pink & purple",
+  "internalName": "FtrCrsCircuit_Remake_3_0",
+  "hex": "WcN6E51jp38",
+  "image": "FtrIcon/FtrCrsCircuit_Remake_3_0.png"
+ },
+ {
   "itemName": "Mini Cactus Set",
   "internalName": "FtrCactusesMini",
   "hex": "xxz1cHgEtGk",
@@ -28685,6 +29043,12 @@
   "image": "FtrIcon/FtrFishNeontetoraToy.png"
  },
  {
+  "itemName": "New Year's Noodles",
+  "internalName": "FtrSobaNewyears",
+  "hex": "mBRafmjY5Yo",
+  "image": "FtrIcon/FtrSobaNewyears.png"
+ },
+ {
   "itemName": "Newton's Cradle",
   "internalName": "FtrCradleNewton",
   "hex": "axa9rjIgsFI",
@@ -28852,6 +29216,12 @@
   "internalName": "FtrFishHirameToy",
   "hex": "aiPz1DqWE4I",
   "image": "FtrIcon/FtrFishHirameToy.png"
+ },
+ {
+  "itemName": "Olivier Salad",
+  "internalName": "FtrOliviersalad",
+  "hex": "vrKUbZ20eUk",
+  "image": "FtrIcon/FtrOliviersalad.png"
  },
  {
   "itemName": "Orchid Mantis Model",
@@ -29281,6 +29651,34 @@
   "image": "FtrIcon/FtrFishDemekinToy.png"
  },
  {
+  "itemName": "Pop Up Book",
+  "color": "The ocean blue",
+  "internalName": "FtrCrsPopupbook_Remake_0_0",
+  "hex": "f66uUn7bAq8",
+  "image": "FtrIcon/FtrCrsPopupbook_Remake_0_0.png"
+ },
+ {
+  "itemName": "Pop Up Book",
+  "color": "The Mesozoic world",
+  "internalName": "FtrCrsPopupbook_Remake_1_0",
+  "hex": "f66uUn7aAq8",
+  "image": "FtrIcon/FtrCrsPopupbook_Remake_1_0.png"
+ },
+ {
+  "itemName": "Pop Up Book",
+  "color": "Savannah",
+  "internalName": "FtrCrsPopupbook_Remake_2_0",
+  "hex": "f66uUn7ZAq8",
+  "image": "FtrIcon/FtrCrsPopupbook_Remake_2_0.png"
+ },
+ {
+  "itemName": "Pop Up Book",
+  "color": "Flowers",
+  "internalName": "FtrCrsPopupbook_Remake_3_0",
+  "hex": "f66uUn7YAq8",
+  "image": "FtrIcon/FtrCrsPopupbook_Remake_3_0.png"
+ },
+ {
   "itemName": "Pop Up Toaster",
   "color": "White",
   "internalName": "FtrToaster_Remake_0_0",
@@ -29516,6 +29914,62 @@
   "internalName": "FtrFishHarisenbonToy",
   "hex": "pzHq0HcdmFI",
   "image": "FtrIcon/FtrFishHarisenbonToy.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Beige",
+  "internalName": "FtrCrsDogtoy_Remake_0_0",
+  "hex": "3QK94LsA9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_0_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Red",
+  "internalName": "FtrCrsDogtoy_Remake_1_0",
+  "hex": "3QK94LsB9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_1_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Lemon & white",
+  "internalName": "FtrCrsDogtoy_Remake_2_0",
+  "hex": "3QK94LsC9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_2_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Spotted",
+  "internalName": "FtrCrsDogtoy_Remake_3_0",
+  "hex": "3QK94LsD9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_3_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Black",
+  "internalName": "FtrCrsDogtoy_Remake_4_0",
+  "hex": "3QK94LsE9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_4_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Tricolored",
+  "internalName": "FtrCrsDogtoy_Remake_5_0",
+  "hex": "3QK94LsF9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_5_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Gray & white",
+  "internalName": "FtrCrsDogtoy_Remake_6_0",
+  "hex": "3QK94LsG9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_6_0.png"
+ },
+ {
+  "itemName": "Puppy Plushie",
+  "color": "Pink",
+  "internalName": "FtrCrsDogtoy_Remake_7_0",
+  "hex": "3QK94LsH9Rk",
+  "image": "FtrIcon/FtrCrsDogtoy_Remake_7_0.png"
  },
  {
   "itemName": "R. Brooke's Birdwing Model",
@@ -31526,6 +31980,62 @@
   "image": "FtrIcon/FtrBucket.png"
  },
  {
+  "itemName": "Tin Robot",
+  "color": "Silver",
+  "internalName": "FtrCrsRobot_Remake_0_0",
+  "hex": "S6RLRwNHC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_0_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Blue",
+  "internalName": "FtrCrsRobot_Remake_1_0",
+  "hex": "S6RLRwNGC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_1_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Red",
+  "internalName": "FtrCrsRobot_Remake_2_0",
+  "hex": "S6RLRwNFC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_2_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Orange",
+  "internalName": "FtrCrsRobot_Remake_3_0",
+  "hex": "S6RLRwNEC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_3_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Yellow",
+  "internalName": "FtrCrsRobot_Remake_4_0",
+  "hex": "S6RLRwNDC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_4_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Green",
+  "internalName": "FtrCrsRobot_Remake_5_0",
+  "hex": "S6RLRwNCC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_5_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Pink",
+  "internalName": "FtrCrsRobot_Remake_6_0",
+  "hex": "S6RLRwNBC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_6_0.png"
+ },
+ {
+  "itemName": "Tin Robot",
+  "color": "Black",
+  "internalName": "FtrCrsRobot_Remake_7_0",
+  "hex": "S6RLRwNAC0s",
+  "image": "FtrIcon/FtrCrsRobot_Remake_7_0.png"
+ },
+ {
   "itemName": "Tissue Box",
   "color": "Red",
   "internalName": "FtrTissuebox_Remake_0_0",
@@ -31737,6 +32247,68 @@
   "internalName": "FtrFishMaguroToy",
   "hex": "z4NBTaYsR8A",
   "image": "FtrIcon/FtrFishMaguroToy.png"
+ },
+ {
+  "itemName": "Turkey Day Casserole",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestEnamelpod_Remake_0_0",
+  "hex": "WWnjiW3R8f8",
+  "image": "FtrIcon/FtrHarvestEnamelpod_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Casserole",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestEnamelpod_Remake_1_0",
+  "hex": "WWnjiW3Q8f8",
+  "image": "FtrIcon/FtrHarvestEnamelpod_Remake_1_0.png"
+ },
+ {
+  "itemName": "Turkey Day Decorations",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestDecoration_Remake_0_0",
+  "hex": "7lWh6y9yEWw",
+  "image": "FtrIcon/FtrHarvestDecoration_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Decorations",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestDecoration_Remake_1_0",
+  "hex": "7lWh6y9zEWw",
+  "image": "FtrIcon/FtrHarvestDecoration_Remake_1_0.png"
+ },
+ {
+  "itemName": "Turkey Day Table Setting",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestTablesetting_Remake_0_0",
+  "hex": "WKAxjgnf8OI",
+  "image": "FtrIcon/FtrHarvestTablesetting_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Table Setting",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestTablesetting_Remake_1_0",
+  "hex": "WKAxjgne8OI",
+  "image": "FtrIcon/FtrHarvestTablesetting_Remake_1_0.png"
+ },
+ {
+  "itemName": "Turkey Day Wheat Decor",
+  "color": "Fall harvest",
+  "internalName": "FtrHarvestWheat_Remake_0_0",
+  "hex": "874iOs60CuU",
+  "image": "FtrIcon/FtrHarvestWheat_Remake_0_0.png"
+ },
+ {
+  "itemName": "Turkey Day Wheat Decor",
+  "color": "Spring blooming",
+  "internalName": "FtrHarvestWheat_Remake_1_0",
+  "hex": "874iOs61CuU",
+  "image": "FtrIcon/FtrHarvestWheat_Remake_1_0.png"
+ },
+ {
+  "itemName": "Twelve Grape Dish",
+  "internalName": "Ftr12Grapes",
+  "hex": "lUo53Lg2vPQ",
+  "image": "FtrIcon/Ftr12Grapes.png"
  },
  {
   "itemName": "Typewriter",
@@ -32149,10 +32721,57 @@
   "image": "FtrIcon/FtrFishYellowparchToy.png"
  },
  {
+  "itemName": "Yule Log",
+  "color": "Chocolate",
+  "internalName": "FtrCrsBushdonoel_Remake_0_0",
+  "hex": "2sk8VFGj0TY",
+  "image": "FtrIcon/FtrCrsBushdonoel_Remake_0_0.png"
+ },
+ {
+  "itemName": "Yule Log",
+  "color": "Chestnut",
+  "internalName": "FtrCrsBushdonoel_Remake_1_0",
+  "hex": "2sk8VFGi0TY",
+  "image": "FtrIcon/FtrCrsBushdonoel_Remake_1_0.png"
+ },
+ {
+  "itemName": "Yule Log",
+  "color": "Whipped-cream topping",
+  "internalName": "FtrCrsBushdonoel_Remake_2_0",
+  "hex": "2sk8VFGh0TY",
+  "image": "FtrIcon/FtrCrsBushdonoel_Remake_2_0.png"
+ },
+ {
+  "itemName": "Yule Log",
+  "color": "Strawberry",
+  "internalName": "FtrCrsBushdonoel_Remake_3_0",
+  "hex": "2sk8VFGg0TY",
+  "image": "FtrIcon/FtrCrsBushdonoel_Remake_3_0.png"
+ },
+ {
+  "itemName": "Yule Log",
+  "color": "Green tea",
+  "internalName": "FtrCrsBushdonoel_Remake_4_0",
+  "hex": "2sk8VFGn0TY",
+  "image": "FtrIcon/FtrCrsBushdonoel_Remake_4_0.png"
+ },
+ {
+  "itemName": "Yut Nori",
+  "internalName": "FtrYunnori",
+  "hex": "MGKBeNfPXR0",
+  "image": "FtrIcon/FtrYunnori.png"
+ },
+ {
   "itemName": "Zebra Turkeyfish Model",
   "internalName": "FtrFishMinokasagoToy",
   "hex": "LsBYwJESTXM",
   "image": "FtrIcon/FtrFishMinokasagoToy.png"
+ },
+ {
+  "itemName": "Zodiac Ox Figurine",
+  "internalName": "FtrEtoOx",
+  "hex": "cAnm7B6H0to",
+  "image": "FtrIcon/FtrEtoOx.png"
  },
  {
   "itemName": "Air Conditioner",
@@ -33035,6 +33654,12 @@
   "internalName": "FtrDoorOrnamentWreathRoseMix",
   "hex": "cZ8aNhdNyHU",
   "image": "FtrIcon/FtrDoorOrnamentWreathRoseMix.png"
+ },
+ {
+  "itemName": "Festive Wreath",
+  "internalName": "FtrDoorOrnamentXmasWreath",
+  "hex": "TbgPxwAiH84",
+  "image": "FtrIcon/FtrDoorOrnamentXmasWreath.png"
  },
  {
   "itemName": "Fish Doorplate",
@@ -34088,6 +34713,12 @@
   "image": "FtrIcon/FtrDoorOrnamentWreathMumRare.png"
  },
  {
+  "itemName": "New Year's Shimekazari",
+  "internalName": "FtrDoorOrnamentWreathShimenawa",
+  "hex": "BRcoIGt2zgU",
+  "image": "FtrIcon/FtrDoorOrnamentWreathShimenawa.png"
+ },
+ {
   "itemName": "Orange Wall Mounted Clock",
   "color": "Orange",
   "internalName": "FtrFruitsClockW_Remake_0_0",
@@ -34428,6 +35059,48 @@
   "internalName": "FtrZodiacSagittarius",
   "hex": "X9P88pKlhMs",
   "image": "FtrIcon/FtrZodiacSagittarius.png"
+ },
+ {
+  "itemName": "Set of Stockings",
+  "color": "Colorful",
+  "internalName": "FtrCrsSocksWallColor_Remake_0_0",
+  "hex": "RwdbBzRMLKU",
+  "image": "FtrIcon/FtrCrsSocksWallColor_Remake_0_0.png"
+ },
+ {
+  "itemName": "Set of Stockings",
+  "color": "Cute",
+  "internalName": "FtrCrsSocksWallColor_Remake_1_0",
+  "hex": "RwdbBzRNLKU",
+  "image": "FtrIcon/FtrCrsSocksWallColor_Remake_1_0.png"
+ },
+ {
+  "itemName": "Set of Stockings",
+  "color": "Cool",
+  "internalName": "FtrCrsSocksWallColor_Remake_2_0",
+  "hex": "RwdbBzROLKU",
+  "image": "FtrIcon/FtrCrsSocksWallColor_Remake_2_0.png"
+ },
+ {
+  "itemName": "Set of Stockings",
+  "color": "Chic",
+  "internalName": "FtrCrsSocksWallColor_Remake_3_0",
+  "hex": "RwdbBzRPLKU",
+  "image": "FtrIcon/FtrCrsSocksWallColor_Remake_3_0.png"
+ },
+ {
+  "itemName": "Set of Stockings",
+  "color": "Elegant",
+  "internalName": "FtrCrsSocksWallColor_Remake_4_0",
+  "hex": "RwdbBzRILKU",
+  "image": "FtrIcon/FtrCrsSocksWallColor_Remake_4_0.png"
+ },
+ {
+  "itemName": "Set of Stockings",
+  "color": "Natural",
+  "internalName": "FtrCrsSocksWallColor_Remake_5_0",
+  "hex": "RwdbBzRJLKU",
+  "image": "FtrIcon/FtrCrsSocksWallColor_Remake_5_0.png"
  },
  {
   "itemName": "Shell Wreath",
@@ -34870,6 +35543,12 @@
   "internalName": "FtrDoorOrnamentLog_Remake_7_0",
   "hex": "ljFJ9ufZBkQ",
   "image": "FtrIcon/FtrDoorOrnamentLog_Remake_7_0.png"
+ },
+ {
+  "itemName": "Toy Day Stockings",
+  "internalName": "FtrCrsSocksWall",
+  "hex": "0hf5dSccMPM",
+  "image": "FtrIcon/FtrCrsSocksWall.png"
  },
  {
   "itemName": "Tree Branch Wreath",
@@ -35374,6 +36053,12 @@
   "image": "FtrIcon/RoomSpWallGlass00.png"
  },
  {
+  "itemName": "Aurora Wall",
+  "internalName": "RoomSpWallAurora00",
+  "hex": "AtA5qwOCi3Y",
+  "image": "FtrIcon/RoomSpWallAurora00.png"
+ },
+ {
   "itemName": "Autumn Wall",
   "internalName": "RoomSpWallAutumun00",
   "hex": "yPpu4qZW4HQ",
@@ -35864,6 +36549,12 @@
   "internalName": "RoomTexWallChina00",
   "hex": "FzvE9bIYnOM",
   "image": "FtrIcon/RoomTexWallChina00.png"
+ },
+ {
+  "itemName": "Falling Snow Wall",
+  "internalName": "RoomSpWallSnowy00",
+  "hex": "iWy1yc9lnBc",
+  "image": "FtrIcon/RoomSpWallSnowy00.png"
  },
  {
   "itemName": "Fireworks Show Wall",
@@ -36680,6 +37371,12 @@
   "internalName": "RoomSpWallTropical00",
   "hex": "mjNuw47H2Bw",
   "image": "FtrIcon/RoomSpWallTropical00.png"
+ },
+ {
+  "itemName": "Turkey Day Wall",
+  "internalName": "RoomTexWallHarvest00",
+  "hex": "RvzVnHJgI7s",
+  "image": "FtrIcon/RoomTexWallHarvest00.png"
  },
  {
   "itemName": "Underwater Wall",
@@ -37840,6 +38537,12 @@
   "image": "FtrIcon/RoomTexFloorPlatform00.png"
  },
  {
+  "itemName": "Turkey Day Flooring",
+  "internalName": "RoomTexFloorHarvest00",
+  "hex": "7wOz3a7JxuM",
+  "image": "FtrIcon/RoomTexFloorHarvest00.png"
+ },
+ {
   "itemName": "Underwater Flooring",
   "internalName": "RoomSpFloorFishTank00",
   "hex": "yqAvRasHwyo",
@@ -38108,6 +38811,12 @@
   "internalName": "RugRoundEarthM00",
   "hex": "d9M2JCYjWpE",
   "image": "FtrIcon/RugRoundEarthM00.png"
+ },
+ {
+  "itemName": "Festive Rug",
+  "internalName": "RugSquareChristmasL00",
+  "hex": "fTfImzrQ3zY",
+  "image": "FtrIcon/RugSquareChristmasL00.png"
  },
  {
   "itemName": "Fish Rug",
@@ -38602,6 +39311,18 @@
   "image": "FtrIcon/RugSquareHalloweenL00.png"
  },
  {
+  "itemName": "Summer Shell Rug",
+  "internalName": "RugOtherShellSnailM00",
+  "hex": "e8c1Unz7QxU",
+  "image": "FtrIcon/RugOtherShellSnailM00.png"
+ },
+ {
+  "itemName": "Sunflower Rug",
+  "internalName": "RugOtherSunflowerM00",
+  "hex": "fcBwZxV3uQ8",
+  "image": "FtrIcon/RugOtherSunflowerM00.png"
+ },
+ {
   "itemName": "Tatami Mat",
   "internalName": "RugRectTatamiM00",
   "hex": "0K6772tqNlU",
@@ -38612,6 +39333,12 @@
   "internalName": "RugRoundIslandM00",
   "hex": "fVwKPPUKhkE",
   "image": "FtrIcon/RugRoundIslandM00.png"
+ },
+ {
+  "itemName": "Turkey Day Rug",
+  "internalName": "RugSquareHarvestL00",
+  "hex": "cF6QjygjJLY",
+  "image": "FtrIcon/RugSquareHarvestL00.png"
  },
  {
   "itemName": "Turquoise Heart Rug",
@@ -60636,6 +61363,62 @@
   "image": "FtrIcon/BromideNpcNmlOcp02_Remake_7_0.png"
  },
  {
+  "itemName": "Jingle's Photo",
+  "color": "Natural wood",
+  "internalName": "BromideNpcSpRei_Remake_0_0",
+  "hex": "oQpbo4vdjeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_0_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "Dark wood",
+  "internalName": "BromideNpcSpRei_Remake_1_0",
+  "hex": "oQpbo4vcjeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_1_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "Pastel",
+  "internalName": "BromideNpcSpRei_Remake_2_0",
+  "hex": "oQpbo4vfjeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_2_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "White",
+  "internalName": "BromideNpcSpRei_Remake_3_0",
+  "hex": "oQpbo4vejeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_3_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "Pop",
+  "internalName": "BromideNpcSpRei_Remake_4_0",
+  "hex": "oQpbo4vZjeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_4_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "Colorful",
+  "internalName": "BromideNpcSpRei_Remake_5_0",
+  "hex": "oQpbo4vYjeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_5_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "Silver",
+  "internalName": "BromideNpcSpRei_Remake_6_0",
+  "hex": "oQpbo4vbjeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_6_0.png"
+ },
+ {
+  "itemName": "Jingle's Photo",
+  "color": "Gold",
+  "internalName": "BromideNpcSpRei_Remake_7_0",
+  "hex": "oQpbo4vajeY",
+  "image": "FtrIcon/BromideNpcSpRei_Remake_7_0.png"
+ },
+ {
   "itemName": "Admiral's Poster",
   "internalName": "PosterNpcNmlBrd06",
   "hex": "jccvgwzZ1L0",
@@ -63970,6 +64753,12 @@
   "image": "FtrIcon/ToolStickYuri.png"
  },
  {
+  "itemName": "Magic Bag",
+  "internalName": "ToolBigbagPresent",
+  "hex": "6j9BfSRPoig",
+  "image": "MenuIcon/SantaSack.png"
+ },
+ {
   "itemName": "Mums Wand",
   "internalName": "ToolStickChrysanthemum",
   "hex": "3EfczcnRIy4",
@@ -64585,6 +65374,12 @@
   "internalName": "ToolSlingshot_Remake_7_0",
   "hex": "ZEcaLt9aHEU",
   "image": "FtrIcon/ToolSlingshot_Remake_7_0.png"
+ },
+ {
+  "itemName": "Sparkling Cider",
+  "internalName": "ToolJuiceFuzzyapple",
+  "hex": "ZJdXqTET81k",
+  "image": "FtrIcon/ToolJuiceFuzzyapple.png"
  },
  {
   "itemName": "Spooky Wand",
@@ -68825,6 +69620,12 @@
   "image": "FtrIcon/TopsTexTopTshirtsHMeme0.png"
  },
  {
+  "itemName": "Midwinter Sweater",
+  "internalName": "TopsTexTopOuterLWintersolstice0",
+  "hex": "KU721sv0lZA",
+  "image": "a.png"
+ },
+ {
   "itemName": "Military Uniform",
   "color": "White",
   "internalName": "TopsTexTopCoatLInfantry3",
@@ -70570,6 +71371,12 @@
   "internalName": "TopsTexTopCoatLSamurai2",
   "hex": "UeFdRpvcsgM",
   "image": "FtrIcon/TopsTexTopCoatLSamurai2.png"
+ },
+ {
+  "itemName": "Santa Coat",
+  "internalName": "TopsTexTopCoatLSantaRed",
+  "hex": "Pjb3ZVUXnTc",
+  "image": "ClosetIcon/TopsTexTopCoatLSantaRed.png"
  },
  {
   "itemName": "School Jacket",
@@ -72497,12 +73304,6 @@
   "internalName": "TopsTexTopYshirtsLWestern0",
   "hex": "6OTYbI9CrcI",
   "image": "FtrIcon/TopsTexTopYshirtsLWestern0.png"
- },
- {
-  "itemName": "Winter Solstice Sweater",
-  "internalName": "TopsTexTopOuterLWintersolstice0",
-  "hex": "JptqMxRRoDk",
-  "image": "a.png"
  },
  {
   "itemName": "Work Apron",
@@ -76557,6 +77358,12 @@
   "internalName": "BottomsTexSkirtAlineSailor4",
   "hex": "EhdumRoxjFc",
   "image": "FtrIcon/BottomsTexSkirtAlineSailor4.png"
+ },
+ {
+  "itemName": "Santa Pants",
+  "internalName": "BottomsTexPantsNormalSantaRed",
+  "hex": "7Eo9YPIki9o",
+  "image": "ClosetIcon/BottomsTexPantsNormalSantaRed.png"
  },
  {
   "itemName": "Satin Pants",
@@ -82619,6 +83426,12 @@
   "image": "FtrIcon/TopsTexOnepieceSalopetteLHalloween1.png"
  },
  {
+  "itemName": "Reindeer Costume",
+  "internalName": "TopsTexOnepieceOverallLReindeerBrown",
+  "hex": "nbtBCZGq54I",
+  "image": "ClosetIcon/TopsTexOnepieceOverallLReindeerBrown.png"
+ },
+ {
   "itemName": "Renaissance Dress",
   "color": "Red",
   "internalName": "TopsTexOnepieceAlongLRenaissance0",
@@ -87877,6 +88690,12 @@
   "image": "FtrIcon/CapHatRain7.png"
  },
  {
+  "itemName": "Reindeer Hat",
+  "internalName": "CapBangsReindeerBrown",
+  "hex": "l39QELn3y5U",
+  "image": "ClosetIcon/CapBangsReindeerBrown.png"
+ },
+ {
   "itemName": "Ribbon",
   "color": "White",
   "internalName": "CapOrnamentLRibbon6",
@@ -88089,6 +88908,12 @@
   "internalName": "CapWigSamurai",
   "hex": "c2HJqEFR1CM",
   "image": "FtrIcon/CapWigSamurai.png"
+ },
+ {
+  "itemName": "Santa Hat",
+  "internalName": "CapHatSantaRed",
+  "hex": "UnZRD8C3x7w",
+  "image": "ClosetIcon/CapHatSantaRed.png"
  },
  {
   "itemName": "Scholar's Hat",
@@ -88752,9 +89577,9 @@
   "image": "FtrIcon/CapHatStudent4.png"
  },
  {
-  "itemName": "Summer Solstice Crown",
+  "itemName": "Sunflower Crown",
   "internalName": "CapHatSummer0",
-  "hex": "HNabbgVULaE",
+  "hex": "xPVj67sJ1pE",
   "image": "FtrIcon/CapHatSummer0.png"
  },
  {
@@ -90715,6 +91540,12 @@
   "internalName": "AccessoryMouthBeardRoundBlack",
   "hex": "C34J0eZstGc",
   "image": "FtrIcon/AccessoryMouthBeardRoundBlack.png"
+ },
+ {
+  "itemName": "Santa Beard",
+  "internalName": "AccessoryMouthSanta",
+  "hex": "QApilhDE1rA",
+  "image": "ClosetIcon/AccessoryMouthSanta.png"
  },
  {
   "itemName": "Shattered Glasses",
@@ -101114,6 +101945,12 @@
   "image": "FtrIcon/ShellDriftTakara.png"
  },
  {
+  "itemName": "Cozy Turkey Day DIY",
+  "internalName": "FtrBookDIY",
+  "hex": "VguLqhw6yJU",
+  "image": "FtrIcon/DIYbookHarvest.png"
+ },
+ {
   "itemName": "Custom Design Path Permit",
   "internalName": "FtrGroundMakerMydesign",
   "hex": "8e1WS3n3i5c",
@@ -101123,13 +101960,13 @@
   "itemName": "Custom Design Pro Editor",
   "internalName": "HowtoBookMydesingPro",
   "hex": "O6jbYXlz764",
-  "image": "a.png"
+  "image": "MenuIcon/MyDesignPro.png"
  },
  {
   "itemName": "Customizable Phone Case Kit",
   "internalName": "SmartphoneCase",
   "hex": "5AWyppjScL4",
-  "image": "MenuIcon/SmartphoneCase.png"
+  "image": "FtrIcon/SmartphoneCase_Remake_0_0.png"
  },
  {
   "itemName": "Customization Kit x50",
@@ -101184,6 +102021,12 @@
   "internalName": "HowtoBookEyeColor",
   "hex": "k4BqqN0blUM",
   "image": "MenuIcon/HowtoBookHair.png"
+ },
+ {
+  "itemName": "Festive Wrapping Paper x10",
+  "internalName": "WPaperOrnament",
+  "hex": "gmLgrak01UU",
+  "image": "FtrIcon/WPaperOrnament.png"
  },
  {
   "itemName": "Fish Bait x10",
@@ -101297,6 +102140,12 @@
   "internalName": "Love",
   "hex": "1ICGCghbdsI",
   "image": "FtrIcon/Love.png"
+ },
+ {
+  "itemName": "Hip Reaction Collection",
+  "internalName": "HowtoBookReaction",
+  "hex": "JKfT4gRCJ5Q",
+  "image": "MenuIcon/HowtoBookExpansion.png"
  },
  {
   "itemName": "Holly Bush",
@@ -101481,7 +102330,7 @@
   "itemName": "Nook Miles Ticket x10",
   "internalName": "MilePlaneTicket",
   "hex": "I9rTnR1r37M",
-  "image": "MenuIcon/PlaneTicket.png"
+  "image": "FtrIcon/MilePlaneTicket.png"
  },
  {
   "itemName": "Old Tire",
@@ -101814,6 +102663,12 @@
   "image": "FtrIcon/PitfallSeed.png"
  },
  {
+  "itemName": "Pocket Camp Phone Case",
+  "internalName": "SmartphoneCaseComp",
+  "hex": "oHHEcnfsSSg",
+  "image": "FtrIcon/SmartphoneCaseComp.png"
+ },
+ {
   "itemName": "Pocket Organization Guide",
   "internalName": "HowtoBookPocketExpansion",
   "hex": "RO0fn2ZZono",
@@ -101823,7 +102678,7 @@
   "itemName": "Pretty Good Tools Recipes",
   "internalName": "DIYbookNormalTools",
   "hex": "nUNvhRwOFJ4",
-  "image": "MenuIcon/BookRecipe.png"
+  "image": "FtrIcon/DummyCraftingRecipe.png"
  },
  {
   "itemName": "Pumpkin Start x10",
@@ -102316,6 +103171,12 @@
   "internalName": "HowtoBookRingMenuUI",
   "hex": "Nm0rAUYsiR8",
   "image": "MenuIcon/HowtoBookExpansion.png"
+ },
+ {
+  "itemName": "Top 6 Stylish Hairstyles",
+  "internalName": "HowtoBookHairRock",
+  "hex": "sGf44YgRrC0",
+  "image": "MenuIcon/HowtoBookHair.png"
  },
  {
   "itemName": "Top 8 Cool Hairstyles",
